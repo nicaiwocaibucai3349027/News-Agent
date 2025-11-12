@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-12 05:21
+**最后更新时间**: 2025-11-12 06:11
+
+---
+
+## 🆕 最新更新 (2025-11-12 06:11)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [优步的Pinot查询改革：简化层和提高可观测性](https://www.infoq.cn/article/pU3d2OmFBxSKWLjUGdoP?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-12 14:00
+
+#### [AI Scientist 中的上下文动态优化与自我演进｜AICon北京](https://www.infoq.cn/article/hRLsrkS3YAcDXgKJFAy6?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-12 13:41
+
+#### [基于提示工程的人工智能如何支持软件测试](https://www.infoq.cn/article/WItoP0rrkgQECPHRtAq2?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-12 13:24
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [发动机零部件龙头拟8.85亿元收购亦高光电；英伟达间接供应商拟1.26亿元收购蓝海视界70%股权，跨界机器视觉；【并购一线】](https://www.tmtpost.com/7759823.html)
+**发布时间**: 2025-11-12 09:07
 
 ---
 
