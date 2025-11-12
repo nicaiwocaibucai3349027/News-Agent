@@ -1395,90 +1395,6 @@
       }
     },
     "Technology": {
-      "48d228786ece2e8ebe5f62bcf0d189776aaad165eeed38a9bae967ef140b8d3a": {
-        "title": "【产业互联网周报】《时代》公布年度发明榜单，宇树、DeepSeek上榜；AI相关债券已达1.2万亿美元，超越银行成投资级市场最大板块；AMD和OpenAI正在启动大规模AI算力扩建计划",
-        "link": "https://www.tmtpost.com/7719534.html",
-        "published_date": "Mon, 13 Oct 2025 15:55:00 GMT",
-        "first_seen": "2025-10-13T08:35:41.540949"
-      },
-      "792dc70c236aa9fd3ac99e474e608112272240c534baae59bf375509395c6234": {
-        "title": "10亿，又一投资美妆的基金来了",
-        "link": "https://www.tmtpost.com/7719527.html",
-        "published_date": "Mon, 13 Oct 2025 15:46:00 GMT",
-        "first_seen": "2025-10-13T08:35:41.540961"
-      },
-      "440efa93c19a5ddf5ec4671813382414214cea4ddb6c5436fe1217c779741a6f": {
-        "title": "10月13日A股分析：沪指微跌0.19%，两市成交额缩量1608亿，主力资金净流出460亿，小金属与贵金属成避风港",
-        "link": "https://www.tmtpost.com/7719476.html",
-        "published_date": "Mon, 13 Oct 2025 15:36:00 GMT",
-        "first_seen": "2025-10-13T08:35:41.540975"
-      },
-      "9d66bfdc3c09be9d3c907195518f1fab0830565548645d0f5f05673771c8181f": {
-        "title": "辉瑞首家妥协，美国降药价将如何影响全球创新药市场？",
-        "link": "https://www.tmtpost.com/7719439.html",
-        "published_date": "Mon, 13 Oct 2025 15:14:00 GMT",
-        "first_seen": "2025-10-13T08:35:41.540881"
-      },
-      "5d4dae127c3259de34841f386ada452d28be2467d83784a793ce17bc17897666": {
-        "title": "9块9成过去时，咖啡价格战卷到2块9",
-        "link": "https://www.tmtpost.com/7719475.html",
-        "published_date": "Mon, 13 Oct 2025 15:14:00 GMT",
-        "first_seen": "2025-10-13T08:35:41.540986"
-      },
-      "bdd23ccbc8df7819aae6a65831e78f8898057c163f51b8904c999d246032666d": {
-        "title": "滴普科技通过聆讯，驶入企业级AI蓝海暗流",
-        "link": "https://www.tmtpost.com/7719474.html",
-        "published_date": "Mon, 13 Oct 2025 15:14:00 GMT",
-        "first_seen": "2025-10-13T08:35:41.540910"
-      },
-      "d7030e0247af3a1d8482d54196340f8b996a311c305d6a4fc5d6aa06f1f08373": {
-        "title": "王老吉加多宝隔空互怼，凉茶争夺战蔓延至海外市场",
-        "link": "https://www.tmtpost.com/7719467.html",
-        "published_date": "Mon, 13 Oct 2025 14:52:00 GMT",
-        "first_seen": "2025-10-13T08:35:41.540996"
-      },
-      "3a34faa1fbe107d287101968660fe6165de49fa3a3a96649414669cb145f5ba5": {
-        "title": "Silicon Valley’s Secret to Innovation is Transfer of People: Says Former Stanford President",
-        "link": "https://www.tmtpost.com/7719445.html",
-        "published_date": "Mon, 13 Oct 2025 14:31:00 GMT",
-        "first_seen": "2025-10-13T08:35:41.541011"
-      },
-      "16449fac46a514bb8d39c74a1735a596b876a250ab30c4f2c62dac52a116f883": {
-        "title": "在投漫剧近2000部，超6成播放量不足100万？",
-        "link": "https://www.tmtpost.com/7719329.html",
-        "published_date": "Mon, 13 Oct 2025 13:44:00 GMT",
-        "first_seen": "2025-10-13T08:35:41.541022"
-      },
-      "ea081443865b339682e4b3b2d47aa1e55c68733f233b21378280c4e070ec569f": {
-        "title": "GitHub新增后量子SSH密钥交换算法，保障Git数据传输安全.",
-        "link": "https://www.infoq.cn/article/T1ZlDBzusarjiDqKMaUe?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 13 Oct 2025 15:00:00 GMT",
-        "first_seen": "2025-10-13T08:34:53.164825"
-      },
-      "98652d3b8707d6b4076ef9980b6d8e2b974378b5939851c355bb05bde6da45dd": {
-        "title": "为何底层数据湖决定了 AI Agent 的上限？",
-        "link": "https://www.infoq.cn/article/79ENi9gGC2JzoZBIrbaY?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 13 Oct 2025 14:58:00 GMT",
-        "first_seen": "2025-10-13T08:34:53.165330"
-      },
-      "25379cb1c90acc6c277d586da40ed2d34f981ea13c08602517814192e377bafd": {
-        "title": "从 “鬼探头惊魂”到“城市自由行”：自动驾驶如何靠数据、模型、软件破局？",
-        "link": "https://www.infoq.cn/article/UH1YXtF43XXw58EC9Oq8?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 13 Oct 2025 14:23:00 GMT",
-        "first_seen": "2025-10-13T08:34:53.166162"
-      },
-      "443542ad6974e29a90e34a7ef730fadd17b44a6cb000dada93e19a1c044f11e1": {
-        "title": "Meta发布了React 19.2，包括Activity API、Cache Signals和SSR增强特性",
-        "link": "https://www.infoq.cn/article/fGECiMZRNftJTES3wzbF?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 13 Oct 2025 14:06:00 GMT",
-        "first_seen": "2025-10-13T08:35:41.540929"
-      },
-      "6ee5ddfc53a64514b4d404a44fcf46b09063000a19d3a3f38a2c975a432ca8e6": {
-        "title": "为捕捉新视角提供更多可能：摄影师 Austin Mann 评 iPhone 17 Pro",
-        "link": "https://sspai.com/post/102934",
-        "published_date": "Mon, 13 Oct 2025 14:39:00 GMT",
-        "first_seen": "2025-10-13T08:34:53.168304"
-      },
       "27bda7e8cee6c4a1499d468a0611f46804357600b6253b9810bdcb5c21126005": {
         "title": "小米，再不反思就晚了",
         "link": "http://www.huxiu.com/article/4791228.html?f=wangzhan",
@@ -12218,13 +12134,139 @@
         "link": "https://www.tmtpost.com/7759823.html",
         "published_date": "Wed, 12 Nov 2025 09:07:00 GMT",
         "first_seen": "2025-11-12T06:11:06.004617"
+      },
+      "f136078f1f3e568aae46dfc9a0410be6a73e77b6693048d52098b33928bca423": {
+        "title": "对话元理智能张帆：为什么「商业强化学习」，才是 AI To B 的新出路",
+        "link": "http://www.geekpark.net/news/356333",
+        "published_date": "Wed, 12 Nov 2025 16:45:00 GMT",
+        "first_seen": "2025-11-12T08:55:34.409122"
+      },
+      "a11ff329f8df79e296fe6c35fdc387fafc201fb6aa919ee91311d6b201bb6ed5": {
+        "title": "China’s Moonshot AI Unveils Kimi K2 Thinking to Take on GPT-5 and Gemini",
+        "link": "https://www.tmtpost.com/7760800.html",
+        "published_date": "Wed, 12 Nov 2025 15:45:00 GMT",
+        "first_seen": "2025-11-12T08:55:34.409137"
+      },
+      "058df4a56ff71711b7077cb42063b3319d38f69fee8e02757401fd7c21a0118a": {
+        "title": "AI Management Emerges as Next Frontier as Bika.ai Seeks to Redefine \"Digital Labor\"",
+        "link": "https://www.tmtpost.com/7760790.html",
+        "published_date": "Wed, 12 Nov 2025 15:38:00 GMT",
+        "first_seen": "2025-11-12T08:55:34.409149"
+      },
+      "bc8c6bc34727a6a226933491f5cabf06555e9e881ad53b380db4af202661d0a4": {
+        "title": "11月12日A股分析：沪指险守4000点，两市成交缩量485亿，主力资金净流出超670亿，创新药概念成避风港",
+        "link": "https://www.tmtpost.com/7760717.html",
+        "published_date": "Wed, 12 Nov 2025 15:35:00 GMT",
+        "first_seen": "2025-11-12T08:55:34.409081"
+      },
+      "277b9428ac1982f053f86d1807af17f25995213f76b74d6294dce035ea2ef1c9": {
+        "title": "英伟达，盛极而衰？",
+        "link": "https://www.tmtpost.com/7760755.html",
+        "published_date": "Wed, 12 Nov 2025 15:28:00 GMT",
+        "first_seen": "2025-11-12T08:54:46.124635"
+      },
+      "97d2e542a6987ddb170aaac92ba8624ac7eb492359f3e70af974991606a80401": {
+        "title": "全球疫苗大失速",
+        "link": "https://www.tmtpost.com/7760156.html",
+        "published_date": "Wed, 12 Nov 2025 15:23:00 GMT",
+        "first_seen": "2025-11-12T08:54:46.124780"
+      },
+      "04220dab0c63750c6922161d91a609b1d1cec77b6a7b3a06a1c9c97c27d3703d": {
+        "title": "股价接近高点：腾讯不当“中国版巴菲特”",
+        "link": "https://www.tmtpost.com/7760605.html",
+        "published_date": "Wed, 12 Nov 2025 15:23:00 GMT",
+        "first_seen": "2025-11-12T08:55:34.409160"
+      },
+      "7a0a45d5d5b6cc7a4bccc0ad48bc0b1a8a2e213e00954636fc50cf4492d2084a": {
+        "title": "追觅的“梦想”实在太多了",
+        "link": "https://www.tmtpost.com/7760631.html",
+        "published_date": "Wed, 12 Nov 2025 15:23:00 GMT",
+        "first_seen": "2025-11-12T08:55:34.409170"
+      },
+      "79bc0e2c6be830584612e9bb3b1bd905e09c11e4b3206bce5124e172648721bd": {
+        "title": "失衡的乌托邦：Meta的开源AI路线是如何遭遇滑铁卢的",
+        "link": "https://www.tmtpost.com/7758294.html",
+        "published_date": "Wed, 12 Nov 2025 15:23:00 GMT",
+        "first_seen": "2025-11-12T08:55:34.409179"
+      },
+      "59f1b6f061eb2332093f4373cbfea88e89a1d45551d474adb7a7504634c6f5e2": {
+        "title": "挖矿中转，灿谷下一站AI基建？",
+        "link": "https://www.tmtpost.com/7759551.html",
+        "published_date": "Wed, 12 Nov 2025 15:23:00 GMT",
+        "first_seen": "2025-11-12T08:55:34.409187"
+      },
+      "f3488aed998405e37fe6433a3adecfb093de29624d038b18a2c6febcf0de5045": {
+        "title": "今年双11苹果继续霸榜，国产手机为何“隐身”了？",
+        "link": "https://www.tmtpost.com/7760707.html",
+        "published_date": "Wed, 12 Nov 2025 14:55:00 GMT",
+        "first_seen": "2025-11-12T08:55:34.409198"
+      },
+      "bd12b05f9664e31a6a5f8b5d916f972fbbaf8658e3e1932e8f17d9ad8d1521a5": {
+        "title": "AI短剧成本可降6成、漫剧可降8成！业内人士：AI短剧渗透率将达35%！",
+        "link": "https://www.tmtpost.com/7760248.html",
+        "published_date": "Wed, 12 Nov 2025 14:38:00 GMT",
+        "first_seen": "2025-11-12T08:54:46.127002"
+      },
+      "6c38514704a11fb7a3d6c88f4ef8526c572139b925eeab67d2ffe02464c329c8": {
+        "title": "B站的“AI赌局”",
+        "link": "https://www.tmtpost.com/7759529.html",
+        "published_date": "Wed, 12 Nov 2025 14:37:00 GMT",
+        "first_seen": "2025-11-12T08:54:46.127335"
+      },
+      "c83053c74c93012889c47ab36ef29ae2eb2f66b4183e461dfa625aeb375fee49": {
+        "title": "千言万语，不如一张回购的股票",
+        "link": "https://www.tmtpost.com/7759528.html",
+        "published_date": "Wed, 12 Nov 2025 14:37:00 GMT",
+        "first_seen": "2025-11-12T08:54:46.127737"
+      },
+      "4dcf6568d7edb2e50a21c59cbaeccb131f1344b062263497341c5014243e1908": {
+        "title": "微逆双雄，为何成了微逆“双熊”？",
+        "link": "https://www.tmtpost.com/7759717.html",
+        "published_date": "Wed, 12 Nov 2025 14:37:00 GMT",
+        "first_seen": "2025-11-12T08:54:46.128209"
+      },
+      "cdf68e956ed3a2d132a6a555dd5b73d85c771582d3a20ae5aa43e0b3b0501e09": {
+        "title": "别怕被淘汰！AI现在是，将来也永远只是人类的助手｜独家对话一线架构大佬 Christian Ciceri",
+        "link": "https://www.infoq.cn/article/S2OVBwGbcQ8ZWeMKO0PD?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 12 Nov 2025 15:30:00 GMT",
+        "first_seen": "2025-11-12T08:54:46.129311"
+      },
+      "6412e958f6b6a51fb7f59673019691360e0e87ce0ecb996dd7884160a80b8dae": {
+        "title": "Amazon Timestream for InfluxDB新增对InfluxDB 3核心版和企业版的支持",
+        "link": "https://www.infoq.cn/article/aGKuPSqGaleS1TeYvuDj?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 12 Nov 2025 15:00:00 GMT",
+        "first_seen": "2025-11-12T08:54:46.130515"
+      },
+      "1470fc749cadeeda169291edefc874feacf20502de14db5d3d40e794deaba3ba": {
+        "title": "Redis中的关键远程代码执行漏洞存在13年后终被发现",
+        "link": "https://www.infoq.cn/article/c3bWHcsfzvxfWtvsoN8v?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 12 Nov 2025 14:30:00 GMT",
+        "first_seen": "2025-11-12T08:54:46.131152"
+      },
+      "e32aad8881bcc05dd85ac3426fd262aa3973b45b3e90e4f325f1d10beadae1cc": {
+        "title": "关于核心训练，你可能一直有的误区",
+        "link": "https://sspai.com/prime/story/mistakes-in-core-trainings",
+        "published_date": "Wed, 12 Nov 2025 15:27:00 GMT",
+        "first_seen": "2025-11-12T08:54:46.131710"
+      },
+      "cc3eb6790849b0580d42722cd3b517b525b7a582acaae752c509c739ee7102e9": {
+        "title": "App+1｜基于「语境」的语言学习操作系统：Deja",
+        "link": "https://sspai.com/post/103582",
+        "published_date": "Wed, 12 Nov 2025 14:54:00 GMT",
+        "first_seen": "2025-11-12T08:55:34.409108"
+      },
+      "fbfffb44dcd1ae99fa486947e31d02c46202ffd48e227f8bbfb456d8fc9e0fe2": {
+        "title": "为什么巴菲特选择这时候谢幕？还要加速捐款？",
+        "link": "http://www.huxiu.com/article/4803721.html?f=wangzhan",
+        "published_date": "Wed, 12 Nov 2025 15:08:00 GMT",
+        "first_seen": "2025-11-12T08:54:46.133434"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-12T06:11:05.971068",
-    "Technology": "2025-11-12T06:11:06.045633",
-    "Finance": "2025-11-12T06:11:05.858591"
+    "AI": "2025-11-12T08:54:46.093136",
+    "Technology": "2025-11-12T08:55:34.430396",
+    "Finance": "2025-11-12T08:54:45.984825"
   }
 }

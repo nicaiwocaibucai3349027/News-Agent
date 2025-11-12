@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 12 Nov 2025 06:11:00 GMT</pubDate>
-    <lastBuildDate>Wed, 12 Nov 2025 06:11:06 GMT</lastBuildDate>
+    <pubDate>Wed, 12 Nov 2025 08:54:00 GMT</pubDate>
+    <lastBuildDate>Wed, 12 Nov 2025 08:55:34 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,35 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>优步的Pinot查询改革：简化层和提高可观测性</title>
-      <link>https://www.infoq.cn/article/pU3d2OmFBxSKWLjUGdoP?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[优步的Pinot查询改革：简化层和提高可观测性]]&gt;</description>
-      <pubDate>Wed, 12 Nov 2025 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/pU3d2OmFBxSKWLjUGdoP?utm_source=rss&amp;utm_medium=article</guid>
+      <title>11月12日A股分析：沪指险守4000点，两市成交缩量485亿，主力资金净流出超670亿，创新药概念成避风港</title>
+      <link>https://www.tmtpost.com/7760717.html</link>
+      <description>&lt;![CDATA[11月12日A股分析：沪指险守4000点，两市成交缩量485亿，主力资金净流出超670亿，创新药概念成避风港]]&gt;</description>
+      <pubDate>Wed, 12 Nov 2025 15:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7760717.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI Scientist 中的上下文动态优化与自我演进｜AICon北京</title>
-      <link>https://www.infoq.cn/article/hRLsrkS3YAcDXgKJFAy6?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI Scientist 中的上下文动态优化与自我演进｜AICon北京]]&gt;</description>
-      <pubDate>Wed, 12 Nov 2025 13:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/hRLsrkS3YAcDXgKJFAy6?utm_source=rss&amp;utm_medium=article</guid>
+      <title>App+1｜基于「语境」的语言学习操作系统：Deja</title>
+      <link>https://sspai.com/post/103582</link>
+      <description>&lt;![CDATA[App+1｜基于「语境」的语言学习操作系统：Deja]]&gt;</description>
+      <pubDate>Wed, 12 Nov 2025 14:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/103582</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>基于提示工程的人工智能如何支持软件测试</title>
-      <link>https://www.infoq.cn/article/WItoP0rrkgQECPHRtAq2?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[基于提示工程的人工智能如何支持软件测试]]&gt;</description>
-      <pubDate>Wed, 12 Nov 2025 13:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/WItoP0rrkgQECPHRtAq2?utm_source=rss&amp;utm_medium=article</guid>
+      <title>对话元理智能张帆：为什么「商业强化学习」，才是 AI To B 的新出路</title>
+      <link>http://www.geekpark.net/news/356333</link>
+      <description>&lt;![CDATA[对话元理智能张帆：为什么「商业强化学习」，才是 AI To B 的新出路]]&gt;</description>
+      <pubDate>Wed, 12 Nov 2025 16:45:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/356333</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>发动机零部件龙头拟8.85亿元收购亦高光电；英伟达间接供应商拟1.26亿元收购蓝海视界70%股权，跨界机器视觉；【并购一线】</title>
-      <link>https://www.tmtpost.com/7759823.html</link>
-      <description>&lt;![CDATA[发动机零部件龙头拟8.85亿元收购亦高光电；英伟达间接供应商拟1.26亿元收购蓝海视界70%股权，跨界机器视觉；【并购一线】]]&gt;</description>
-      <pubDate>Wed, 12 Nov 2025 09:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7759823.html</guid>
+      <title>China’s Moonshot AI Unveils Kimi K2 Thinking to Take on GPT-5 and Gemini</title>
+      <link>https://www.tmtpost.com/7760800.html</link>
+      <description>&lt;![CDATA[China’s Moonshot AI Unveils Kimi K2 Thinking to Take on GPT-5 and Gemini]]&gt;</description>
+      <pubDate>Wed, 12 Nov 2025 15:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7760800.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>AI Management Emerges as Next Frontier as Bika.ai Seeks to Redefine &quot;Digital Labor&quot;</title>
+      <link>https://www.tmtpost.com/7760790.html</link>
+      <description>&lt;![CDATA[AI Management Emerges as Next Frontier as Bika.ai Seeks to Redefine &quot;Digital Labor&quot;]]&gt;</description>
+      <pubDate>Wed, 12 Nov 2025 15:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7760790.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>股价接近高点：腾讯不当“中国版巴菲特”</title>
+      <link>https://www.tmtpost.com/7760605.html</link>
+      <description>&lt;![CDATA[股价接近高点：腾讯不当“中国版巴菲特”]]&gt;</description>
+      <pubDate>Wed, 12 Nov 2025 15:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7760605.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>追觅的“梦想”实在太多了</title>
+      <link>https://www.tmtpost.com/7760631.html</link>
+      <description>&lt;![CDATA[追觅的“梦想”实在太多了]]&gt;</description>
+      <pubDate>Wed, 12 Nov 2025 15:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7760631.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>失衡的乌托邦：Meta的开源AI路线是如何遭遇滑铁卢的</title>
+      <link>https://www.tmtpost.com/7758294.html</link>
+      <description>&lt;![CDATA[失衡的乌托邦：Meta的开源AI路线是如何遭遇滑铁卢的]]&gt;</description>
+      <pubDate>Wed, 12 Nov 2025 15:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7758294.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>挖矿中转，灿谷下一站AI基建？</title>
+      <link>https://www.tmtpost.com/7759551.html</link>
+      <description>&lt;![CDATA[挖矿中转，灿谷下一站AI基建？]]&gt;</description>
+      <pubDate>Wed, 12 Nov 2025 15:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7759551.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>今年双11苹果继续霸榜，国产手机为何“隐身”了？</title>
+      <link>https://www.tmtpost.com/7760707.html</link>
+      <description>&lt;![CDATA[今年双11苹果继续霸榜，国产手机为何“隐身”了？]]&gt;</description>
+      <pubDate>Wed, 12 Nov 2025 14:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7760707.html</guid>
       <category>Technology</category>
     </item>
   </channel>
