@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 16 Nov 2025 08:48:00 GMT</pubDate>
-    <lastBuildDate>Sun, 16 Nov 2025 08:48:19 GMT</lastBuildDate>
+    <pubDate>Sun, 16 Nov 2025 23:34:00 GMT</pubDate>
+    <lastBuildDate>Sun, 16 Nov 2025 23:35:51 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,43 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>自财报发布以来，PayPal股价已下跌14%</title>
-      <link>https://www.tmtpost.com/7766643.html</link>
-      <description>&lt;![CDATA[自财报发布以来，PayPal股价已下跌14%]]&gt;</description>
-      <pubDate>Sun, 16 Nov 2025 16:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7766643.html</guid>
+      <title>【钛晨报】增强消费品供需适配性，国常会重磅部署；苹果CEO库克被曝或于明年卸任；宇树科技IPO辅导完成</title>
+      <link>https://www.tmtpost.com/7766849.html</link>
+      <description>&lt;![CDATA[【钛晨报】增强消费品供需适配性，国常会重磅部署；苹果CEO库克被曝或于明年卸任；宇树科技IPO辅导完成]]&gt;</description>
+      <pubDate>Mon, 17 Nov 2025 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7766849.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>陈天桥的AI布局再下一子，推出最强AI长记忆操作系统</title>
-      <link>https://www.tmtpost.com/7766630.html</link>
-      <description>&lt;![CDATA[陈天桥的AI布局再下一子，推出最强AI长记忆操作系统]]&gt;</description>
-      <pubDate>Sun, 16 Nov 2025 15:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7766630.html</guid>
+      <title>研发费用率超30%，中微公司还能再进一步吗</title>
+      <link>https://www.tmtpost.com/7766710.html</link>
+      <description>&lt;![CDATA[研发费用率超30%，中微公司还能再进一步吗]]&gt;</description>
+      <pubDate>Sun, 16 Nov 2025 17:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7766710.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>站在30万辆的山脚下，岚图还要面对更陡峭的挑战</title>
-      <link>https://www.tmtpost.com/7766588.html</link>
-      <description>&lt;![CDATA[站在30万辆的山脚下，岚图还要面对更陡峭的挑战]]&gt;</description>
-      <pubDate>Sun, 16 Nov 2025 14:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7766588.html</guid>
+      <title>英伟达曾引领了人工智能板块的上涨潮，而其财报有望再次点燃这一热潮</title>
+      <link>https://www.tmtpost.com/7766953.html</link>
+      <description>&lt;![CDATA[英伟达曾引领了人工智能板块的上涨潮，而其财报有望再次点燃这一热潮]]&gt;</description>
+      <pubDate>Sun, 16 Nov 2025 22:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7766953.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2025全球互联网人才卓越计划研修班：AI治理拐点上的全球人才对话 | 巴伦精选</title>
-      <link>https://www.tmtpost.com/7766579.html</link>
-      <description>&lt;![CDATA[2025全球互联网人才卓越计划研修班：AI治理拐点上的全球人才对话 | 巴伦精选]]&gt;</description>
-      <pubDate>Sun, 16 Nov 2025 14:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7766579.html</guid>
+      <title>双十一急需增长：蒋凡有野心，淘天有压力</title>
+      <link>https://www.tmtpost.com/7766667.html</link>
+      <description>&lt;![CDATA[双十一急需增长：蒋凡有野心，淘天有压力]]&gt;</description>
+      <pubDate>Sun, 16 Nov 2025 19:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7766667.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>安谋科技发了一枚 NPU，要把 AIGC 算力提升 10 倍</title>
-      <link>http://www.geekpark.net/news/356458</link>
-      <description>&lt;![CDATA[安谋科技发了一枚 NPU，要把 AIGC 算力提升 10 倍]]&gt;</description>
-      <pubDate>Sun, 16 Nov 2025 15:22:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/356458</guid>
+      <title>隆基绿能，最近憋了哪些大招？</title>
+      <link>https://www.tmtpost.com/7766602.html</link>
+      <description>&lt;![CDATA[隆基绿能，最近憋了哪些大招？]]&gt;</description>
+      <pubDate>Sun, 16 Nov 2025 17:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7766602.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>禾赛机器人救场，但还不够？</title>
+      <link>https://www.tmtpost.com/7766489.html</link>
+      <description>&lt;![CDATA[禾赛机器人救场，但还不够？]]&gt;</description>
+      <pubDate>Sun, 16 Nov 2025 17:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7766489.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>AR四小龙，「危」机交织进行时</title>
+      <link>https://www.tmtpost.com/7766498.html</link>
+      <description>&lt;![CDATA[AR四小龙，「危」机交织进行时]]&gt;</description>
+      <pubDate>Sun, 16 Nov 2025 17:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7766498.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>从谷歌到寒武纪，挑战英伟达的两种路径</title>
+      <link>https://www.tmtpost.com/7766542.html</link>
+      <description>&lt;![CDATA[从谷歌到寒武纪，挑战英伟达的两种路径]]&gt;</description>
+      <pubDate>Sun, 16 Nov 2025 17:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7766542.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>做空英伟达的华尔街大空头，基金清盘了</title>
+      <link>https://www.tmtpost.com/7766592.html</link>
+      <description>&lt;![CDATA[做空英伟达的华尔街大空头，基金清盘了]]&gt;</description>
+      <pubDate>Sun, 16 Nov 2025 17:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7766592.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>解密AI“黄埔军校”，10人撑起700亿美元估值</title>
+      <link>https://www.tmtpost.com/7766650.html</link>
+      <description>&lt;![CDATA[解密AI“黄埔军校”，10人撑起700亿美元估值]]&gt;</description>
+      <pubDate>Sun, 16 Nov 2025 17:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7766650.html</guid>
       <category>Technology</category>
     </item>
   </channel>
