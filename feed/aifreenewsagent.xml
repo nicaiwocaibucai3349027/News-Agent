@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 15 Nov 2025 08:41:00 GMT</pubDate>
-    <lastBuildDate>Sat, 15 Nov 2025 08:42:12 GMT</lastBuildDate>
+    <pubDate>Sun, 16 Nov 2025 05:37:00 GMT</pubDate>
+    <lastBuildDate>Sun, 16 Nov 2025 05:37:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,19 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>李飞飞和LeCun的世界模型之争</title>
-      <link>https://www.qbitai.com/2025/11/352995.html</link>
-      <description>&lt;![CDATA[李飞飞和LeCun的世界模型之争]]&gt;</description>
-      <pubDate>Sat, 15 Nov 2025 06:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/352995.html</guid>
+      <title>ChatGPT爱用破折号是病，奥特曼刚宣布已经治好了</title>
+      <link>https://www.qbitai.com/2025/11/353144.html</link>
+      <description>&lt;![CDATA[ChatGPT爱用破折号是病，奥特曼刚宣布已经治好了]]&gt;</description>
+      <pubDate>Sun, 16 Nov 2025 05:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/353144.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>议程公布！2025人工智能+大会，图灵奖得主姚期智来啦！</title>
-      <link>https://www.qbitai.com/2025/11/352985.html</link>
-      <description>&lt;![CDATA[议程公布！2025人工智能+大会，图灵奖得主姚期智来啦！]]&gt;</description>
-      <pubDate>Sat, 15 Nov 2025 06:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/11/352985.html</guid>
+      <title>库克被曝最早明年让位CEO，“苹果AI已落后同行2年”</title>
+      <link>https://www.qbitai.com/2025/11/353022.html</link>
+      <description>&lt;![CDATA[库克被曝最早明年让位CEO，“苹果AI已落后同行2年”]]&gt;</description>
+      <pubDate>Sun, 16 Nov 2025 04:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/353022.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>小度AI眼镜Pro 2299元起售：这次把“超能小度”塞进了39g的眼镜里</title>
+      <link>https://www.qbitai.com/2025/11/353007.html</link>
+      <description>&lt;![CDATA[小度AI眼镜Pro 2299元起售：这次把“超能小度”塞进了39g的眼镜里]]&gt;</description>
+      <pubDate>Sun, 16 Nov 2025 03:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/11/353007.html</guid>
       <category>AI</category>
     </item>
   </channel>
