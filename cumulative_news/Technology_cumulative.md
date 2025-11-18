@@ -1,7 +1,85 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-17 23:32
+**最后更新时间**: 2025-11-18 05:53
+
+---
+
+## 🆕 最新更新 (2025-11-18 05:53)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [如何使用领域驱动设计和变革走私进行社会技术设计](https://www.infoq.cn/article/Fxe3GO2AZa9rCvwrYhSL?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-18 13:33
+
+#### [HashiCorp的新指南提供了编写和调整Terraform模块的实用建议](https://www.infoq.cn/article/oCS8hANZ1HZ705NvciIU?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-18 11:46
+
+#### [构建弹性平台：来自关键任务基础设施领域逾二十年经验的见解](https://www.infoq.cn/article/BZCdbNY0Xse69w8Wjpu3?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-18 11:18
+
+#### [Alibaba Dragonwell 21 AI 增强版：引爆 Java 在 AI 时代的性能潜能](https://www.infoq.cn/article/fkyQ6V4im3o2EYBmfsX8?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-18 09:48
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [鲍鱼、生蚝14.9元/盘，海底捞又盯上朱富贵们的生意？](https://www.tmtpost.com/7769612.html)
+**发布时间**: 2025-11-18 13:29
+
+#### [周锋能否激活中原银行万亿资产活力？](https://www.tmtpost.com/7769739.html)
+**发布时间**: 2025-11-18 13:29
+
+#### [综艺“跳槽”抖音？是救命稻草，还是蜕变新生？](https://www.tmtpost.com/7769754.html)
+**发布时间**: 2025-11-18 13:28
+
+#### [中国版《荒野求生》？林北、冷美人和“短视频的浪浪山”](https://www.tmtpost.com/7769721.html)
+**发布时间**: 2025-11-18 13:23
+
+#### [餐饮最卷的赛道，供应链巨头豪赌十年还是没啃下？](https://www.tmtpost.com/7769597.html)
+**发布时间**: 2025-11-18 13:18
+
+#### [高德美股价暴涨，这家医美公司凭什么值3000亿？](https://www.tmtpost.com/7769670.html)
+**发布时间**: 2025-11-18 13:14
+
+#### [又一拉面品牌降价入华，日本餐企集体抢滩中国](https://www.tmtpost.com/7769608.html)
+**发布时间**: 2025-11-18 13:07
+
+#### [酒店“跑步前进”产业园区](https://www.tmtpost.com/7769246.html)
+**发布时间**: 2025-11-18 11:18
+
+#### [特斯拉中国销量暴跌63%，马斯克遭遇滑铁卢](https://www.tmtpost.com/7767746.html)
+**发布时间**: 2025-11-18 11:11
+
+#### [K型消费](https://www.tmtpost.com/7769510.html)
+**发布时间**: 2025-11-18 11:06
+
+#### [当越来越多的人用机器人接电话，电话销售危险了](https://www.tmtpost.com/7769425.html)
+**发布时间**: 2025-11-18 11:02
+
+#### [明宇商旅“朋友圈”再扩容，“合纵连横”成腰部酒管新常态](https://www.tmtpost.com/7769367.html)
+**发布时间**: 2025-11-18 10:58
+
+#### [中资股IPO热潮下的暗涌](https://www.tmtpost.com/7769391.html)
+**发布时间**: 2025-11-18 10:56
+
+#### [二期数据价值百亿美金，抗流感爆款浮现背后](https://www.tmtpost.com/7769331.html)
+**发布时间**: 2025-11-18 10:56
+
+#### [巨头调仓曝光，伯克希尔､桥水等机构调仓换股，有何变化之处？](https://www.tmtpost.com/7769410.html)
+**发布时间**: 2025-11-18 10:56
+
+#### [“哈基米”带涨九阳股份？一场张冠李戴的资本狂欢](https://www.tmtpost.com/7769442.html)
+**发布时间**: 2025-11-18 10:47
+
+#### [茅台价格跌回十年前，大规模降价的茅台到底意味着什么？](https://www.tmtpost.com/7769277.html)
+**发布时间**: 2025-11-18 10:47
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [用 AI 生成互动游戏，让课本里的故事「活」起来](https://sspai.com/post/103811)
+**发布时间**: 2025-11-18 11:03
+
+#### [派早报：阿里巴巴千问 App 公测上线，紫光展锐发布 T9300 5G SoC 等](https://sspai.com/post/103901)
+**发布时间**: 2025-11-18 08:42
 
 ---
 
