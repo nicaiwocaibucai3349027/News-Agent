@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-18 05:53
+**最后更新时间**: 2025-11-18 08:53
+
+---
+
+## 🆕 最新更新 (2025-11-18 08:53)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [面向 Skills 的上下文工程 与 CodeBuddy Spec-Coding 的结合实战｜AICon北京](https://www.infoq.cn/article/dTiLHTDkoEyp942Y1xjZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-18 15:45
+
+#### [Go的新版Green Tea垃圾回收器可提高40%的性能](https://www.infoq.cn/article/ggy2L4CpL06zHoqUkTip?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-18 15:00
+
+#### [.NET 10正式发布，在性能、AI和开发者体验方面实现了重大改进](https://www.infoq.cn/article/bOM1CNczQT8ztBXDpd6s?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-18 14:30
+
+#### [马斯克抢先谷歌一步放大招，Grok 4.1登顶LMArena，创意写作直逼GPT-5.1](https://www.infoq.cn/article/HYWdG6vp0pWMIRrJQQAe?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-18 14:13
+
+#### [Cloudflare提出使用Merkle树证书来解决后量子时代的TLS性能问题](https://www.infoq.cn/article/a0kVhDoqu8Fxgg5M9Yd8?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-18 14:02
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [首周收入破400万，“克制投放”的《逆水寒》出海打法如何？](https://www.tmtpost.com/7770066.html)
+**发布时间**: 2025-11-18 15:40
+
+#### [谁还在买英伟达？](https://www.tmtpost.com/7769861.html)
+**发布时间**: 2025-11-18 15:40
+
+#### [AI漫剧爆火：内容革新还是IP速朽？](https://www.tmtpost.com/7769408.html)
+**发布时间**: 2025-11-18 15:39
+
+#### [2025年Q3混合休闲Top 10：硬币、停车题材新上榜，收入同比增长114%](https://www.tmtpost.com/7770048.html)
+**发布时间**: 2025-11-18 15:38
+
+#### [星尘智能完成数亿元A++轮融资 国科投资与蚂蚁集团联合领投，加速绳驱AI机器人规模化落地 | 融资速递](https://www.tmtpost.com/7769457.html)
+**发布时间**: 2025-11-18 15:06
+
+#### [材科源图获数千万元天使轮融资：头部资本战略入局，共创AI材料研发新范式 | 融资速递](https://www.tmtpost.com/7769966.html)
+**发布时间**: 2025-11-18 15:05
+
+#### [歌锐科技携“牛顿”智能内镜微创机器人亮相第十七届COA | 公司动态](https://www.tmtpost.com/7769714.html)
+**发布时间**: 2025-11-18 15:05
+
+#### [七位实控人集体筹划让位，华蓝集团业绩回暖期谋易主](https://www.tmtpost.com/7769902.html)
+**发布时间**: 2025-11-18 14:49
+
+#### [China's OLED Display Industry Enters a New Arms Race as TCL CSOT Pushes Printed OLED](https://www.tmtpost.com/7769884.html)
+**发布时间**: 2025-11-18 14:05
+
+#### [阿里巴巴，为何此时大做“千问APP”？](https://www.tmtpost.com/7769718.html)
+**发布时间**: 2025-11-18 13:42
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [中档价位真无线耳机横评与建议（2025 年终） - TDS 无心快语](https://sspai.com/post/103767)
+**发布时间**: 2025-11-18 15:00
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [高市早苗：丑陋的战争贩子、政治毒瘤](http://www.huxiu.com/article/4806247.html?f=wangzhan)
+**发布时间**: 2025-11-18 13:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [阿里千问公测，挑战 ChaGPT；京东上线独立外卖 App；贝佐斯出任 AI 初创公司 CEO](http://www.geekpark.net/news/356533)
+**发布时间**: 2025-11-18 08:32
 
 ---
 
