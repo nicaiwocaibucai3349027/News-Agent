@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 20 Nov 2025 05:40:00 GMT</pubDate>
-    <lastBuildDate>Thu, 20 Nov 2025 05:40:55 GMT</lastBuildDate>
+    <pubDate>Thu, 20 Nov 2025 08:52:00 GMT</pubDate>
+    <lastBuildDate>Thu, 20 Nov 2025 08:53:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>伴芯科技亮相ICCAD，AI智能体重构EDA，迈向芯片自主设计闭环 | 公司动态</title>
-      <link>https://www.tmtpost.com/7773276.html</link>
-      <description>&lt;![CDATA[伴芯科技亮相ICCAD，AI智能体重构EDA，迈向芯片自主设计闭环 | 公司动态]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 11:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7773276.html</guid>
+      <title>新加坡出行巨头 Grab 如何用 AutoMQ 重塑 Kafka 流平台</title>
+      <link>https://www.infoq.cn/article/lp3VOCztFMYNo2bCVt2C?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[新加坡出行巨头 Grab 如何用 AutoMQ 重塑 Kafka 流平台]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 16:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/lp3VOCztFMYNo2bCVt2C?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从需求到投标：数据驱动的智能技术方案生成 Agent 实战｜AICon北京</title>
-      <link>https://www.infoq.cn/article/33Aozr1sH9J8gj7UxBfu?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从需求到投标：数据驱动的智能技术方案生成 Agent 实战｜AICon北京]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 13:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/33Aozr1sH9J8gj7UxBfu?utm_source=rss&amp;utm_medium=article</guid>
+      <title>WebAssembly 3.0 发布，64 位内存、垃圾回收全都有，先别激动，组件模型还没做完！</title>
+      <link>https://www.infoq.cn/article/GXafcQPIxv1N1Hj20q8t?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[WebAssembly 3.0 发布，64 位内存、垃圾回收全都有，先别激动，组件模型还没做完！]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 16:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/GXafcQPIxv1N1Hj20q8t?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DynamoDB DNS系统中的竞争条件：分析AWS US-EAST-1中断事件</title>
-      <link>https://www.infoq.cn/article/WHWkaM1p5olbFVGVo6SK?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[DynamoDB DNS系统中的竞争条件：分析AWS US-EAST-1中断事件]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/WHWkaM1p5olbFVGVo6SK?utm_source=rss&amp;utm_medium=article</guid>
+      <title>征程再启，剑指桂冠 | 云谷杯·2025 人工智能应用创新创业大赛复赛顺利举⾏</title>
+      <link>https://www.infoq.cn/article/MbkcNlIDLbIPxtLX7iZl?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[征程再启，剑指桂冠 | 云谷杯·2025 人工智能应用创新创业大赛复赛顺利举⾏]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 14:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/MbkcNlIDLbIPxtLX7iZl?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从小就开始投喂资金支持？深圳金融科技企业杀疯了</title>
-      <link>http://www.huxiu.com/article/4807360.html?f=wangzhan</link>
-      <description>&lt;![CDATA[从小就开始投喂资金支持？深圳金融科技企业杀疯了]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 11:38:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4807360.html?f=wangzhan</guid>
+      <title>字节张楠、张宏江、田渊栋······极客公园创新大会 2026 嘉宾阵容更新！</title>
+      <link>http://www.geekpark.net/news/356673</link>
+      <description>&lt;![CDATA[字节张楠、张宏江、田渊栋······极客公园创新大会 2026 嘉宾阵容更新！]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 16:33:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/356673</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>人形机器人，是不是点错了科技树？</title>
-      <link>http://www.huxiu.com/article/4807136.html?f=wangzhan</link>
-      <description>&lt;![CDATA[人形机器人，是不是点错了科技树？]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4807136.html?f=wangzhan</guid>
+      <title>光伏下半场：光储协同、体系出海、技术融合丨行业风向标</title>
+      <link>https://www.tmtpost.com/7773783.html</link>
+      <description>&lt;![CDATA[光伏下半场：光储协同、体系出海、技术融合丨行业风向标]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 14:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7773783.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Anthropic为Claude Code添加了沙箱和Web访问功能，以实现更安全的AI驱动编码</title>
-      <link>https://www.infoq.cn/article/7RA5wkyTy6i3NapcOP4Q?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Anthropic为Claude Code添加了沙箱和Web访问功能，以实现更安全的AI驱动编码]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/7RA5wkyTy6i3NapcOP4Q?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Redis源代码中存在潜伏13年的10级漏洞，可能允许远程代码执行</title>
+      <link>https://www.infoq.cn/article/HNfN4wwNHlkE7JsT3sV7?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Redis源代码中存在潜伏13年的10级漏洞，可能允许远程代码执行]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 16:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/HNfN4wwNHlkE7JsT3sV7?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Monzo基于BigQuery和微服务的实时欺诈检测架构</title>
-      <link>https://www.infoq.cn/article/E3OFF8UcN4NQQmGRKd9b?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Monzo基于BigQuery和微服务的实时欺诈检测架构]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 11:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/E3OFF8UcN4NQQmGRKd9b?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Meta 用一个烂 Web 应用替换原生 WhatsApp：Windows 用户活该将就？</title>
+      <link>https://www.infoq.cn/article/8M7jEXAvzGNRFCaiUXO5?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Meta 用一个烂 Web 应用替换原生 WhatsApp：Windows 用户活该将就？]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 15:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/8M7jEXAvzGNRFCaiUXO5?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从检测到通用感知：构建空间智能的基础</title>
-      <link>https://www.infoq.cn/article/HIiucAp3Wi5yvqYoVFGv?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从检测到通用感知：构建空间智能的基础]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/HIiucAp3Wi5yvqYoVFGv?utm_source=rss&amp;utm_medium=article</guid>
+      <title>LLM 没意思，小扎决策太拉垮，图灵奖大佬 LeCun 离职做 AMI</title>
+      <link>https://www.infoq.cn/article/YyXpLPJwazKxww4craMv?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[LLM 没意思，小扎决策太拉垮，图灵奖大佬 LeCun 离职做 AMI]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 15:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/YyXpLPJwazKxww4craMv?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>融合风控知识的大模型体系建设与应用实践</title>
-      <link>https://www.infoq.cn/article/xJTe5bBq2bbQSMv9p7Gp?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[融合风控知识的大模型体系建设与应用实践]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/xJTe5bBq2bbQSMv9p7Gp?utm_source=rss&amp;utm_medium=article</guid>
+      <title>谷歌预览Code Wiki：你能信任AI来记录你的代码库吗？</title>
+      <link>https://www.infoq.cn/article/Xh50z4ehHKu7oIMTPNov?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌预览Code Wiki：你能信任AI来记录你的代码库吗？]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 15:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Xh50z4ehHKu7oIMTPNov?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>中车携手飞桨文心：以AI赋能高铁发展，锻造智造新标杆</title>
-      <link>https://www.infoq.cn/article/ds7oIRrHmflvZHoKoPKq?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[中车携手飞桨文心：以AI赋能高铁发展，锻造智造新标杆]]&gt;</description>
-      <pubDate>Thu, 20 Nov 2025 10:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ds7oIRrHmflvZHoKoPKq?utm_source=rss&amp;utm_medium=article</guid>
+      <title>React 基金会负责人谈框架的下一步发展</title>
+      <link>https://www.infoq.cn/article/w6Pm4uhGMJa7XzxHyu1z?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[React 基金会负责人谈框架的下一步发展]]&gt;</description>
+      <pubDate>Thu, 20 Nov 2025 15:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/w6Pm4uhGMJa7XzxHyu1z?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
