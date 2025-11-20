@@ -1,7 +1,83 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-20 08:52
+**最后更新时间**: 2025-11-20 23:31
+
+---
+
+## 🆕 最新更新 (2025-11-20 23:31)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】何立峰：持续推动外贸提质增效，打通全国统一大市场建设卡点堵点；涉及上下班途中、居家工作等，这些情形可认定工伤；摩尔线程：首次公开发行股票并在科创板上市，发行股份数量为7000万股](https://www.tmtpost.com/7774636.html)
+**发布时间**: 2025-11-21 07:20
+
+#### [Google Launches Gemini 3-Backed Image Generation Model Nano Banana Pro](https://www.tmtpost.com/7774785.html)
+**发布时间**: 2025-11-21 01:00
+
+#### [巴克莱最新研究报告：OpenAI算力需求持续激增，2028年支出将达到1100亿美元的峰值 | 巴伦精选](https://www.tmtpost.com/7774772.html)
+**发布时间**: 2025-11-21 00:14
+
+#### [全脑智能崛起，黑芝麻智能如何破解机器人“量产难题”？](https://www.tmtpost.com/7774488.html)
+**发布时间**: 2025-11-20 20:56
+
+#### [“泡沫”噪声中，英伟达的“现实”与黄仁勋的“狂想”](https://www.tmtpost.com/7773974.html)
+**发布时间**: 2025-11-20 19:20
+
+#### [《疯狂动物城2》明星配音争议，为何愈演愈烈？](https://www.tmtpost.com/7774346.html)
+**发布时间**: 2025-11-20 19:20
+
+#### [阿里“千问”面世，AI入口争夺战升级](https://www.tmtpost.com/7773946.html)
+**发布时间**: 2025-11-20 19:20
+
+#### [与马斯克10年太空争霸，贝索斯终于扳回一城](https://www.tmtpost.com/7773772.html)
+**发布时间**: 2025-11-20 18:42
+
+#### [大疆“扩疆”，影石、拓竹、追觅攻守不一](https://www.tmtpost.com/7774040.html)
+**发布时间**: 2025-11-20 18:42
+
+#### [英伟达暂时让全世界松了一口气](https://www.tmtpost.com/7774153.html)
+**发布时间**: 2025-11-20 18:42
+
+#### [AI眼镜站上C位，但“百镜大战”还没进入下半场](https://www.tmtpost.com/7773730.html)
+**发布时间**: 2025-11-20 18:42
+
+#### [Gemini 3闪击硅谷，ChatGPT 5.1pro连夜升级，反扑谷歌](https://www.tmtpost.com/7774089.html)
+**发布时间**: 2025-11-20 18:42
+
+#### [具身开放日点燃生态引擎，智源以开源开放驱动具身智能创新](https://www.tmtpost.com/7774317.html)
+**发布时间**: 2025-11-20 18:16
+
+#### [工程化的长期主义：OceanBase十五年沉淀，如何成为AI时代的数据基石？](https://www.tmtpost.com/7773658.html)
+**发布时间**: 2025-11-20 17:35
+
+#### [双抗百亿美元时代，谁领跑下一轮？](https://www.tmtpost.com/7773622.html)
+**发布时间**: 2025-11-20 17:26
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [避孕套滞销、玩具销量翻倍，当代年轻人不再需要“双人成行”？](http://www.huxiu.com/article/4807653.html?f=wangzhan)
+**发布时间**: 2025-11-20 18:24
+
+#### [雷军连发三博，只为一份“安全感”](http://www.huxiu.com/article/4807480.html?f=wangzhan)
+**发布时间**: 2025-11-20 16:30
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [OpenAI 的「群聊」，可能比你想得更重要！](http://www.geekpark.net/news/356681)
+**发布时间**: 2025-11-20 18:19
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 227｜少数派的编辑们最近买了啥？](https://sspai.com/post/103969)
+**发布时间**: 2025-11-20 17:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Linus 谈 AI 与氛围编程：入门挺好，用在生产就“会很惨”](https://www.infoq.cn/article/635itl7moKzBs7qaP0gu?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-20 17:14
+
+#### [Meta将把React迁移到Linux基金会](https://www.infoq.cn/article/wm34HWHJqjEdSoxBjfXu?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-20 17:11
 
 ---
 
