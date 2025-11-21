@@ -1,7 +1,89 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-21 05:41
+**最后更新时间**: 2025-11-21 08:52
+
+---
+
+## 🆕 最新更新 (2025-11-21 08:52)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [日本餐饮品牌，在中国市场猛猛赚钱？](https://www.tmtpost.com/7775915.html)
+**发布时间**: 2025-11-21 16:33
+
+#### [对AI持续下重注：快手的梦想照进现实了吗？](https://www.tmtpost.com/7775916.html)
+**发布时间**: 2025-11-21 16:33
+
+#### [门店缩水过半、倒闭……一批泰餐品牌开始走下坡路](https://www.tmtpost.com/7775905.html)
+**发布时间**: 2025-11-21 16:28
+
+#### [荃银高科获超22亿要约收购背后，解决同业竞争迫在眉睫](https://www.tmtpost.com/7775783.html)
+**发布时间**: 2025-11-21 16:23
+
+#### [高阶智驾卷到15万级，汽车市场的新一轮淘汰赛开始了](https://www.tmtpost.com/7775944.html)
+**发布时间**: 2025-11-21 16:17
+
+#### [Trina Solar Confirms Founder's Daughter to Marry Chagee CEO](https://www.tmtpost.com/7776053.html)
+**发布时间**: 2025-11-21 16:13
+
+#### [MaaS，命悬一“线” | 巴伦精选](https://www.tmtpost.com/7776022.html)
+**发布时间**: 2025-11-21 15:55
+
+#### [透明计算的十年闹剧](https://www.tmtpost.com/7775685.html)
+**发布时间**: 2025-11-21 15:10
+
+#### [对话杨元庆：AI不存在泡沫，2026年存储芯片价格还会持续上涨](https://www.tmtpost.com/7775840.html)
+**发布时间**: 2025-11-21 15:04
+
+#### [口服“增高药”，不再是智商税？](https://www.tmtpost.com/7775781.html)
+**发布时间**: 2025-11-21 15:02
+
+#### [WeMakePrice破产，数万卖家货款被“清零”](https://www.tmtpost.com/7775707.html)
+**发布时间**: 2025-11-21 14:55
+
+#### [俞敏洪毕竟不是于东来](https://www.tmtpost.com/7775658.html)
+**发布时间**: 2025-11-21 14:53
+
+#### [搞笑诺贝尔：科学界的邪修盛宴](https://www.tmtpost.com/7775678.html)
+**发布时间**: 2025-11-21 14:52
+
+#### [24％曾被裁，2025美国游戏从业者平均年薪过百万，40%已投简历超100份](https://www.tmtpost.com/7775823.html)
+**发布时间**: 2025-11-21 14:46
+
+#### [光伏CTO聚首蓉城，以创新破局能源未来](https://www.tmtpost.com/7775756.html)
+**发布时间**: 2025-11-21 14:09
+
+#### [DJI's Investment Signals a Coming of Age for Consumer 3D Printing](https://www.tmtpost.com/7775792.html)
+**发布时间**: 2025-11-21 14:01
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从“拼工具”到“造流水线”：有道音视频翻译升级一站式 AI 工作台](https://www.infoq.cn/article/MH31ImCRsNERwJgN2jdu?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-21 16:04
+
+#### [腾讯开源轻量级视频生成模型HunyuanVideo 1.5，消费级显卡可部署](https://www.infoq.cn/article/SVO2eO7PSqhV91jTskOr?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-21 14:44
+
+#### [Kiro正式可用，系列核心功能迎来升级](https://www.infoq.cn/article/mLc6BbCTTEFSlC69yUMR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-21 14:29
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [​「数字分身」白菜价：每月 998 元，雇一个 AI 帮你直播 8 小时](http://www.geekpark.net/news/356718)
+**发布时间**: 2025-11-21 15:08
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [一日一技 | 让 Mac 邮箱也用上自动化摘要](https://sspai.com/post/103972)
+**发布时间**: 2025-11-21 15:02
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [精准三刀砍中日本经济命门，日本能撑多久？](http://www.huxiu.com/article/4807685.html?f=wangzhan)
+**发布时间**: 2025-11-21 15:00
+
+#### [改款不仅是为了进化，还有勿忘旧人｜阿维塔07深度体验](http://www.huxiu.com/article/4807369.html?f=wangzhan)
+**发布时间**: 2025-11-21 13:00
 
 ---
 
