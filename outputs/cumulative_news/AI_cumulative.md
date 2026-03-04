@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-03-04 08:41
+**最后更新时间**: 2026-03-04 23:24
+
+---
+
+## 🆕 最新更新 (2026-03-04 23:24)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Teaching LLMs to reason like Bayesians](https://research.google/blog/teaching-llms-to-reason-like-bayesians/)
+**发布时间**: 2026-03-04 20:29
 
 ---
 
