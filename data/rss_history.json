@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "abdd7f501f59d3a487acdb7ebf86087ded16ddf3054580671c5d5518e11e867d": {
-        "title": "昨夜，OpenAI 祭出首个实时编码模型，没用英伟达芯片！谷歌重磅更新 Deep Think，姚顺宇参与",
-        "link": "https://www.infoq.cn/article/re3CXNqi9tyPH4lIOohq?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 13 Feb 2026 16:01:00 GMT",
-        "first_seen": "2026-02-13T08:47:57.475515"
-      },
-      "e48c8b89a87eacab39d2e0e10166d2459bee7dd3806ea8b56fe6b0d883e0e91d": {
-        "title": "Xcode 26.3 扩展支持编程智能体，可接入 Claude Agent、Codex 等",
-        "link": "https://www.infoq.cn/article/39BuXj6WpGFqPERk4X9x?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 13 Feb 2026 12:00:00 GMT",
-        "first_seen": "2026-02-13T08:47:57.475527"
-      },
-      "8b94102bd557110dc6375ddb3fb14c4d7a03f315d7d38022a1f15a6755dedeb5": {
-        "title": "OpenAI 指 DeepSeek 通过对美模型进行“蒸馏”来训练 AI，内部备忘录披露",
-        "link": "https://www.tmtpost.com/7879369.html",
-        "published_date": "Fri, 13 Feb 2026 15:12:00 GMT",
-        "first_seen": "2026-02-13T08:47:57.475530"
-      },
-      "15a31a60408ce0b46e42e78319c3ae2ccde77fad5510153d54d69fc04f5be9a6": {
-        "title": "Conductor Quantum 推出量子计算自然语言交互接口 Coda",
-        "link": "https://www.infoq.cn/article/zxyv3HhCW1qkEIi44JBP?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 13 Feb 2026 08:00:00 GMT",
-        "first_seen": "2026-02-13T08:47:57.475532"
-      },
-      "6d7b91bd679b7a523de6b0e8f1abc2dc8e7e02732451d61471de5ab2c0d10697": {
-        "title": "大模型来了，为什么端到端的智能工厂还没有？",
-        "link": "https://www.tmtpost.com/7879106.html",
-        "published_date": "Fri, 13 Feb 2026 14:07:00 GMT",
-        "first_seen": "2026-02-13T08:47:57.475534"
-      },
       "41fbb9a7983cc07551db681dde97fe08b9ff6a4c2599cdb89b960a7c882f4b29": {
         "title": "广东33兆瓦虚拟电厂闯入现货市场，全国电力交易规则正在重写",
         "link": "https://www.tmtpost.com/7879796.html",
@@ -5785,15 +5755,63 @@
         "link": "https://www.tmtpost.com/7914792.html",
         "published_date": "Sun, 15 Mar 2026 13:45:00 GMT",
         "first_seen": "2026-03-15T08:30:50.570410"
+      },
+      "50a59c0ff8ef7a710da4ec03d22fc2c9b01584904bf994050e1abd58b674c1d3": {
+        "title": "Grab 工程实践：将 LRU 升级为 TLRU，Android 图片缓存节省 50MB+",
+        "link": "https://www.infoq.cn/article/yu3vmzOKiqHXhwfXty41?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 15 Mar 2026 22:40:00 GMT",
+        "first_seen": "2026-03-15T23:23:05.110374"
+      },
+      "66cff93eb343fd1664e8e2685c5b53235135d51ac550a7f2539d235de999042f": {
+        "title": "孕期免疫激活影响后代大脑：《Brain, Behavior, and Immunity》新研究，揭示3个关键发现",
+        "link": "https://www.tmtpost.com/7914830.html",
+        "published_date": "Sun, 15 Mar 2026 18:18:00 GMT",
+        "first_seen": "2026-03-15T23:23:05.110384"
+      },
+      "39d84de04a28488914f54d1d36d503889177d6b0da472bb7e2c32373796d58a1": {
+        "title": "AI将省出5300亿、淘汰一半人，“生死存亡”时刻，腾爱优芒红果提出什么新需求？",
+        "link": "https://www.tmtpost.com/7914747.html",
+        "published_date": "Sun, 15 Mar 2026 18:15:00 GMT",
+        "first_seen": "2026-03-15T23:23:05.110387"
+      },
+      "f5aa96d37e877c36678b83d5595af175f2ae6baf6e2fbfd775482f6bc53bd04d": {
+        "title": "月薪两万都养不起“龙虾”？为啥“龙虾”这么贵？",
+        "link": "https://www.tmtpost.com/7914734.html",
+        "published_date": "Sun, 15 Mar 2026 18:15:00 GMT",
+        "first_seen": "2026-03-15T23:23:05.110389"
+      },
+      "6faf8916b1a7dcc23074c27e80f49e5bcc4ecaa62489905551e0dac06413c26d": {
+        "title": "头号Anthropic黑马斯克，决定把xAI变成Anthropic",
+        "link": "https://www.tmtpost.com/7914775.html",
+        "published_date": "Sun, 15 Mar 2026 18:15:00 GMT",
+        "first_seen": "2026-03-15T23:23:05.110390"
+      },
+      "fc422fdbd407ff780729c8e864e853e2bd5c2a15759cda14f7291ffd350e2730": {
+        "title": "拆解全球首款手机“龙虾”应用，云端“捷径”能走多远？",
+        "link": "https://www.tmtpost.com/7914755.html",
+        "published_date": "Sun, 15 Mar 2026 18:10:00 GMT",
+        "first_seen": "2026-03-15T23:23:05.110392"
+      },
+      "46636289bc8739065364073727f914583f3357d96eee9d6a6a8187649b0fdeb3": {
+        "title": "腾讯“养虾”建厂：不止卖铲，意在收租",
+        "link": "https://www.tmtpost.com/7914774.html",
+        "published_date": "Sun, 15 Mar 2026 18:10:00 GMT",
+        "first_seen": "2026-03-15T23:23:05.110394"
+      },
+      "ddf66d3e5b06e3b951fab8080604b791650ca7f8971c698d965ab702d4ce61a5": {
+        "title": "玛莎拉蒂母公司Stellantis接洽小米小鹏投资？能双赢吗",
+        "link": "http://www.huxiu.com/article/4842120.html?f=wangzhan",
+        "published_date": "Sun, 15 Mar 2026 10:30:00 GMT",
+        "first_seen": "2026-03-15T23:23:05.110395"
+      },
+      "4dc462fa454e396129346a4c0cec6ffcbafefcf70c33d4fd86a0d7d14ef35d44": {
+        "title": "老破小正在回暖，还是被抛弃？",
+        "link": "http://www.huxiu.com/article/4841654.html?f=wangzhan",
+        "published_date": "Sun, 15 Mar 2026 10:00:00 GMT",
+        "first_seen": "2026-03-15T23:23:05.110396"
       }
     },
     "Finance": {
-      "f405514814da90aab17e28d773d17d834b665fc674c5f0ddf3cb0d6ae2a0003e": {
-        "title": "Britons and Europeans bumping into each other makes Heathrow feel crowded, says boss",
-        "link": "https://www.ft.com/content/5dcd7e85-f8ee-4e5a-9606-9e316cc23d53",
-        "published_date": "Fri, 13 Feb 2026 07:00:00 GMT",
-        "first_seen": "2026-02-13T08:47:57.506873"
-      },
       "79320df1f72ff711acf9ee9cfd5d60f433452240f96948b471a556d453fed1a0": {
         "title": "Amazon’s stock just clinched its worst losing streak in nearly 20 years. It’s giving investors AWS déjà vu.",
         "link": "https://www.marketwatch.com/story/amazons-stock-just-clinched-its-worst-losing-streak-in-nearly-two-decades-its-giving-investors-aws-deja-vu-2f239fe3?mod=mw_rss_topstories",
@@ -8841,39 +8859,111 @@
         "link": "https://www.ft.com/content/4dd2173b-b283-41e4-8dee-4f04919dea68",
         "published_date": "Sat, 14 Mar 2026 23:48:00 GMT",
         "first_seen": "2026-03-15T06:03:22.147261"
+      },
+      "6ddf201bb6788e8d187b01b818859269af58299507c4a6ba7fc2cb1a732826f4": {
+        "title": "U.S. stock futures bounce back, oil climbs as investors weigh developments in Iran conflict",
+        "link": "https://www.marketwatch.com/story/u-s-stock-futures-dip-oil-climbs-again-as-investors-brace-for-escalation-of-iran-conflict-6034ee1e?mod=mw_rss_topstories",
+        "published_date": "Sun, 15 Mar 2026 23:17:00 GMT",
+        "first_seen": "2026-03-15T23:23:05.201192"
+      },
+      "208b1b6e20e60d43daa3a81af06299cb258d87cf003259299d0d3743591281af": {
+        "title": "It was unthinkable a couple of weeks ago, but could the next move by the Fed be a rate hike?",
+        "link": "https://www.marketwatch.com/story/it-was-unthinkable-a-couple-of-weeks-ago-but-could-the-next-move-by-the-fed-be-a-rate-hike-dc5e1edb?mod=mw_rss_topstories",
+        "published_date": "Sun, 15 Mar 2026 20:11:00 GMT",
+        "first_seen": "2026-03-15T23:23:05.201200"
+      },
+      "9278f0bcb9da652ccd9d4be16022bca483f63d1b74927a496b3a572971177d1f": {
+        "title": "The financial sector is sending some spooky technical signals about the stock market",
+        "link": "https://www.marketwatch.com/story/the-financial-sector-is-sending-some-spooky-technical-signals-about-the-stock-market-683d1343?mod=mw_rss_topstories",
+        "published_date": "Sun, 15 Mar 2026 19:54:00 GMT",
+        "first_seen": "2026-03-15T23:23:05.201203"
+      },
+      "cba2e057b6dc56c6f7785dd4b953d7ba60eb0cc9c895e67bc380f165a68bfd03": {
+        "title": "Nvidia’s big GTC event is on deck, and the company faces a very high bar this year",
+        "link": "https://www.marketwatch.com/story/nvidias-big-gtc-event-is-on-deck-and-the-company-faces-a-very-high-bar-this-year-8927e906?mod=mw_rss_topstories",
+        "published_date": "Sun, 15 Mar 2026 19:45:00 GMT",
+        "first_seen": "2026-03-15T23:23:05.201204"
+      },
+      "bc34596a488ce49c6697baddde809b960021c08908f1b68659f4430935adadd1": {
+        "title": "‘It’s all about oil’: FedEx’s transportation costs will be key to this week’s earnings",
+        "link": "https://www.marketwatch.com/story/its-all-about-oil-as-fedex-kicks-off-earnings-this-week-f11d6b48?mod=mw_rss_topstories",
+        "published_date": "Sun, 15 Mar 2026 19:41:00 GMT",
+        "first_seen": "2026-03-15T23:23:05.201206"
+      },
+      "0bc05efba1cf597b68f3fe617063a56e5af8b5b156a072c18ed7869333fa15e9": {
+        "title": "Individual investors are chasing oil’s surge amid Iran conflict; institutions are thinking about what comes next",
+        "link": "https://www.marketwatch.com/story/individual-investors-are-chasing-oils-iran-conflict-surge-institutions-are-thinking-what-comes-next-1b3dda7b?mod=mw_rss_topstories",
+        "published_date": "Sun, 15 Mar 2026 19:18:00 GMT",
+        "first_seen": "2026-03-15T23:23:05.201207"
+      },
+      "71156d7f68fa553e77cf8753de0c3a7d6544d2363496af70d86c099db899a79d": {
+        "title": "Panic is slowly gripping the stock market. Expect the selling to pick up this week.",
+        "link": "https://www.marketwatch.com/story/panic-is-slowly-gripping-the-stock-market-expect-the-selling-to-pick-up-next-week-dc422e90?mod=mw_rss_topstories",
+        "published_date": "Sun, 15 Mar 2026 19:14:00 GMT",
+        "first_seen": "2026-03-15T23:23:05.201209"
+      },
+      "068d2c50a59d9f5312eed37a0195fe66f490c15729cb03afb7030a576bca1056": {
+        "title": "Start on your bucket list now, says the Oscar-nominated director of the film ‘Retirement Plan’",
+        "link": "https://www.marketwatch.com/story/how-to-tackle-your-bucket-list-before-its-too-late-according-to-the-oscar-nominated-director-of-the-film-retirement-plan-5f1772f5?mod=mw_rss_topstories",
+        "published_date": "Sun, 15 Mar 2026 17:22:00 GMT",
+        "first_seen": "2026-03-15T23:23:05.201211"
+      },
+      "730af6072232d14bd5c366100d6a4fe83f653af701c763c04d4020bf3fbfc9aa": {
+        "title": "These parents retired in their 30s and 40s while raising young kids. Here’s how they pulled it off.",
+        "link": "https://www.marketwatch.com/story/these-parents-retired-in-their-30s-and-40s-while-raising-young-kids-heres-how-they-pulled-off-the-impossible-593968bd?mod=mw_rss_topstories",
+        "published_date": "Sun, 15 Mar 2026 17:20:00 GMT",
+        "first_seen": "2026-03-15T23:23:05.201212"
+      },
+      "a01f139bed74cd20d726c849a8e7157980c516ab676b72e545c850817f7313de": {
+        "title": "Is a $130 Costco executive membership the new VIP status symbol?",
+        "link": "https://www.marketwatch.com/story/is-a-130-costco-executive-membership-the-new-vip-status-7d7585f5?mod=mw_rss_topstories",
+        "published_date": "Sun, 15 Mar 2026 15:18:00 GMT",
+        "first_seen": "2026-03-15T23:23:05.201214"
+      },
+      "f49cf4002a076ed50ee86b43076eb0d36d2dd424336bb54ed77543eeae86a393": {
+        "title": "Trump warns Nato faces ‘very bad future’ if allies fail to help US in Iran",
+        "link": "https://www.ft.com/content/1ca6d121-760b-4ec5-b6ad-514fdaa94873",
+        "published_date": "Sun, 15 Mar 2026 23:05:00 GMT",
+        "first_seen": "2026-03-15T23:23:05.201215"
+      },
+      "dbe0619c3693f11e92af43158793fbe5fdb13640465b19e898535994193b85c3": {
+        "title": "Oil prices jump nearly 3 per cent as markets open for trading",
+        "link": "https://www.ft.com/content/4dd2173b-b283-41e4-8dee-4f04919dea68",
+        "published_date": "Sun, 15 Mar 2026 22:46:00 GMT",
+        "first_seen": "2026-03-15T23:23:05.201216"
+      },
+      "190a87f974c09bfd5adf935b2d7e2b68b050bf413773cdd6d013c8c58be6c5a6": {
+        "title": "Starmer to set out £50mn energy support package to ease Iran war fallout",
+        "link": "https://www.ft.com/content/603847c6-d9ad-431f-afd5-a23e0a1e5a1a",
+        "published_date": "Sun, 15 Mar 2026 22:30:00 GMT",
+        "first_seen": "2026-03-15T23:23:05.201218"
+      },
+      "c1dbe9d0ef335960fb02243c2a08c96b93ca6f022359d2e5bd1e6ef235aee625": {
+        "title": "India hails talks with Iran to open Strait of Hormuz",
+        "link": "https://www.ft.com/content/c8ef2abd-964d-4b8a-8dab-3a7a25055f53",
+        "published_date": "Sun, 15 Mar 2026 18:11:00 GMT",
+        "first_seen": "2026-03-15T23:23:05.201219"
+      },
+      "5e106c310d491b1d7143f9b1d518c0738e4f7fb004ab2f740b83aec9a199324b": {
+        "title": "UK polo patrons linked to laundering of Venezuelan oil sale proceeds, says US Treasury",
+        "link": "https://www.ft.com/content/95cdbbce-6e16-4fb0-8d91-d5afc8154f4b",
+        "published_date": "Sun, 15 Mar 2026 15:03:00 GMT",
+        "first_seen": "2026-03-15T23:23:05.201220"
+      },
+      "74e7b61ac63244b4b82a27fa18f4bb56d8fa563ef4abc8ca2e6d3d0a639ee9e5": {
+        "title": "Iran war should prompt a North Sea rethink",
+        "link": "https://www.ft.com/content/568039e3-4707-4ad7-98b7-fb0df57d4667",
+        "published_date": "Sun, 15 Mar 2026 12:00:00 GMT",
+        "first_seen": "2026-03-15T23:23:05.201222"
+      },
+      "386512d2f9439b7a56d5f388e5515408e892e4a9236b93c1dd42818edde82b3c": {
+        "title": "Zelenskyy challenges Europe over Russian oil imports",
+        "link": "https://www.ft.com/content/9e7dc3e6-e79d-4a9b-adc3-ab4c7a7ad552",
+        "published_date": "Sun, 15 Mar 2026 10:16:00 GMT",
+        "first_seen": "2026-03-15T23:23:05.201223"
       }
     },
     "Ai": {
-      "7b75aba184513c149c8fb5952517c1d5ad1dd17af5e7ec36f9715cbda15c3170": {
-        "title": "视觉强≠能干活！清北普林斯顿等开源WorldArena，世界模型评测被颠覆",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-13-7",
-        "published_date": "Fri, 13 Feb 2026 16:36:00 GMT",
-        "first_seen": "2026-02-13T08:48:10.873464"
-      },
-      "13cf51ac2a30676d74916c4e31abd812be06271edc421e9cb62e51e9858104f0": {
-        "title": "刚刚Gemini上新模型，全球只有7人比它会编程，谷歌姚顺宇参与",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-13-2",
-        "published_date": "Fri, 13 Feb 2026 15:56:00 GMT",
-        "first_seen": "2026-02-13T08:48:10.873471"
-      },
-      "284edc6e2d86e6ae9b5395ae027680173867f05b74a55f3fa1eb718924044487": {
-        "title": "开源多模态推理「破壁」时刻：MMFineReason助力4B逆袭30B",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-13-6",
-        "published_date": "Fri, 13 Feb 2026 16:20:00 GMT",
-        "first_seen": "2026-02-13T08:48:10.873473"
-      },
-      "fe7c7bd4968f0b1fb689666eefd0af0daac07a4088112af8390ed4ef7a7910d1": {
-        "title": "我们离Coding领域的「AGI时刻」还有多远？字节跳动Seed发布NL2Repo-Bench仓库级长程代码生成基准",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-13",
-        "published_date": "Fri, 13 Feb 2026 15:48:00 GMT",
-        "first_seen": "2026-02-13T08:48:10.873475"
-      },
-      "3bb1f45e729220c489f2da003147a4dc6cfe38d783b313c34d3199bada5fa586": {
-        "title": "上智院等提出首个邻接感知细胞实例分割框架Disco，高密度场景PQ提升7.08%",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-13-4",
-        "published_date": "Fri, 13 Feb 2026 14:16:00 GMT",
-        "first_seen": "2026-02-13T08:48:10.873476"
-      },
       "1d3a567bffeda318d812312e964006e5041ffdce08b1616432119b54ddc64fb3": {
         "title": "SSI-Bench：首个「约束流形」空间智能基准，把大模型拉回真实3D结构世界",
         "link": "https://www.jiqizhixin.com/articles/2026-02-13-9",
@@ -10324,8 +10414,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-15T08:30:50.570412",
-    "Finance": "2026-03-15T06:03:22.147264",
+    "Technology": "2026-03-15T23:23:05.110399",
+    "Finance": "2026-03-15T23:23:05.201226",
     "Ai": "2026-03-15T08:30:50.744468"
   }
 }
