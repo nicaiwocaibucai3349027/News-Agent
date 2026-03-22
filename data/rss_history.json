@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "96b1ac393c42e05518427585cf793c1e3495f9a8f63dc8ed362426b3e2ff799d": {
-        "title": "禁⽤Claude、强推自研：亚马逊打响AI生态主权战",
-        "link": "https://www.tmtpost.com/7885379.html",
-        "published_date": "Fri, 20 Feb 2026 09:45:00 GMT",
-        "first_seen": "2026-02-20T05:55:28.105844"
-      },
-      "c2667df02aec227abd37368e5bab72ca3f60c5defc6f6af2a0f6a74b52b730a0": {
-        "title": "字节豆包2.0重磅发布！成本暴降一个数量级，Seed团队揭秘视频Agent竞争关键",
-        "link": "https://www.infoq.cn/article/Kcqq2ifEZCJaK8o0TxN1?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 20 Feb 2026 11:58:00 GMT",
-        "first_seen": "2026-02-20T05:55:28.105851"
-      },
-      "7b8335bdc661bdbe7648cb1bccca9cc9b78fa905d8f0f9bb4e9a8fa0aa1f9041": {
-        "title": "代码界新王登基！Gemini 3.1 Pro血洗Claude与GPT，12项基准测试第一！",
-        "link": "https://www.infoq.cn/article/Ic69NzLCGqQ6HRuCligh?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 20 Feb 2026 09:19:00 GMT",
-        "first_seen": "2026-02-20T05:55:28.105853"
-      },
-      "10cf9b24ebadb975d60993282aff5f9b94942c17d19235a6347fa3a24a544fcf": {
-        "title": "别被「百模大战」骗了",
-        "link": "https://www.tmtpost.com/7885106.html",
-        "published_date": "Fri, 20 Feb 2026 10:30:00 GMT",
-        "first_seen": "2026-02-20T05:55:28.105855"
-      },
-      "c23acc2288fb1f1d366aee5b3195f0ed1e90f66055d317ac5dd3e436dec3e9cd": {
-        "title": "“软件比白领更先被 AI 击穿”！Anthropic CEO 最新改口，反讽马斯克危言耸听，两大佬隔空互掐",
-        "link": "https://www.infoq.cn/article/auecWVTgm3Eh8lo5PK8U?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 20 Feb 2026 12:01:00 GMT",
-        "first_seen": "2026-02-20T05:55:28.105857"
-      },
       "bc41dce8d10cb1c597cc266025479b80697b41dc8af9b59ab0945fe3329dc818": {
         "title": "Firestore添加了管道操作，提供了超过100个新的查询功能",
         "link": "https://www.infoq.cn/article/t9ORmgH3AUBsYygo04pd?utm_source=rss&utm_medium=article",
@@ -7741,39 +7711,57 @@
         "link": "https://www.infoq.cn/article/ia7cifkMwDqYjd1FsdEQ?utm_source=rss&utm_medium=article",
         "published_date": "Sun, 22 Mar 2026 08:00:00 GMT",
         "first_seen": "2026-03-22T05:49:01.894486"
+      },
+      "dab5bc4e63d69ae8ae71f0da6add61d77478105e43199db7bd42c8c101d335b6": {
+        "title": "从 0 到 1 微信接入 OpenClaw 小龙虾，图文教程来了。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532383&idx=1&sn=fa95a6a8fbff7454c819f3eae40a9d5f",
+        "published_date": "Sun, 22 Mar 2026 15:34:00 GMT",
+        "first_seen": "2026-03-22T08:27:29.725390"
+      },
+      "7fa2433683345c5cd18b29e5aef15fd57998316ac9170b3e1c7a012cff3bbacc": {
+        "title": "腾讯AI合二为一，姚顺雨第一个大模型混元3.0稳了？",
+        "link": "https://www.tmtpost.com/7924258.html",
+        "published_date": "Sun, 22 Mar 2026 14:58:00 GMT",
+        "first_seen": "2026-03-22T08:27:29.725402"
+      },
+      "20c06e7c6509e8b0eb05936daa5eee3d1f6252f2b717d1313047cc3cc66898d6": {
+        "title": "宇树科技IPO：当“全球第一”遇上科创板，一场关于机器人商业化的压力测试",
+        "link": "https://www.tmtpost.com/7924277.html",
+        "published_date": "Sun, 22 Mar 2026 14:58:00 GMT",
+        "first_seen": "2026-03-22T08:27:29.725405"
+      },
+      "a482a6169e52fbc12fcde105c747af64ec24b7ec895f416d03b75341b7cdefa2": {
+        "title": "小龙虾“夺舍”史",
+        "link": "https://www.tmtpost.com/7924237.html",
+        "published_date": "Sun, 22 Mar 2026 14:42:00 GMT",
+        "first_seen": "2026-03-22T08:27:29.725407"
+      },
+      "2a7e237cb1e8cb316bc77dab27336928b6504cfd30b1969286c87bfd4ef26624": {
+        "title": "当一个女人决定私有化通用AI",
+        "link": "https://www.tmtpost.com/7924236.html",
+        "published_date": "Sun, 22 Mar 2026 14:42:00 GMT",
+        "first_seen": "2026-03-22T08:27:29.725409"
+      },
+      "194d2807d144f4a4f9624e1babf2bddafd27acf19666ee311193d8b0f4018db0": {
+        "title": "AI狂潮冷思考：当模型沦为水电煤，巨头的真正战场在哪？",
+        "link": "https://www.tmtpost.com/7924190.html",
+        "published_date": "Sun, 22 Mar 2026 14:42:00 GMT",
+        "first_seen": "2026-03-22T08:27:29.725410"
+      },
+      "e64a223c0590319652ddaea00b74849360f96daf13b8d8262c82a55e47e089cb": {
+        "title": "空间智能时代，百亿裸眼3D显示排位战开启",
+        "link": "https://www.tmtpost.com/7924179.html",
+        "published_date": "Sun, 22 Mar 2026 14:27:00 GMT",
+        "first_seen": "2026-03-22T08:27:29.725412"
+      },
+      "fac3d87d5f5df1c4393dab6e69418d858e1781f078d2f48087b343c6f50a0146": {
+        "title": "用十年手机相册，记录颐和园的日夜春秋",
+        "link": "https://sspai.com/post/107010",
+        "published_date": "Sun, 22 Mar 2026 14:35:00 GMT",
+        "first_seen": "2026-03-22T08:27:29.725413"
       }
     },
     "Finance": {
-      "093424bd343cdd10fe8609e66a1d4eda7218cb570a4fa6ad1396878207941de0": {
-        "title": "Nvidia and OpenAI abandon unfinished $100bn deal in favour of $30bn investment",
-        "link": "https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323",
-        "published_date": "Fri, 20 Feb 2026 00:14:00 GMT",
-        "first_seen": "2026-02-20T05:55:15.173575"
-      },
-      "cb20e37652a767a32611823cdf94a124f65b69e657a72fc62d1c5bb7e6693445": {
-        "title": "Reasons to worry about America’s investment position with the rest of the world",
-        "link": "https://www.ft.com/content/8333387f-d23f-4fa8-b16d-365ff11a18ef",
-        "published_date": "Fri, 20 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-20T05:55:15.173584"
-      },
-      "bd11cad033bbba2d165371fa9b1d6f097e04df8f18ed7f8b5b99477c99588792": {
-        "title": "Investors pour record sums into European stocks",
-        "link": "https://www.ft.com/content/80173261-2b72-41f7-9eae-490aabb14623",
-        "published_date": "Fri, 20 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-20T05:55:15.173587"
-      },
-      "4fa5f0bac0d74f2f86b26f7a5639288075efb8f7ff0b0f20f24a646b8aeae38a": {
-        "title": "Dear ChatGPT, please construct me an optimal portfolio",
-        "link": "https://www.ft.com/content/000d33c8-efc5-46cc-a213-e153b3f6a250",
-        "published_date": "Fri, 20 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-20T05:55:15.173589"
-      },
-      "adea0de813ae88801f20c119242868e8051951ae5bc0f17112ed0d53987d390a": {
-        "title": "Dave Lewis plans executive overhaul at ‘fat and happy’ Diageo",
-        "link": "https://www.ft.com/content/cb0fb809-6b6f-4417-9164-e4e19c9cee85",
-        "published_date": "Fri, 20 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-20T05:55:15.173591"
-      },
       "b1c388bf3171ad1bf0ec7fd362534ecc91ddafeba896eaffde1bf9a3680684ff": {
         "title": "UK swings to record £30.4bn budget surplus in January",
         "link": "https://www.ft.com/content/03a830d8-6baf-4f22-8e14-758ec449b291",
@@ -11619,21 +11607,15 @@
         "link": "https://www.ft.com/content/a0e724d8-8f21-4ef4-811a-5a1be06d647e",
         "published_date": "Sun, 22 Mar 2026 00:10:00 GMT",
         "first_seen": "2026-03-22T05:49:01.964315"
+      },
+      "babe178c34a4047193693b072829b5606a8de452ee596b5bd8e27a3674230b74": {
+        "title": "China touts itself as ‘harbour of stability’ to global CEOs",
+        "link": "https://www.ft.com/content/53f9a706-ec15-4f0c-9b4f-71a6f3fc72e1",
+        "published_date": "Sun, 22 Mar 2026 06:23:00 GMT",
+        "first_seen": "2026-03-22T08:27:29.765563"
       }
     },
     "Ai": {
-      "01d88574339add0915cf6bd0b55b0ec6b406d7488269308e8d9a2c6c22333297": {
-        "title": "谷歌夺回王座：Gemini 3.1 Pro来了！姚顺宇：后面还有更好的",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-20",
-        "published_date": "Fri, 20 Feb 2026 08:53:00 GMT",
-        "first_seen": "2026-02-20T05:55:15.335622"
-      },
-      "0fe93b82b8b3c027d0f90762e4d59fee29490b6ce8f1dce3a0efffca4eef3278": {
-        "title": "谷歌突发Gemini 3.1 Pro！首次采用「.1」版本号，推理性能×2的那种",
-        "link": "https://www.qbitai.com/2026/02/381460.html",
-        "published_date": "Fri, 20 Feb 2026 01:25:00 GMT",
-        "first_seen": "2026-02-20T05:55:15.335629"
-      },
       "4b607c1d640d95fda9438e8e1b26a8bdf77203672044752fd1e707417987c293": {
         "title": "从AlphaGo到DeepSeek R1，推理的未来将走向何方？",
         "link": "https://www.jiqizhixin.com/articles/2026-02-20-5",
@@ -13073,13 +13055,31 @@
         "link": "https://ai.hubtoday.app//2026-03/2026-03-22/",
         "published_date": "Sun, 22 Mar 2026 09:40:00 GMT",
         "first_seen": "2026-03-22T05:49:02.111047"
+      },
+      "df02aef32fe0f89b1e6d94f600fa95f005c924f23a8025dffe776a4910602e8b": {
+        "title": "浙大团队破解多模态模型「盲目自信」：先校准置信度，再分配算力丨CVPR’26",
+        "link": "https://www.qbitai.com/2026/03/391014.html",
+        "published_date": "Sun, 22 Mar 2026 07:17:00 GMT",
+        "first_seen": "2026-03-22T08:27:29.922710"
+      },
+      "1eaea9180185188ddbc6d658d9a48428fe339c88263e9b24282451049fb6afd0": {
+        "title": "阶跃星辰率先适配微信生态，StepClaw“龙虾”即插即养即用",
+        "link": "https://www.qbitai.com/2026/03/391010.html",
+        "published_date": "Sun, 22 Mar 2026 07:09:00 GMT",
+        "first_seen": "2026-03-22T08:27:29.922717"
+      },
+      "bb4ba4034057391ba9dcdfaf1d19fcba8e897d92dce3e9d2d2b87475f22c3476": {
+        "title": "大厂抢郭达雅进行时！DeepSeek核心成员还是个“综艺巨佬”",
+        "link": "https://www.qbitai.com/2026/03/390990.html",
+        "published_date": "Sun, 22 Mar 2026 07:03:00 GMT",
+        "first_seen": "2026-03-22T08:27:29.922720"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-22T05:49:01.894488",
-    "Finance": "2026-03-22T05:49:01.964317",
-    "Ai": "2026-03-22T05:49:02.111054"
+    "Technology": "2026-03-22T08:27:29.725416",
+    "Finance": "2026-03-22T08:27:29.765571",
+    "Ai": "2026-03-22T08:27:29.922721"
   }
 }
