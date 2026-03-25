@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "5419f1f0d121fa98ab596ded6521ac8e461aef6962aecb8878ec4377bd3a800a": {
-        "title": "DeepMind 运作模式曝光！暗示根本没输 OpenAI：员工20% 时间重启创新，保守巨头直接变 “实验狂”",
-        "link": "https://www.infoq.cn/article/IIY8A1V05cpP614yjFRD?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 23 Feb 2026 15:36:00 GMT",
-        "first_seen": "2026-02-23T08:53:32.208791"
-      },
-      "a462572de57160e3977e8a0c9d12bc93e5f999a413e80442bebe535f28c540ef": {
-        "title": "为什么别人用AI 是企业增长的印钞机，而你只当高级搜索用？",
-        "link": "https://www.tmtpost.com/7887138.html",
-        "published_date": "Mon, 23 Feb 2026 15:04:00 GMT",
-        "first_seen": "2026-02-23T08:53:32.208799"
-      },
-      "2cef4fb083d1b6035f4abba2c2d8c92014c7a3bc014e05840179de0372e19eea": {
-        "title": "炒股2025总结：低频次出手，如何一年翻三倍？",
-        "link": "http://www.huxiu.com/article/4834710.html?f=wangzhan",
-        "published_date": "Mon, 23 Feb 2026 08:00:00 GMT",
-        "first_seen": "2026-02-23T08:53:32.208801"
-      },
-      "8a0d2dca6c11b4d6a576dc6b9bebab5c79ab7783e4c80151f861ae981db024d4": {
-        "title": "一代人有一代人的《我爱我家》",
-        "link": "https://www.tmtpost.com/7887008.html",
-        "published_date": "Mon, 23 Feb 2026 11:04:00 GMT",
-        "first_seen": "2026-02-23T08:53:32.208802"
-      },
-      "885447399dc36a4b6fbf7456526365c22388d1b0e7288c84a461590ad7e78c6a": {
-        "title": "没有“哪吒”的春节档，退回八年前",
-        "link": "https://www.tmtpost.com/7886942.html",
-        "published_date": "Mon, 23 Feb 2026 08:00:00 GMT",
-        "first_seen": "2026-02-23T08:53:32.208804"
-      },
       "7790ea6348d70bfa1382a6d637a125be57aedec926ec4888bd9c1c6154c7a891": {
         "title": "“邪修”AI芯片的Taalas，成色如何？｜AGI焦点",
         "link": "https://www.tmtpost.com/7887595.html",
@@ -8671,15 +8641,135 @@
         "link": "http://www.huxiu.com/article/4842768.html?f=wangzhan",
         "published_date": "Wed, 25 Mar 2026 07:14:00 GMT",
         "first_seen": "2026-03-25T08:41:51.740948"
+      },
+      "0614b2a23d18c3047206f5bbd1a4f5a13f094bd3e8265085171f2530c1c892a2": {
+        "title": "影石再次回应大疆起诉，影翎融资进程或被诉案波及 ｜钛媒体出海参考",
+        "link": "https://www.tmtpost.com/7928897.html",
+        "published_date": "Wed, 25 Mar 2026 21:34:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.251489"
+      },
+      "e1cc6a8f64bfb9211322f712da340c7e43fb035dcd7448dba4a8bde28353eb85": {
+        "title": "Practical Playbooks for Putting AI into Action at IBM and Schneider Electric in China",
+        "link": "https://www.tmtpost.com/7929217.html",
+        "published_date": "Wed, 25 Mar 2026 21:19:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.251501"
+      },
+      "b14188ec061fb5becbe16de50cc116cab177f7372adb883c2a0fc38ff7c8acbc": {
+        "title": "光象科技半年融资超 1 亿元， IDG资本领投天使轮｜融资速递",
+        "link": "https://www.tmtpost.com/7929167.html",
+        "published_date": "Wed, 25 Mar 2026 21:14:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.251503"
+      },
+      "83e10a43e183e71bbec7936687bb4c28e25af78e8526b4f80d5b8d4583745aa9": {
+        "title": "50 亿龙头折戟 IPO 后被并购：广和通跨界收购背后的增长焦虑与野心丨并购一线",
+        "link": "https://www.tmtpost.com/7929130.html",
+        "published_date": "Wed, 25 Mar 2026 20:04:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.251505"
+      },
+      "2393e8e2dde7c153fd4c1b469783a02faaf73f895d6adeeff180f210f82a8110": {
+        "title": "5倍AI应用牛股易点天下增收不增利，赴港IPO前实控人携创业伙伴套现4.45亿 | 看财报",
+        "link": "https://www.tmtpost.com/7929135.html",
+        "published_date": "Wed, 25 Mar 2026 19:47:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.251507"
+      },
+      "08a01a719fb8053a60be8a2cdf345c6fd7dbc36d5a753a92581f7ae0ee74d620": {
+        "title": "杀入千元机，华为新品欲拿回中低端？",
+        "link": "https://www.tmtpost.com/7927262.html",
+        "published_date": "Wed, 25 Mar 2026 19:24:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.251508"
+      },
+      "76a06158ec7ba938844f1f9f9d3dadfdb52b2fb100d67c84e01d3ea47a5c8f7a": {
+        "title": "地产酒店的万达“样本”",
+        "link": "https://www.tmtpost.com/7927924.html",
+        "published_date": "Wed, 25 Mar 2026 19:19:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.251510"
+      },
+      "b4d5c5e22519fcb7cb4d1351635e3cfc231a75a8677eda402e82fd9b28c6ac04": {
+        "title": "中国通用大模型十强争霸：谁配得上“第一”这个称号？",
+        "link": "https://www.tmtpost.com/7928697.html",
+        "published_date": "Wed, 25 Mar 2026 19:19:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.251511"
+      },
+      "70289e68128aea177bf094a61c758b89a11137d69902cc1a5217f0fa13dde22b": {
+        "title": "《异环》来了，二次元游戏却要凉了？",
+        "link": "https://www.tmtpost.com/7928986.html",
+        "published_date": "Wed, 25 Mar 2026 19:19:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.251512"
+      },
+      "81b41e7138845416772bad5ec43b82f80e4a8165a92230198c55792f0bc04d8e": {
+        "title": "慕思发布鸿蒙新品智能床；老铺黄金去年营收273亿元同增221%；蜜雪去年营收335.6亿元；小阔集团携手华晨宇共创日化家居品牌｜消研所日报",
+        "link": "https://www.tmtpost.com/7928467.html",
+        "published_date": "Wed, 25 Mar 2026 18:46:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.251514"
+      },
+      "9a490f1ada563f2dbd05784be28152ef502af4b2a489ece37f85b2dfb7b7f17a": {
+        "title": "AI客服的善恶生意经：一边是人工智障，一边是暴力催收",
+        "link": "https://www.tmtpost.com/7928409.html",
+        "published_date": "Wed, 25 Mar 2026 18:36:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.251515"
+      },
+      "2069b384fe2356c5eed82070c51f9e0d77f5f78801dea7b37e1daa9334c7bcea": {
+        "title": "茅台“酒糟变黄金”，万亿巨头跨界宠物赛道的野心与焦虑",
+        "link": "https://www.tmtpost.com/7928770.html",
+        "published_date": "Wed, 25 Mar 2026 18:36:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.251517"
+      },
+      "440ba7d0d797457160c38fd1f9f2d38eb6d73042ba257e4a189c5f997618928c": {
+        "title": "搞了半天，Sora原来不赚钱啊？OpenAI突然杀死自己的明星产品，电影行业跟着躺枪",
+        "link": "https://www.tmtpost.com/7928866.html",
+        "published_date": "Wed, 25 Mar 2026 18:36:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.251518"
+      },
+      "b7649ef69883035dff23df8610eb7945b44052e5e6e4010d144686e34aa032b5": {
+        "title": "AI的红利，阅文吃一口，字节吃一锅",
+        "link": "https://www.tmtpost.com/7928972.html",
+        "published_date": "Wed, 25 Mar 2026 18:34:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.251519"
+      },
+      "066f78ee73b1aca66e999f06652c4dbded2abbccf0573df89c3dbd0c0550e3a7": {
+        "title": "担心的事还是发生了，真有人给龙虾“投毒”",
+        "link": "https://www.tmtpost.com/7928958.html",
+        "published_date": "Wed, 25 Mar 2026 18:32:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.251521"
+      },
+      "858c405d50c0476993369f4c6f33c412bb00f6198db5e2be65055ae53695f1c4": {
+        "title": "“龙虾思想”背后：把AI战火正式推向软件层",
+        "link": "https://www.tmtpost.com/7928874.html",
+        "published_date": "Wed, 25 Mar 2026 18:29:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.251523"
+      },
+      "da1c00c111b84aaca1c023c61748c74060e137aab7e18a1ccceea7f88785b72b": {
+        "title": "Sora没了，但Seedance还不能躺平",
+        "link": "https://www.tmtpost.com/7928955.html",
+        "published_date": "Wed, 25 Mar 2026 18:29:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.251525"
+      },
+      "0350c75bc75b83da5bfeb40a1a49e3ffe42720bb1934a68e75908cfc97e239e8": {
+        "title": "AutoGenesis：基于 AI + MCP 的跨平台自动化测试实践",
+        "link": "https://www.infoq.cn/article/TLJa16KNgIXb1HB1Nvtg?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 25 Mar 2026 20:43:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.251526"
+      },
+      "e4e373bfc39351860daa762b5524a604b44a97d35bc2a5672015b69125726b92": {
+        "title": "“聊天干活”只需扫个码：微信ClawBot官配WorkBuddy，自家出品就是快",
+        "link": "https://www.infoq.cn/article/D1ZIFEbcxoHVOvp8oZ87?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 25 Mar 2026 17:39:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.251527"
+      },
+      "31aa7d5848ecd1e3ac65afa516c3c608062c59c13ec42bc02d7514a6e32801cc": {
+        "title": "整合管理与协作能力，Apple 推出企业服务平台「Apple 商务」",
+        "link": "https://sspai.com/post/107800",
+        "published_date": "Wed, 25 Mar 2026 17:42:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.251529"
+      },
+      "817798c75e91f3ae99f0f23fb61977928483e8f35e37a7954a419d3a307fd48a": {
+        "title": "探访帝国之心，吴哥旅行完全指南（下）：景点体验",
+        "link": "https://sspai.com/post/106822",
+        "published_date": "Wed, 25 Mar 2026 16:00:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.251530"
       }
     },
     "Finance": {
-      "78e058a223343ebfbd0ee3d3377f10c5e5fb4e6e0865cb77f2a4ed3257fe4de5": {
-        "title": "Gold jumps and dollar slides as global trade faces new Trump tariff threat",
-        "link": "https://www.ft.com/content/46199805-8572-4cc2-84c2-8db7f6621769",
-        "published_date": "Mon, 23 Feb 2026 08:07:00 GMT",
-        "first_seen": "2026-02-23T08:53:32.016640"
-      },
       "9f6288dd0e51875aa3cc8c8860d2def5b5572352c708a27825a0f90a5b21883f": {
         "title": "Jobs and CPI reports are not being politically manipulated, government’s statistics chief says",
         "link": "https://www.marketwatch.com/story/jobs-and-cpi-reports-are-not-being-politically-manipulated-governments-statistics-chief-says-f9bc93a0?mod=mw_rss_topstories",
@@ -12891,6 +12981,126 @@
         "link": "https://www.ft.com/content/f213194f-9764-4367-89c3-e157b51e41a8",
         "published_date": "Wed, 25 Mar 2026 06:30:00 GMT",
         "first_seen": "2026-03-25T08:41:51.778995"
+      },
+      "0b9dcf17f7e15ccd67b7a525f88e7f09484dc06dde656c1e0ff1179fc6219eef": {
+        "title": "McDonald’s could make $100 million in just the first few days of selling ‘KPop Demon Hunters’ meals",
+        "link": "https://www.marketwatch.com/story/gonna-be-golden-these-kpop-demon-hunters-meals-could-make-mcdonalds-100-million-in-just-the-first-few-days-d0fc1fe2?mod=mw_rss_topstories",
+        "published_date": "Wed, 25 Mar 2026 22:46:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.351529"
+      },
+      "a172609c63942643d043046412f76d2ad3424419c56c96dd428eab57af45fdec": {
+        "title": "Micron’s stock is dropping. Is Google partly to blame?",
+        "link": "https://www.marketwatch.com/story/microns-stock-is-dropping-is-google-partly-to-blame-d4cad72e?mod=mw_rss_topstories",
+        "published_date": "Wed, 25 Mar 2026 22:23:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.351536"
+      },
+      "e119b47ec38985b77d5b034ffa4b7c193562bfd947136d8a30a291bad147ede1": {
+        "title": "This fund has jumped 1,200% on Anthropic and SpaceX hype. Retail investors should be cautious.",
+        "link": "https://www.marketwatch.com/story/this-fund-has-jumped-1-200-on-anthropic-and-spacex-hype-retail-investors-should-be-cautious-2b276c55?mod=mw_rss_topstories",
+        "published_date": "Wed, 25 Mar 2026 22:11:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.351538"
+      },
+      "380c4eb2153a27190b1dfeea35c8b528fd6ac3078e379d3046f0d1a0584d97c7": {
+        "title": "Arm’s stock shoots to best day in a year as an Nvidia-like chapter may be starting",
+        "link": "https://www.marketwatch.com/story/arms-stock-shoots-toward-best-day-in-a-year-as-an-nvidia-like-chapter-may-be-starting-03f0ff60?mod=mw_rss_topstories",
+        "published_date": "Wed, 25 Mar 2026 21:48:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.351540"
+      },
+      "10191736be859e12e19654e4a6b39b4c62d1c96ad4a8c2da6134eb7865b58765": {
+        "title": "The 5 highest-paid college basketball players this year: No. 1 is making $4.2 million from NIL",
+        "link": "https://www.marketwatch.com/story/the-5-highest-paid-college-basketball-players-this-year-no-1-is-making-4-2-million-from-nil-963cbc7a?mod=mw_rss_topstories",
+        "published_date": "Wed, 25 Mar 2026 21:27:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.351541"
+      },
+      "132579e4ad2524dddf53bd7ea4461c583f7e9410ee1b948610d29da67581ca08": {
+        "title": "Six years away from Social Security’s insolvency and lawmakers still can’t agree on how to fix it",
+        "link": "https://www.marketwatch.com/story/six-years-away-from-social-securitys-insolvency-and-lawmakers-still-cant-agree-on-how-to-fix-it-4bf1ac97?mod=mw_rss_topstories",
+        "published_date": "Wed, 25 Mar 2026 21:26:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.351543"
+      },
+      "cba2b2be481a4a55c8d5385c2ee1068a1fc937dfcca6c4436d1bd5b66d3db8eb": {
+        "title": "Super Micro, Dell and HPE have been red-hot stocks this week. What’s behind the big moves.",
+        "link": "https://www.marketwatch.com/story/super-micro-dell-and-hpe-have-been-red-hot-stocks-this-week-whats-behind-the-big-moves-9fc8acc7?mod=mw_rss_topstories",
+        "published_date": "Wed, 25 Mar 2026 21:02:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.351545"
+      },
+      "2924e6b529e5ed99c07d35efa0b3e9b8d95e3725e05a2c24002ccbd472023839": {
+        "title": "Microsoft’s stock is having its worst quarter in 17 years — and there may be no quick fix",
+        "link": "https://www.marketwatch.com/story/microsofts-stock-is-having-its-worst-quarter-in-17-years-and-there-may-be-no-quick-fix-e5b6f05e?mod=mw_rss_topstories",
+        "published_date": "Wed, 25 Mar 2026 21:00:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.351546"
+      },
+      "67c6dbb557027ffa9f2c48b3a482ab700ed028224c7aa96bc39ab7af63bed0f0": {
+        "title": "JetBlue’s stock turns positive for the year on merger talk",
+        "link": "https://www.marketwatch.com/story/jetblues-stock-turns-positive-for-the-year-on-merger-talk-fcd8e4fd?mod=mw_rss_topstories",
+        "published_date": "Wed, 25 Mar 2026 20:48:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.351548"
+      },
+      "fb22c394d9c1ac4b114a5f2bac14c54fb206bacf8dc65dfa6bf185452305bbbc": {
+        "title": "SpaceX boosts IPO ambition with plans to raise $75bn",
+        "link": "https://www.ft.com/content/37a14f36-77f6-413e-a4d5-b05cefbddfb1",
+        "published_date": "Wed, 25 Mar 2026 22:17:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.351550"
+      },
+      "d93de22a654be5030e078599b226e614d6761c9934500b0e34d171ce577665ef": {
+        "title": "Meta and Google liable for harm to children’s mental health in landmark US case",
+        "link": "https://www.ft.com/content/d3d80bd4-d2b1-4522-9752-4071df5b4c0a",
+        "published_date": "Wed, 25 Mar 2026 22:05:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.351551"
+      },
+      "72625ef5a6b9f7bc685edbe2e7da44a0f69bcc1f2fcec3448e3e765e0bbcfb73": {
+        "title": "Republicans back Iran war even as voters feel ‘Biden-level’ petrol price pain",
+        "link": "https://www.ft.com/content/44d96671-06bf-4279-beb5-c2796fa3e383",
+        "published_date": "Wed, 25 Mar 2026 21:48:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.351553"
+      },
+      "e59d8f2f1c0ee225513d7535d63a097d8616fcff6d36221fdaed0d5edc69dc1f": {
+        "title": "UK says Chinese wind turbine maker poses national security threat",
+        "link": "https://www.ft.com/content/3bbf79be-08f7-4012-b0b7-a5894181af1b",
+        "published_date": "Wed, 25 Mar 2026 21:22:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.351554"
+      },
+      "bb1093c1f20efc096a5bd0148b48720eb42e899f05d7a10f6e286c8c5fa7a7f1": {
+        "title": "Russia sending drones to Iran, western intelligence says",
+        "link": "https://www.ft.com/content/d5d7291b-8a53-42cd-b10a-4e02fbcf9047",
+        "published_date": "Wed, 25 Mar 2026 21:00:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.351555"
+      },
+      "0617ffd45e2201cee62484f03f2dbcd54ecadc801cd5c73375319cdfb9aa72e7": {
+        "title": "Five-year UK mortgage rates now below two-year rates",
+        "link": "https://www.ft.com/content/c0b04e06-ed8a-484e-8921-18f7cebb8a9e",
+        "published_date": "Wed, 25 Mar 2026 17:08:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.351557"
+      },
+      "8408c7ff8f955978251ef32763922819faffc7af39e918bd4a20c9b8dbb70897": {
+        "title": "Markets were not made for Trump’s never-ending ping-pong",
+        "link": "https://www.ft.com/content/ccdbf058-c395-416a-9e69-212cd52463d3",
+        "published_date": "Wed, 25 Mar 2026 16:18:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.351558"
+      },
+      "d502d5177746ef063445249677c5535af7ecb5a1d03316121a7452fc00d27d5d": {
+        "title": "How a US assault on Kharg Island could unfold",
+        "link": "https://www.ft.com/content/187deed0-f1c0-4eb0-a017-ac59dc30750a",
+        "published_date": "Wed, 25 Mar 2026 13:00:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.351559"
+      },
+      "e5df713ee2b52266fd0f3e0c792f29d84ee856803bc7bc5b8f4a02b729dc8d13": {
+        "title": "Dane who lit up outside White House ‘real winner’ of elections",
+        "link": "https://www.ft.com/content/a2dbcb98-1e95-4070-a5c8-fc7604477904",
+        "published_date": "Wed, 25 Mar 2026 12:54:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.351561"
+      },
+      "c26b7ec8b30054abd65a950536b53cf489b22880a4cef389a687df18df07235c": {
+        "title": "Apple rolls out UK age checks for iPhone users",
+        "link": "https://www.ft.com/content/c36dc645-8cd4-4e69-a9ce-3a0ac4071264",
+        "published_date": "Wed, 25 Mar 2026 12:21:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.351562"
+      },
+      "34e82d29b77ae2fb26fb5054b8fcf731435f8e6e673cf623072f28e4fc39fd96": {
+        "title": "London house prices fall for sixth consecutive month",
+        "link": "https://www.ft.com/content/0ae454cb-285f-47a2-8f42-7e589ab8e307",
+        "published_date": "Wed, 25 Mar 2026 11:35:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.351563"
       }
     },
     "Ai": {
@@ -14381,13 +14591,37 @@
         "link": "https://www.qbitai.com/2026/03/391890.html",
         "published_date": "Wed, 25 Mar 2026 06:20:00 GMT",
         "first_seen": "2026-03-25T08:41:51.918565"
+      },
+      "5e2089a4d3261bc0d2ed97f9a42bef0742cb4a5ccce437132cc27230607b9eb8": {
+        "title": "第一批“首席龙虾官”，月薪6万",
+        "link": "https://www.qbitai.com/2026/03/392128.html",
+        "published_date": "Wed, 25 Mar 2026 11:53:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.507503"
+      },
+      "78b5487087bfcde7fb5fa673d647be03db692cb03715fbd07ed3624d537c5ddc": {
+        "title": "睿尔曼“茶艺机器人”亮相2026中关村论坛",
+        "link": "https://www.qbitai.com/2026/03/392121.html",
+        "published_date": "Wed, 25 Mar 2026 11:31:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.507510"
+      },
+      "6bc993627e06db72b794d4c3dc019c60f89a8f773da76805b98daa821eb89ad7": {
+        "title": "从“被动感知”到“理解接触”，它石智航联合六大机构发布OmniVTA视触觉世界模型",
+        "link": "https://www.qbitai.com/2026/03/392105.html",
+        "published_date": "Wed, 25 Mar 2026 08:43:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.507512"
+      },
+      "1d3c225902250bf322ec59ef2ff106c37e054006737f61d2ef1c1a761a509790": {
+        "title": "Vibe Coding XR: Accelerating AI + XR prototyping with XR Blocks and Gemini",
+        "link": "https://research.google/blog/vibe-coding-xr-accelerating-ai-xr-prototyping-with-xr-blocks-and-gemini/",
+        "published_date": "Wed, 25 Mar 2026 09:14:00 GMT",
+        "first_seen": "2026-03-25T23:28:45.507514"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-25T08:41:51.740950",
-    "Finance": "2026-03-25T08:41:51.778998",
-    "Ai": "2026-03-25T08:41:51.918566"
+    "Technology": "2026-03-25T23:28:45.251532",
+    "Finance": "2026-03-25T23:28:45.351565",
+    "Ai": "2026-03-25T23:28:45.507516"
   }
 }
