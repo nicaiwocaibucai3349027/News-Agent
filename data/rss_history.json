@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b7b162f054161ae13097356e0960154e8d2d131788b1014bcf8cc781b02519b4": {
-        "title": "碾压预期的Q4财报，英伟达释放终极信号：AI竞赛的终局不在云端，在物理世界",
-        "link": "https://www.tmtpost.com/7890251.html",
-        "published_date": "Thu, 26 Feb 2026 10:13:00 GMT",
-        "first_seen": "2026-02-26T05:59:32.697348"
-      },
-      "58cd90fd9cdaee0972815d723cb0b84d571e766cc4342cc24e5b155590cf5d94": {
-        "title": "字节攻城，阿里筑墙：2026年AI云战役的终局推演",
-        "link": "https://www.tmtpost.com/7890007.html",
-        "published_date": "Thu, 26 Feb 2026 10:30:00 GMT",
-        "first_seen": "2026-02-26T05:59:32.697373"
-      },
-      "e48ef84cb760f816880cdfc1faf3435b3e0ac93a732a95cc48e5d7822f057361": {
-        "title": "科技巨头正为驱动人工智能投入巨资，这些公用事业公司将成为大赢家",
-        "link": "https://www.tmtpost.com/7890430.html",
-        "published_date": "Thu, 26 Feb 2026 11:19:00 GMT",
-        "first_seen": "2026-02-26T05:59:32.697376"
-      },
-      "1a7adc656cc0ec1a14ebf19c87b1ab65465bf43b833aaad9ab694ea7f6ebe181": {
-        "title": "GitHub 发布 Agentic Workflows，解锁 AI 驱动的代码库自动化潜力",
-        "link": "https://www.infoq.cn/article/WXJ1S1rsALiDNxoswz6f?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 26 Feb 2026 08:00:00 GMT",
-        "first_seen": "2026-02-26T05:59:32.697378"
-      },
-      "ff923a1968300f8a25d8b6a380fcf7813cb7a769a1011633720b5ec0c564f0df": {
-        "title": "机器人从“春晚”到“我家”需要几步？",
-        "link": "https://www.tmtpost.com/7890503.html",
-        "published_date": "Thu, 26 Feb 2026 12:00:00 GMT",
-        "first_seen": "2026-02-26T05:59:32.697380"
-      },
       "247ea52ddee786be854e34279a12166fba1b1b270a41f86dfc52641ebe4bf496": {
         "title": "黄仁勋反驳“AI 吞噬软件”：传统软件模式要退场了，实时生成接管，算力需求翻几百倍",
         "link": "https://www.infoq.cn/article/ZSZoyFLlCDLhbNZYorOA?utm_source=rss&utm_medium=article",
@@ -9505,39 +9475,57 @@
         "link": "https://www.infoq.cn/article/59OoAMNcs0oUDFTqevSI?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 28 Mar 2026 10:00:00 GMT",
         "first_seen": "2026-03-28T05:54:35.811900"
+      },
+      "e7bc8160eb981e664c91fffccf085fa09771e9d7954911445da6df48db2f17f0": {
+        "title": "Anthropic泄露背后：AI安全承诺的破产与重构",
+        "link": "https://www.tmtpost.com/7933051.html",
+        "published_date": "Sat, 28 Mar 2026 16:21:00 GMT",
+        "first_seen": "2026-03-28T08:33:34.142516"
+      },
+      "cc956d8054aae94cb8e5d13024294ed1c706226cb856d796cdac2d62102a6306": {
+        "title": "小米财报背后：汽车刚越盈亏线，AI又成下一场豪赌",
+        "link": "https://www.tmtpost.com/7932893.html",
+        "published_date": "Sat, 28 Mar 2026 14:32:00 GMT",
+        "first_seen": "2026-03-28T08:33:34.142525"
+      },
+      "184918e520c991ff5c594decfe9fbd0775a57b0126a1b4bb8fa4ecce02fcc427": {
+        "title": "Sora关停，Seedance怎么办？",
+        "link": "https://www.tmtpost.com/7932819.html",
+        "published_date": "Sat, 28 Mar 2026 14:17:00 GMT",
+        "first_seen": "2026-03-28T08:33:34.142528"
+      },
+      "1ebbb54b86c64e1616743ec2fe0ddd441066688459ea8ecacb41fc543654258e": {
+        "title": "快手需要再次证明自己",
+        "link": "https://www.tmtpost.com/7932687.html",
+        "published_date": "Sat, 28 Mar 2026 14:17:00 GMT",
+        "first_seen": "2026-03-28T08:33:34.142530"
+      },
+      "4e5e9db02d4fb498b6083c13e23e8cc530c8c0138f242d259f934b4df54d7bc4": {
+        "title": "“养虾热”终于还是要退潮了",
+        "link": "https://www.tmtpost.com/7932650.html",
+        "published_date": "Sat, 28 Mar 2026 14:16:00 GMT",
+        "first_seen": "2026-03-28T08:33:34.142531"
+      },
+      "ce0abb978fbabdba95339f16a129ec0e9d4de2f81a79a35d2c9d0b906b43b5fd": {
+        "title": "当规模不再是护城河，中国车企还要拼什么？｜钛度车库",
+        "link": "https://www.tmtpost.com/7933009.html",
+        "published_date": "Sat, 28 Mar 2026 14:04:00 GMT",
+        "first_seen": "2026-03-28T08:33:34.142533"
+      },
+      "e829f2f73f4c9a36e51f89b61a78ee5aa9ff8c37503c5ee43557478c71a0e624": {
+        "title": "这 4 个让 AI Agent 上网冲浪的开源神器，在 GitHub 上杀疯了。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532505&idx=1&sn=d46d1565fb061ce152fefa35aa44ab65",
+        "published_date": "Sat, 28 Mar 2026 15:05:00 GMT",
+        "first_seen": "2026-03-28T08:33:34.142534"
+      },
+      "d257645dfdba49e78067f10dd6602244bee6b532d13743f77fef32ced848c590": {
+        "title": "绿色 IT ：如何减轻 AI 对环境的影响",
+        "link": "https://www.infoq.cn/article/T0iH5X6AzL5jSe12ktdk?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 28 Mar 2026 15:00:00 GMT",
+        "first_seen": "2026-03-28T08:33:34.142535"
       }
     },
     "Finance": {
-      "6165a6f18cf7feb0ba107eb8a6d0165d9ca73a0f0649e212aab61c0398203c49": {
-        "title": "Inside the $265mn war over who writes America’s AI rules",
-        "link": "https://www.ft.com/content/c1823595-d0f6-49a4-8a10-3d91c92da8f6",
-        "published_date": "Thu, 26 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-26T05:59:49.849409"
-      },
-      "5bc13d91fa333569be2b9248a247f361e26af5d762b5eb64b544158ee1b37c55": {
-        "title": "Iran to offer ‘commercial bonanza’ to US companies",
-        "link": "https://www.ft.com/content/27f02d44-a223-4934-8f2b-7cfd8772b181",
-        "published_date": "Thu, 26 Feb 2026 00:01:00 GMT",
-        "first_seen": "2026-02-26T05:59:49.849415"
-      },
-      "d369e03bd04ea1fc58da567f34e471ccba9a0c591ca24e740bb322716b061c6f": {
-        "title": "UK government debt sales set to fall for first time in four years",
-        "link": "https://www.ft.com/content/d082b3ab-99d2-4726-8da8-ec9b843a7373",
-        "published_date": "Thu, 26 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-26T05:59:49.849417"
-      },
-      "56b3d5268201b721b7bfd43f37ff575f731d1dcc77ed60aca809018dc9eaf228": {
-        "title": "Salesforce chief dismisses ‘SaaS-pocalypse’ fears of AI overtaking business software",
-        "link": "https://www.ft.com/content/b74b8227-d7cb-4976-ba95-a3a27b79cbdd",
-        "published_date": "Thu, 26 Feb 2026 00:08:00 GMT",
-        "first_seen": "2026-02-26T05:59:49.849419"
-      },
-      "baa3e49c5d1746b4ed6c1f1c583172e40ae013cfca388feea6a0eadbbad6955f": {
-        "title": "Nvidia stock downbeat despite blockbuster quarter",
-        "link": "https://www.ft.com/content/f4cda766-5650-4a97-a84f-24d3cfbeddd6",
-        "published_date": "Thu, 26 Feb 2026 02:09:00 GMT",
-        "first_seen": "2026-02-26T05:59:49.849421"
-      },
       "dec0e32172344df1f3423d7d6969b60e2279c685053e747fa0e2901e263ec062": {
         "title": "Nvidia’s blockbuster results fail to dazzle investors",
         "link": "https://www.ft.com/content/f4cda766-5650-4a97-a84f-24d3cfbeddd6",
@@ -14088,36 +14076,6 @@
       }
     },
     "Ai": {
-      "46856677d56a8589b6fc59ab50d544f7b65320d2df818f0ad41ae2dcd3cf6af1": {
-        "title": "Karpathy：AI编程已质变，就从去年12月开始",
-        "link": "https://www.qbitai.com/2026/02/382626.html",
-        "published_date": "Thu, 26 Feb 2026 03:50:00 GMT",
-        "first_seen": "2026-02-26T06:00:00.530210"
-      },
-      "7d74a3c841d06dd3adb43ca4b583401692c9ae6be92ff2d654b86e2b3b57b33d": {
-        "title": "扩散模型成最快深度思考！告别自回归每秒1009个tokens，英伟达微软都投了",
-        "link": "https://www.qbitai.com/2026/02/382584.html",
-        "published_date": "Thu, 26 Feb 2026 02:03:00 GMT",
-        "first_seen": "2026-02-26T06:00:00.530221"
-      },
-      "e3720bd9c288902150233d203b6f38a190a431b7004038b7e6e00b1e5055ad3a": {
-        "title": "ICLR 2026 | LightMem：把大模型「长期记忆」的成本打下来",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-26",
-        "published_date": "Thu, 26 Feb 2026 12:00:00 GMT",
-        "first_seen": "2026-02-26T06:00:00.530223"
-      },
-      "e6308c8850043226678eefaa136371475f574f65583848b6e10d61dcdea0dec5": {
-        "title": "21万年费彭博终端机被AI复刻！Perplexity俩月憋出新“PC”：整合所有AI功能，以Opus为核心调度19个模型",
-        "link": "https://www.qbitai.com/2026/02/382647.html",
-        "published_date": "Thu, 26 Feb 2026 03:57:00 GMT",
-        "first_seen": "2026-02-26T06:00:00.530225"
-      },
-      "c645f4139382ab4fab9b3949a468aac7cf49130121643f9e9d3d51eea6ccbf0f": {
-        "title": "日进22.6亿！英伟达营收暴涨73%再破纪录，盘后股价重返200美元",
-        "link": "https://www.qbitai.com/2026/02/382610.html",
-        "published_date": "Thu, 26 Feb 2026 02:49:00 GMT",
-        "first_seen": "2026-02-26T06:00:00.530226"
-      },
       "35b6f8872edadcdd3c315e6a2081d09a2dbbac29910dcb4c0c0eba49bb651c9e": {
         "title": "马斯克：Grok今日归来！",
         "link": "https://www.jiqizhixin.com/articles/2026-02-26-2",
@@ -15527,13 +15485,31 @@
         "link": "https://www.qbitai.com/2026/03/392900.html",
         "published_date": "Sat, 28 Mar 2026 02:09:00 GMT",
         "first_seen": "2026-03-28T05:54:36.016499"
+      },
+      "dd73d97f376975407a2a16431741b6ee372dbf8d920a6a54da377c505c4624f4": {
+        "title": "8.68万新车普及车位到车位，世界模型不吃高算力！零跑夯爆了",
+        "link": "https://www.qbitai.com/2026/03/392948.html",
+        "published_date": "Sat, 28 Mar 2026 06:16:00 GMT",
+        "first_seen": "2026-03-28T08:33:34.328171"
+      },
+      "2f2962ca1595dbf0f35557dcccba06ab93d3f4d5ba662de7c129aae5fe5d6fe2": {
+        "title": "GLM-5.1上线，编程表现贴Opus 4.6开大，Coding plan瞬间断货",
+        "link": "https://www.qbitai.com/2026/03/392914.html",
+        "published_date": "Sat, 28 Mar 2026 06:06:00 GMT",
+        "first_seen": "2026-03-28T08:33:34.328179"
+      },
+      "0fb80070a5c09cf4de23a2e7db392bccdeb7217a701ace9848fa562331306665": {
+        "title": "华为盘古大模型负责人王云鹤离职，被曝Agent创业",
+        "link": "https://www.qbitai.com/2026/03/392903.html",
+        "published_date": "Sat, 28 Mar 2026 06:01:00 GMT",
+        "first_seen": "2026-03-28T08:33:34.328180"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-28T05:54:35.811901",
+    "Technology": "2026-03-28T08:33:34.142537",
     "Finance": "2026-03-28T05:54:35.860719",
-    "Ai": "2026-03-28T05:54:36.016502"
+    "Ai": "2026-03-28T08:33:34.328183"
   }
 }
