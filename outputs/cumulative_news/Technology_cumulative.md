@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-29 06:28
+**最后更新时间**: 2026-03-29 08:35
+
+---
+
+## 🆕 最新更新 (2026-03-29 08:35)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Vercel 发布生成式 UI 框架 JSON-Render](https://www.infoq.cn/article/oUFPIuuKIsT8UFEYVkTG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-29 15:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [推荐 14 个 3 月份最牛牛牛牛的 GitHub 项目，这一期挺顶的。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532554&idx=1&sn=f2df86423107972a43379890bb5e94ff)
+**发布时间**: 2026-03-29 11:06
 
 ---
 

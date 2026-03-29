@@ -9583,6 +9583,18 @@
         "link": "https://www.infoq.cn/article/pcPNtvFz4qWfdDdMwEpe?utm_source=rss&utm_medium=article",
         "published_date": "Sun, 29 Mar 2026 10:00:00 GMT",
         "first_seen": "2026-03-29T06:28:42.720260"
+      },
+      "9b4cda0a15fc1560038296c10a5834f85c390e05898f96f9c230fb4131c5d011": {
+        "title": "Vercel 发布生成式 UI 框架 JSON-Render",
+        "link": "https://www.infoq.cn/article/oUFPIuuKIsT8UFEYVkTG?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 29 Mar 2026 15:00:00 GMT",
+        "first_seen": "2026-03-29T08:35:25.922637"
+      },
+      "35e5854c813e5c9a6da82cdec1b9a2095c6f72e952e7b3e12120ee6a2f85fb1d": {
+        "title": "推荐 14 个 3 月份最牛牛牛牛的 GitHub 项目，这一期挺顶的。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532554&idx=1&sn=f2df86423107972a43379890bb5e94ff",
+        "published_date": "Sun, 29 Mar 2026 11:06:00 GMT",
+        "first_seen": "2026-03-29T08:35:25.922648"
       }
     },
     "Finance": {
@@ -15592,7 +15604,7 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-29T06:28:42.720263",
+    "Technology": "2026-03-29T08:35:25.922650",
     "Finance": "2026-03-29T06:28:42.791405",
     "Ai": "2026-03-29T06:28:42.952032"
   }
