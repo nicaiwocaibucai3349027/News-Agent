@@ -1,7 +1,27 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-31 06:13
+**最后更新时间**: 2026-03-31 08:52
+
+---
+
+## 🆕 最新更新 (2026-03-31 08:52)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Unilever nears deal to merge food unit with McCormick to create $60bn group](https://www.ft.com/content/303f48d6-e6ea-470c-9688-730fb6a3f216)
+**发布时间**: 2026-03-31 06:50
+
+#### [BlackRock looks at HSBC’s Canary Wharf tower for new London HQ](https://www.ft.com/content/95fe2fb7-d369-4416-9dda-9cf619172ff4)
+**发布时间**: 2026-03-31 04:00
+
+#### [BlackRock to boost investment in NHS property](https://www.ft.com/content/1cdcf217-2fb3-4ccb-aacf-08295403f6c4)
+**发布时间**: 2026-03-31 04:00
+
+#### [‘Pump anxiety’ from soaring fuel prices prompts surge in EV interest](https://www.ft.com/content/870fd3af-1343-420b-ac92-9050b169a8a1)
+**发布时间**: 2026-03-31 04:00
+
+#### [US petrol prices hit $4 a gallon as war jolts energy markets](https://www.ft.com/content/b2c83041-9291-41ac-9377-257d8b1b53ad)
+**发布时间**: 2026-03-31 00:36
 
 ---
 
