@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-15 06:31
+**最后更新时间**: 2026-04-15 09:13
+
+---
+
+## 🆕 最新更新 (2026-04-15 09:13)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [How film producer and Arizona developer Anita Verma-Lallian built a $1.5 billion real estate portfolio](https://www.marketwatch.com/story/how-film-producer-and-arizona-developer-anita-verma-lallian-built-a-1-5-billion-real-estate-portfolio-0da42d29?mod=mw_rss_topstories)
+**发布时间**: 2026-04-15 09:01
+
+#### [Daniel Craig and Rachel Weisz sell their elegant Brooklyn townhouse for $11.8 million](https://www.marketwatch.com/story/daniel-craig-and-rachel-weisz-sell-their-elegant-brooklyn-townhouse-for-11-8-million-eebe1d3b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-15 08:58
+
+#### [Hermes and Gucci sales fall short on Middle East turmoil. Investors were surprised.](https://www.marketwatch.com/story/hermes-and-gucci-sales-fall-short-on-middle-east-turmoil-investors-were-surprised-12ac51fc?mod=mw_rss_topstories)
+**发布时间**: 2026-04-15 08:51
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump’s push to cut US rates akin to ‘banana republic’, says Yellen](https://www.ft.com/content/fcc0e47b-589b-49da-992c-f309a4783e23)
+**发布时间**: 2026-04-15 04:26
+
+#### [Should Europe repel Chinese investment?](https://www.ft.com/content/873ac1ea-8924-4600-b67d-0c078b917b55)
+**发布时间**: 2026-04-15 04:00
+
+#### [The mix of chaotic politics and a resilient economy can’t last](https://www.ft.com/content/32a16d56-41c6-4d13-bbc4-7ea908b6ceae)
+**发布时间**: 2026-04-15 04:00
+
+#### [Reeves hits out at Iran war ‘folly’](https://www.ft.com/content/5aac2394-3720-4723-b75a-4db51804b2d1)
+**发布时间**: 2026-04-14 17:13
 
 ---
 
