@@ -1,7 +1,64 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-28 07:30
+**最后更新时间**: 2026-04-28 10:12
+
+---
+
+## 🆕 最新更新 (2026-04-28 10:12)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Cortex Code 入门指南：面向数据工程师的实践路径 ｜ 技术实践](https://www.infoq.cn/article/j5GzrA50oPkKBXLvcjBp?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-28 18:00
+
+#### [openJiuwen社区首发Team Skills，定义Coordination Engineering新范式](https://www.infoq.cn/article/ipRw9Isjy5w96qmFDmpr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-28 16:29
+
+#### [用 Snowflake Cortex Agents 释放结构化数据的最大价值 ｜ 技术实践](https://www.infoq.cn/article/fgDaebwIGabVwLdljJTN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-28 15:36
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [一个Token引爆的千亿神话](https://www.tmtpost.com/7949068.html)
+**发布时间**: 2026-04-28 17:54
+
+#### [资本押注“可玩版抖音”，为何中国公司都选择出海？](https://www.tmtpost.com/7970648.html)
+**发布时间**: 2026-04-28 17:54
+
+#### [一场谷歌“75%代码由AI生成”引发的焦虑](https://www.tmtpost.com/7970697.html)
+**发布时间**: 2026-04-28 17:54
+
+#### [恒兴股份：未上市业绩先下滑，逾期应收账款突破五成，自身减产却要募资扩产｜IPO观察](https://www.tmtpost.com/7970367.html)
+**发布时间**: 2026-04-28 17:20
+
+#### [安克创新造芯，跨境一哥的具身智能豪赌｜出海参考](https://www.tmtpost.com/7969233.html)
+**发布时间**: 2026-04-28 16:51
+
+#### [一脉阳光：不甘只当“最大连锁”，要做“超级连接器”](https://www.tmtpost.com/7970660.html)
+**发布时间**: 2026-04-28 16:51
+
+#### [葵花药业上市11年首亏，告别“躺赢”年代，迎转型阵痛 | 看财报](https://www.tmtpost.com/7970480.html)
+**发布时间**: 2026-04-28 16:15
+
+#### [向量量化如何影响存储？与RaBitQ两位作者，从与谷歌TurboQuant学术争议聊起](https://www.tmtpost.com/7969744.html)
+**发布时间**: 2026-04-28 15:50
+
+#### [停牌前精准大涨，恒宇信通二次重组：内幕疑云与自救难题待解 | 并购一线](https://www.tmtpost.com/7969993.html)
+**发布时间**: 2026-04-28 15:50
+
+#### [俞敏洪在捧大腕和耍手腕之间，选择了铁血断腕](https://www.tmtpost.com/7970358.html)
+**发布时间**: 2026-04-28 15:47
+
+#### [《菩提临世》下架，漫剧迎来大规模整治，业内称上万部受波及](https://www.tmtpost.com/7970064.html)
+**发布时间**: 2026-04-28 15:33
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 139 | 派友热议三月买了啥、复古单反尼康 Df 体验](https://sspai.com/post/109183)
+**发布时间**: 2026-04-28 16:50
+
+#### [TDS REVIEW｜索尼 WF-1000XM6 降噪真无线耳机体验](https://sspai.com/post/109163)
+**发布时间**: 2026-04-28 15:26
 
 ---
 
