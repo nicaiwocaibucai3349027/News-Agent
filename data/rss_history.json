@@ -2,90 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "668f4588e513c9dcae6ed5a8964d386783f7e091560d10cc298b1817b3e2b659": {
-        "title": "Why China's VC Circles Missed Zhang Xue, a Motorcycle Star, and His Startup?",
-        "link": "https://www.tmtpost.com/7939565.html",
-        "published_date": "Thu, 02 Apr 2026 15:34:00 GMT",
-        "first_seen": "2026-04-02T08:51:14.268623"
-      },
-      "2e4a7c44f9791029f47bf403419e0882d332ef3bc9ca237baa7b410c8672b919": {
-        "title": "初中生造车，估值10亿，张雪上演「飞驰人生」",
-        "link": "https://www.tmtpost.com/7937176.html",
-        "published_date": "Thu, 02 Apr 2026 15:09:00 GMT",
-        "first_seen": "2026-04-02T08:51:14.268634"
-      },
-      "a2e86b4c785608d503a961365ecbfbe435ae0a1b06d1750958fb43bf56de08c7": {
-        "title": "先声药业二代不接班，南京前首富找了昔日对手当CEO",
-        "link": "https://www.tmtpost.com/7938292.html",
-        "published_date": "Thu, 02 Apr 2026 15:08:00 GMT",
-        "first_seen": "2026-04-02T08:51:14.268636"
-      },
-      "0cdc057253033559dbbbcc3204f0636f4199a894e7b363bf55e7d5f310833329": {
-        "title": "250亿营收拆走150亿科力普，晨光还剩什么？",
-        "link": "https://www.tmtpost.com/7938357.html",
-        "published_date": "Thu, 02 Apr 2026 14:56:00 GMT",
-        "first_seen": "2026-04-02T08:51:14.268639"
-      },
-      "16a160b2026be7ce6dd0d0cc082311ea9daab314c8f1bb81e213085094dc227f": {
-        "title": "智谱首份财报背后，新故事难讲",
-        "link": "https://www.tmtpost.com/7939356.html",
-        "published_date": "Thu, 02 Apr 2026 14:55:00 GMT",
-        "first_seen": "2026-04-02T08:51:14.268641"
-      },
-      "6b117d692c51b51c7087192a6b992ae4ef83814fa5bae2974a863522ccbbf5cb": {
-        "title": "年轻人不买投影仪了，极米靠什么增长",
-        "link": "https://www.tmtpost.com/7938590.html",
-        "published_date": "Thu, 02 Apr 2026 14:50:00 GMT",
-        "first_seen": "2026-04-02T08:51:14.268642"
-      },
-      "6ba41144e0a4f7b3247a7780a5f287765dc107a8aa05190dda5e80f3661ef9cc": {
-        "title": "Robotaxi，离盈利又近了一步",
-        "link": "https://www.tmtpost.com/7939406.html",
-        "published_date": "Thu, 02 Apr 2026 14:47:00 GMT",
-        "first_seen": "2026-04-02T08:51:14.268644"
-      },
-      "8334cb14ab1f7753e6bd9b25fcfcc15c972448ad5ef75327ae4a6092e5a35af2": {
-        "title": "错上加错，Anthropic一刀切掉8100仓库",
-        "link": "https://www.tmtpost.com/7939368.html",
-        "published_date": "Thu, 02 Apr 2026 14:46:00 GMT",
-        "first_seen": "2026-04-02T08:51:14.268646"
-      },
-      "ad1eaf80c453cdca390e3b1aeb23591bf91219279d4d086cb8e7c51a5d64ab68": {
-        "title": "花了十年，周剑终于把机器人卖出去了",
-        "link": "https://www.tmtpost.com/7939405.html",
-        "published_date": "Thu, 02 Apr 2026 14:40:00 GMT",
-        "first_seen": "2026-04-02T08:51:14.268648"
-      },
-      "51a05e62b610e7aced712e3362e47300fff1080f2ea5961adf9e98c8f6f05a25": {
-        "title": "不掌握token的甲骨文们，注定会大裁员",
-        "link": "https://www.tmtpost.com/7939366.html",
-        "published_date": "Thu, 02 Apr 2026 14:40:00 GMT",
-        "first_seen": "2026-04-02T08:51:14.268649"
-      },
-      "9e6800a8d74f4db09eaf78169de414422d1ab46e89d78221ea2d9abe98f6fde2": {
-        "title": "张雪赢了，中国摩托车的路还很长",
-        "link": "https://www.tmtpost.com/7939359.html",
-        "published_date": "Thu, 02 Apr 2026 14:34:00 GMT",
-        "first_seen": "2026-04-02T08:51:14.268651"
-      },
-      "8e3b8d60d4c5ec2173b0866aff1d544b05cee460374212692324a525e665c0b6": {
-        "title": "年薪80亿，苏世民凭啥？",
-        "link": "https://www.tmtpost.com/7939407.html",
-        "published_date": "Thu, 02 Apr 2026 14:34:00 GMT",
-        "first_seen": "2026-04-02T08:51:14.268652"
-      },
-      "c25ccba9acdc08792ca94a5478a0107213e5455af7ea5a843bd1feee195c0e9e": {
-        "title": "豆包日均Token使用量突破120万亿，Seedance2.0API开启公测",
-        "link": "https://www.infoq.cn/article/SF95yJdFgaWk9vDhZa2I?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 02 Apr 2026 15:08:00 GMT",
-        "first_seen": "2026-04-02T08:51:14.268654"
-      },
-      "ac78204b0622c2d7dbd59839d578b75552fc6fd7b27e0793bf18bcd4320d4ffe": {
-        "title": "13 万星的 GitHub 神器让 GLM-5.1 直接起飞，3 天烧了 1 亿 Token。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532660&idx=1&sn=4c795eba24abdbacf3b4515b096c6bd3",
-        "published_date": "Thu, 02 Apr 2026 10:10:00 GMT",
-        "first_seen": "2026-04-02T08:51:14.268656"
-      },
       "1faeb1d461f0707943cd78587ab54936fcea4e668e87965778001c3c8fcf4a07": {
         "title": "【钛晨报】工信部首提“算力银行”“算力超市”，降低中小企业用算门槛；事关优思益，抖音、淘天、小红书被约谈；数字人民币业务运营机构扩容12家",
         "link": "https://www.tmtpost.com/7940267.html",
@@ -9295,15 +9211,51 @@
         "link": "http://www.geekpark.net/news/363696",
         "published_date": "Sat, 02 May 2026 09:06:00 GMT",
         "first_seen": "2026-05-02T07:01:01.007471"
+      },
+      "8cc825947cd5d4c843ac6c4365c67bf410241910cf8025ebdbc1670719bb17e7": {
+        "title": "化肥价格飙升至天花板，对这6只农业股来说，形势喜忧参半",
+        "link": "https://www.tmtpost.com/7975459.html",
+        "published_date": "Sat, 02 May 2026 11:40:00 GMT",
+        "first_seen": "2026-05-02T09:01:19.130121"
+      },
+      "8a52feb7fddf15f6b7276882d4c33ebe659653506dc0fe85e10ad84603240cb9": {
+        "title": "耐克的底部或许得等到被道指剔除之后才会出现，技术图表怎么说",
+        "link": "https://www.tmtpost.com/7975449.html",
+        "published_date": "Sat, 02 May 2026 11:37:00 GMT",
+        "first_seen": "2026-05-02T09:01:19.130128"
+      },
+      "4ec0eeca9b9fb313b9230e90c57db04cb8ed98f747995dd0d5dccd40a4aab3fb": {
+        "title": "从万达到儒意，资本重构完成了，风险出清了吗？",
+        "link": "https://www.tmtpost.com/7975403.html",
+        "published_date": "Sat, 02 May 2026 10:20:00 GMT",
+        "first_seen": "2026-05-02T09:01:19.130130"
+      },
+      "55a1bdf727dcd05aefc857710f980b990088103c352c0b5d7580ebc52f28fd30": {
+        "title": "寒武纪2026年一季报点评｜公司点评",
+        "link": "https://www.tmtpost.com/7975401.html",
+        "published_date": "Sat, 02 May 2026 10:20:00 GMT",
+        "first_seen": "2026-05-02T09:01:19.130132"
+      },
+      "7f99a58128f5a5268338650efa8b1eb8690c44d7a22ab52fa5894ada0edf2e49": {
+        "title": "比亚迪2026年一季报点评｜公司点评",
+        "link": "https://www.tmtpost.com/7975398.html",
+        "published_date": "Sat, 02 May 2026 10:20:00 GMT",
+        "first_seen": "2026-05-02T09:01:19.130133"
+      },
+      "f65cf2aa16f7f191ecc72f8bbce0988d36b3b53e4364c1f57b6a91ce5b13f686": {
+        "title": "价值判断：涨停板的投资机会和风险提示（4月30日）｜证券市场观察",
+        "link": "https://www.tmtpost.com/7975390.html",
+        "published_date": "Sat, 02 May 2026 10:15:00 GMT",
+        "first_seen": "2026-05-02T09:01:19.130135"
+      },
+      "19b4606f15c5f8127aa6745b3df4fb64518b877aaa7c29c0ef35048466599023": {
+        "title": "快瞧瞧 4 月 GitHub 上哪些开源项目最火火火火？",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533406&idx=1&sn=5cf3e7d5020d2d474cde1a8c35fb127a",
+        "published_date": "Sat, 02 May 2026 11:13:00 GMT",
+        "first_seen": "2026-05-02T09:01:19.130136"
       }
     },
     "Finance": {
-      "2bd49eb4cf601d093137414f8197775a84560e86cdc0012c61873885b4b332bc": {
-        "title": "KPMG cleared by UK watchdog over audit of gambling group Entain",
-        "link": "https://www.ft.com/content/af212527-eee0-4275-ae3c-c15a22504fc4",
-        "published_date": "Thu, 02 Apr 2026 08:31:00 GMT",
-        "first_seen": "2026-04-02T08:51:14.315237"
-      },
       "cf17d3bf0b85c4d38e529fd001f45f2d7a59ce6e82914192a26e7a2a22f9f6f3": {
         "title": "Starbucks made two big moves to help its turnaround today — but they didn’t help the coffee chain’s stock",
         "link": "https://www.marketwatch.com/story/starbucks-made-two-big-moves-to-help-its-turnaround-today-but-they-didnt-help-the-coffee-chains-stock-f8ccd9dc?mod=mw_rss_topstories",
@@ -14619,21 +14571,15 @@
         "link": "https://www.marketwatch.com/story/apple-just-gave-a-subtle-clue-that-a-splashy-ai-acquisition-may-be-in-the-cards-110f5ce2?mod=mw_rss_topstories",
         "published_date": "Sat, 02 May 2026 02:31:00 GMT",
         "first_seen": "2026-05-02T07:01:00.759651"
+      },
+      "ab43d3d85d2cee84975b77ecb5998283cd7a1825c80f7b82197a0c5ce9333346": {
+        "title": "Spirit Airlines winds down operations after bailout talks founder",
+        "link": "https://www.ft.com/content/18ab5a6a-397a-47b5-af06-f8e846b45bf1",
+        "published_date": "Sat, 02 May 2026 07:31:00 GMT",
+        "first_seen": "2026-05-02T09:01:18.896346"
       }
     },
     "Ai": {
-      "8d4cfa384c101fc5c660b706cc899d5fc3a8234fbd3c7bac2e8870351ccb3d83": {
-        "title": "开卷视觉编程！GLM-5V-Turbo上线，一张草图搞定前端",
-        "link": "https://www.qbitai.com/2026/04/394641.html",
-        "published_date": "Thu, 02 Apr 2026 06:28:00 GMT",
-        "first_seen": "2026-04-02T08:51:14.475131"
-      },
-      "7d3ca45bebc43e297c13f46c0caf4aabafbe4363a1e615d432b4461fb5fe03e8": {
-        "title": "再融20亿！星海图把具身智能头部门槛抬到了200亿",
-        "link": "https://www.qbitai.com/2026/04/394626.html",
-        "published_date": "Thu, 02 Apr 2026 06:15:00 GMT",
-        "first_seen": "2026-04-02T08:51:14.475139"
-      },
       "94233eb62b99276c92a9c5f676510a7c4c50cfa57d0f047ab51dba9aa3c42347": {
         "title": "我的天！豆包每天烧120万亿Tokens啊！",
         "link": "https://www.qbitai.com/2026/04/395202.html",
@@ -16252,8 +16198,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-02T07:01:01.007484",
-    "Finance": "2026-05-02T07:01:00.759653",
+    "Technology": "2026-05-02T09:01:19.130138",
+    "Finance": "2026-05-02T09:01:18.896353",
     "Ai": "2026-05-02T07:01:00.913364"
   }
 }
