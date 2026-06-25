@@ -1,7 +1,52 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-24 08:19
+**最后更新时间**: 2026-06-25 08:18
+
+---
+
+## 🆕 最新更新 (2026-06-25 08:18)
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-06-25日刊](https://hex2077.dev/docs/2026-06/2026-06-25/)
+**发布时间**: 2026-06-25 09:21
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [跟Claude谈个恋爱怎么了？Nature最新研究：真能给人聊傻了](https://www.qbitai.com/2026/06/438365.html)
+**发布时间**: 2026-06-25 07:02
+
+#### [马斯克预测GLM明年Q1追平Fable，智谱唐杰：没那么久](https://www.qbitai.com/2026/06/438351.html)
+**发布时间**: 2026-06-25 04:35
+
+#### [不靠单款爆款吃红利，中国AI应用首现3亿ARR独角兽！腾讯顺为红杉继续加码](https://www.qbitai.com/2026/06/438336.html)
+**发布时间**: 2026-06-25 04:29
+
+#### [聚焦GW级Token工厂，解码下一代算力底座｜6月30日，深圳](https://www.qbitai.com/2026/06/438297.html)
+**发布时间**: 2026-06-25 02:22
+
+#### [豆包收费版第一天，我：充值…又得充值？我要再充值！](https://www.qbitai.com/2026/06/438204.html)
+**发布时间**: 2026-06-25 00:32
+
+#### [世界模型混战，Momenta率先冲刺IPO](https://www.qbitai.com/2026/06/438179.html)
+**发布时间**: 2026-06-24 23:20
+
+#### [百度智能云发布百度千帆Token Plan企业版，提供GLM-5.2等模型](https://www.qbitai.com/2026/06/438174.html)
+**发布时间**: 2026-06-24 11:09
+
+#### [1小时真机RL微调成功率破95%！HIL-ResRL：即插即用的VLA“外挂”神器](https://www.qbitai.com/2026/06/438166.html)
+**发布时间**: 2026-06-24 10:38
+
+#### [“AI填志愿”成高考后新现象，超1400万人在和千问聊高考](https://www.qbitai.com/2026/06/438198.html)
+**发布时间**: 2026-06-24 10:13
+
+#### [Future Tech谁会成为下一个AI巨头？这175个早期项目站上WAIC2026](https://www.qbitai.com/2026/06/438157.html)
+**发布时间**: 2026-06-24 09:58
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Thinking to recall: How reasoning unlocks parametric knowledge in LLMs](https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/)
+**发布时间**: 2026-06-24 16:51
 
 ---
 
