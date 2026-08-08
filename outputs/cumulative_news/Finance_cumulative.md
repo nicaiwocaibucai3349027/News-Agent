@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-07 08:51
+**最后更新时间**: 2026-08-08 05:39
+
+---
+
+## 🆕 最新更新 (2026-08-08 05:39)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Forget Asimov. Philip K Dick saw the future](https://www.ft.com/content/bdcf7729-3b03-49ec-82fb-b5773fdaa990)
+**发布时间**: 2026-08-08 04:00
+
+#### [The exciting boring decade](https://www.ft.com/content/10f9922c-4667-4fb9-b2a0-6f3264ef0b09?syn-25a6b1a6=1)
+**发布时间**: 2026-08-08 04:00
+
+#### [The US bares its financial weak spot](https://www.ft.com/content/fb49381a-3e09-4666-85b0-7a171e01394e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-08 04:00
+
+#### [China’s biggest travel site grapples with watchdog’s reservations](https://www.ft.com/content/2b3726f6-8149-4a74-a58e-eaaa20c9f2b9?syn-25a6b1a6=1)
+**发布时间**: 2026-08-08 00:54
+
+#### [Moonshot shake-up seeks to win Beijing nod for stock market debut](https://www.ft.com/content/9c0d4f0d-d2c6-4189-b4bb-200d17a4720f?syn-25a6b1a6=1)
+**发布时间**: 2026-08-07 23:00
+
+#### [Spain reinstates border controls on Italy as tensions rise over migrants](https://www.ft.com/content/f3050d94-6b78-4cf2-8b07-cf8903aacc7f?syn-25a6b1a6=1)
+**发布时间**: 2026-08-07 22:06
+
+#### [US economy unexpectedly sheds 23,000 jobs in July](https://www.ft.com/content/54adfc90-f555-44d3-8a81-4f39a07b5473?syn-25a6b1a6=1)
+**发布时间**: 2026-08-07 20:02
+
+#### [Trump revives threat to sack Fed governor Lisa Cook](https://www.ft.com/content/0012c7c9-fb31-4c90-a2e7-e65bd4629b22?syn-25a6b1a6=1)
+**发布时间**: 2026-08-07 19:56
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with his allies.](https://www.marketwatch.com/story/trump-is-trying-to-fire-lisa-cook-again-he-still-wants-to-stack-the-fed-with-allies-e6f40aa5?mod=mw_rss_topstories)
+**发布时间**: 2026-08-07 22:05
+
+#### [The smart way to invest in gold right now as the dollar slips](https://www.marketwatch.com/story/the-smart-way-to-invest-in-gold-right-now-as-the-dollar-slips-22fdf3b2?mod=mw_rss_topstories)
+**发布时间**: 2026-08-07 21:58
+
+#### [Palantir’s stock stages best week since 2024 — showing it’s no longer an ‘AI loser’](https://www.marketwatch.com/story/palantirs-stock-stages-best-week-since-2024-showing-its-no-longer-an-ai-loser-2fc6c32b?mod=mw_rss_topstories)
+**发布时间**: 2026-08-07 20:54
+
+#### [Two reasons why Nvidia’s stock saw its biggest weekly surge in more than a year](https://www.marketwatch.com/story/two-reasons-why-nvidias-stock-saw-its-biggest-weekly-surge-in-more-than-a-year-644875c8?mod=mw_rss_topstories)
+**发布时间**: 2026-08-07 20:41
+
+#### [SpaceX’s stock just had one of its best days ever — with the first lockup expiration now behind it](https://www.marketwatch.com/story/spacexs-stock-is-having-one-of-its-best-days-ever-with-the-first-lockup-expiration-now-behind-it-cd55946c?mod=mw_rss_topstories)
+**发布时间**: 2026-08-07 20:38
+
+#### [Are target date funds aggressive enough to give Americans retirement savings that last their lifetimes](https://www.marketwatch.com/story/are-target-date-funds-hurting-americans-as-they-live-longer-929f4f92?mod=mw_rss_topstories)
+**发布时间**: 2026-08-07 20:04
+
+#### [‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?](https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories)
+**发布时间**: 2026-08-07 20:00
+
+#### [My brother asked me to sign as his executor, but wouldn’t let me read the document. Should I have refused?](https://www.marketwatch.com/story/my-brother-asked-me-to-sign-as-his-executor-but-wouldnt-let-me-read-the-document-should-i-have-refused-1b53d9bc?mod=mw_rss_topstories)
+**发布时间**: 2026-08-07 19:45
 
 ---
 
