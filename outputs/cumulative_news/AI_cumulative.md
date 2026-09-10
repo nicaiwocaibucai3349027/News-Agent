@@ -1,7 +1,91 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-10 23:27
+**最后更新时间**: 2026-09-10 05:49
+
+---
+
+## 🆕 最新更新 (2026-09-10 05:49)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果](https://www.qbitai.com/2026/09/486436.html)
+**发布时间**: 2026-09-10 01:39
+
+#### [实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug](https://www.qbitai.com/2026/09/486350.html)
+**发布时间**: 2026-09-10 00:42
+
+#### [刚刚，苹果首款折叠屏发布！15999元起，AI参与设计](https://www.qbitai.com/2026/09/486450.html)
+**发布时间**: 2026-09-09 19:24
+
+#### [国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力](https://www.qbitai.com/2026/09/486370.html)
+**发布时间**: 2026-09-09 09:57
+
+#### [蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流](https://www.qbitai.com/2026/09/486288.html)
+**发布时间**: 2026-09-09 05:02
+
+#### [具身机器人能搞定超市盘点吗？全球七万门店正在给出答案](https://www.qbitai.com/2026/09/486280.html)
+**发布时间**: 2026-09-09 04:52
+
+#### [SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！](https://www.qbitai.com/2026/09/486052.html)
+**发布时间**: 2026-09-09 03:39
+
+#### [宜宾，一场机器人“招聘会”的产业雄心](https://www.qbitai.com/2026/09/486038.html)
+**发布时间**: 2026-09-09 02:15
+
+#### [感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置](https://www.qbitai.com/2026/09/485854.html)
+**发布时间**: 2026-09-08 06:05
+
+#### [现场围观金融AI决赛，大厂挑人的逻辑我悟了](https://www.qbitai.com/2026/09/485794.html)
+**发布时间**: 2026-09-08 05:05
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-09-09日刊](https://hex2077.dev/docs/2026-09/2026-09-09/)
+**发布时间**: 2026-09-09 03:03
+
+#### [2026-09-08日刊](https://hex2077.dev/docs/2026-09/2026-09-08/)
+**发布时间**: 2026-09-08 03:18
+
+#### [2026-09-07日刊](https://hex2077.dev/docs/2026-09/2026-09-07/)
+**发布时间**: 2026-09-07 04:21
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Transfer learning for genomic prediction in underrepresented populations](https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/)
+**发布时间**: 2026-09-03 18:20
+
+#### [A connectomics milestone: Mapping the complete male fruit fly brain](https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/)
+**发布时间**: 2026-09-03 16:00
+
+#### [Mapping global methane emissions from space with deep learning](https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/)
+**发布时间**: 2026-09-01 18:40
+
+#### [TimesFM-3: A zero-shot foundation model for multivariate forecasting](https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/)
+**发布时间**: 2026-08-31 17:19
+
+#### [Planetary prediction engine: Automating global models via Earth AI](https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/)
+**发布时间**: 2026-08-27 17:37
+
+#### [GlucoFM: Foundation model for continuous glucose monitoring](https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/)
+**发布时间**: 2026-08-26 18:42
+
+#### [AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR](https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/)
+**发布时间**: 2026-08-25 19:10
+
+#### [An AI tool for prioritizing candidate biomarkers from wearable sensor data](https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/)
+**发布时间**: 2026-08-21 17:02
+
+#### [How mobility gives language models a deeper understanding of place](https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/)
+**发布时间**: 2026-08-21 10:54
+
+#### [Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery](https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/)
+**发布时间**: 2026-08-17 10:34
+
+#### [Empty shelves or lost keys? Recall is the bottleneck for parametric factuality](https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/)
+**发布时间**: 2026-08-12 09:51
+
+#### [Advancing AMIE towards expert-level audio-visual clinical consultations](https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/)
+**发布时间**: 2026-08-11 17:04
 
 ---
 

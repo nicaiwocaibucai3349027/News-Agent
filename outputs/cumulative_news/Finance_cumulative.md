@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-10 23:29
+**最后更新时间**: 2026-09-10 05:51
+
+---
+
+## 🆕 最新更新 (2026-09-10 05:51)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump promises $5,000 ‘dividend’ for US voters if Republicans win midterms](https://www.ft.com/content/acfc3ed7-9e2d-4d86-a915-a68c9a55db1f?syn-25a6b1a6=1)
+**发布时间**: 2026-09-10 04:21
+
+#### [Japan must raise rates, central banker says](https://www.ft.com/content/8313accc-1de6-48a8-b184-e5e3b20c5b19?syn-25a6b1a6=1)
+**发布时间**: 2026-09-10 04:07
+
+#### [IMF ditched top candidate for chief economist job over Trump tariff remarks](https://www.ft.com/content/98329c45-f5b7-4885-9911-e0c8a9c83c0a?syn-25a6b1a6=1)
+**发布时间**: 2026-09-10 04:00
+
+#### [Lessons drawn from Charles Goodhart](https://www.ft.com/content/6c0bdcb1-e4dc-453e-b51d-9a8ae2509203?syn-25a6b1a6=1)
+**发布时间**: 2026-09-10 04:00
+
+#### [AI rewrites the venture capital playbook](https://www.ft.com/content/0c440134-686f-4b55-ab35-2afe4e6a3f91?syn-25a6b1a6=1)
+**发布时间**: 2026-09-10 04:00
+
+#### [The end of the ‘win-win’ era](https://www.ft.com/content/8fe10fa2-e061-4ebe-9853-f5b7136f6e56?syn-25a6b1a6=1)
+**发布时间**: 2026-09-10 04:00
+
+#### [Starbucks bets $1bn on coffee house antidote to lonely digital lives](https://www.ft.com/content/8d387f65-cdd2-4c6d-8897-ff0db5211cc3?syn-25a6b1a6=1)
+**发布时间**: 2026-09-10 04:00
+
+#### [Dorchester to sell Qatari sheikh’s car over unpaid £460,000 bill](https://www.ft.com/content/031b8b28-8a95-499f-b3f4-216d3b3b70df?syn-25a6b1a6=1)
+**发布时间**: 2026-09-10 04:00
+
+#### [US-China borrowing costs diverge to widest level ever](https://www.ft.com/content/258d6f1d-07a5-4c78-9c21-9867d8817077?syn-25a6b1a6=1)
+**发布时间**: 2026-09-10 03:54
+
+#### [Drone almost struck Zelenskyy’s plane, says Ukraine](https://www.ft.com/content/4fc1dc2e-f0d7-433c-8e96-bc1e8923dcbc?syn-25a6b1a6=1)
+**发布时间**: 2026-09-09 22:09
+
+#### [Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors](https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab?syn-25a6b1a6=1)
+**发布时间**: 2026-09-09 18:22
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump promises $5,000 checks if Republicans win the midterms. He also teased tariff and ‘DOGE’ dividends last year that never came.](https://www.marketwatch.com/story/trump-promises-5-000-checks-if-republicans-win-the-midterms-but-he-also-promised-tariff-dividends-last-year-that-never-came-d062c602?mod=mw_rss_topstories)
+**发布时间**: 2026-09-10 03:00
+
+#### [Hunter Biden memecoin $LAPTOP loses 95% of market value just hours after launch](https://www.marketwatch.com/story/hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-3e9307d0?mod=mw_rss_topstories)
+**发布时间**: 2026-09-10 02:04
+
+#### [Diesel prices hit another record high. If you’re shocked, wait until you see your grocery bill.](https://www.marketwatch.com/story/diesel-prices-hit-another-record-high-if-youre-shocked-wait-until-you-see-your-grocery-bill-afee7076?mod=mw_rss_topstories)
+**发布时间**: 2026-09-09 22:51
+
+#### [I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?](https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories)
+**发布时间**: 2026-09-09 22:30
+
+#### [Home-insurance premiums just hit a record high. Here’s where they spiked the most.](https://www.marketwatch.com/story/home-insurance-premiums-just-hit-a-record-high-heres-where-they-spiked-the-most-658ee4d9?mod=mw_rss_topstories)
+**发布时间**: 2026-09-09 22:21
+
+#### [‘We fear financial exploitation’: Who will manage our finances if my wife and I become incapacitated?](https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories)
+**发布时间**: 2026-09-09 22:00
+
+#### [The bull market’s biggest enemy right now could be Bessent’s interventions](https://www.marketwatch.com/story/the-bull-markets-biggest-enemy-right-now-could-be-bessents-interventions-134bbe78?mod=mw_rss_topstories)
+**发布时间**: 2026-09-09 21:17
+
+#### [‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?](https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories)
+**发布时间**: 2026-09-09 21:16
+
+#### [Oil’s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates](https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories)
+**发布时间**: 2026-09-09 20:36
+
+#### [You should always have energy stocks in your 401(k). Yes, even when oil is at $100.](https://www.marketwatch.com/story/oil-at-100-why-you-should-always-have-energy-stocks-in-your-401-k-b82798f1?mod=mw_rss_topstories)
+**发布时间**: 2026-09-09 20:27
 
 ---
 
