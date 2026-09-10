@@ -1,7 +1,60 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-10 05:51
+**最后更新时间**: 2026-09-10 09:21
+
+---
+
+## 🆕 最新更新 (2026-09-10 09:21)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [参数几乎翻倍，推理反而更省：DeepSeek V4.1-Flash 重构 KV Cache](https://www.infoq.cn/article/sbaJrAa8VTIRKIPCpKlo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-10 17:06
+
+#### [Google 发布 BeyondCorp 继任者，但普通企业真的学得来吗？](https://www.infoq.cn/article/V2IvFxuSsxAY3zLVtzga?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-10 16:06
+
+#### [多人同时改地图、标数据，JupyterGIS 正在重做 GIS 工作流](https://www.infoq.cn/article/QpQBK0EXkx5U5CZe1OP9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-10 14:21
+
+#### [9 月 20 日杭州，FDE 现场解码：企业 AI 真正卡在技术，还是组织？](https://www.infoq.cn/article/QIIYxNtMINFNh4sCM3vu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-09 18:39
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [独家｜荣耀退股进入实际退款阶段，已有离职员工收到“回头钱”](https://www.tmtpost.com/8135022.html)
+**发布时间**: 2026-09-10 17:05
+
+#### [央企，给老工业基地换引擎](https://www.tmtpost.com/8135238.html)
+**发布时间**: 2026-09-10 16:13
+
+#### [基金市场概况与资产配置观点（08.31—09.06）](https://www.tmtpost.com/8135325.html)
+**发布时间**: 2026-09-10 15:23
+
+#### [上市公司TOP5济安评估（8月31日至9月6日）](https://www.tmtpost.com/8135313.html)
+**发布时间**: 2026-09-10 15:23
+
+#### [量化交易不违法，但未必道德——从金融哲学与全球市场现实重估算法交易](https://www.tmtpost.com/8135305.html)
+**发布时间**: 2026-09-10 15:22
+
+#### [价值判断：涨停板的投资机会和风险提示（9月8日）｜上市公司观察](https://www.tmtpost.com/8135303.html)
+**发布时间**: 2026-09-10 15:22
+
+#### [同样的好公司，为什么有的市值兑现快、有的慢](https://www.tmtpost.com/8135294.html)
+**发布时间**: 2026-09-10 15:22
+
+#### [Google Earth之后，高德为什么还要再造一个Earth？](https://www.tmtpost.com/8134953.html)
+**发布时间**: 2026-09-10 15:01
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [App+1｜下一节：教学工作紧张忙碌，下一节课从从容容](https://sspai.com/post/114384)
+**发布时间**: 2026-09-10 14:51
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [传字节开发实时空间视频生成模型；微信内测「AI 社交」功能；华为小米同天发布折叠屏手机](http://www.geekpark.net/news/369965)
+**发布时间**: 2026-09-08 08:34
 
 ---
 

@@ -373,6 +373,78 @@
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536724&idx=1&sn=f31a6e255ca663a00167fba0e83dd64a",
         "published_date": "Mon, 07 Sep 2026 12:05:00 GMT",
         "first_seen": "2026-09-10T05:51:22.583341"
+      },
+      "e8c7d6ab4d3d5d6e2d27c83c2dac9fec70d583433809fd65c02dba061c96b58c": {
+        "title": "参数几乎翻倍，推理反而更省：DeepSeek V4.1-Flash 重构 KV Cache",
+        "link": "https://www.infoq.cn/article/sbaJrAa8VTIRKIPCpKlo?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 10 Sep 2026 17:06:00 GMT",
+        "first_seen": "2026-09-10T09:21:06.596601"
+      },
+      "45322a14661a6695fcb7152c4839e4f0f1bc79861604a786d85ad4b074bd6c65": {
+        "title": "Google 发布 BeyondCorp 继任者，但普通企业真的学得来吗？",
+        "link": "https://www.infoq.cn/article/V2IvFxuSsxAY3zLVtzga?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 10 Sep 2026 16:06:00 GMT",
+        "first_seen": "2026-09-10T09:21:06.596616"
+      },
+      "be9e021b1c696bf472e635e8f4c593d1e6d2dbe35e4776f8cdfc14d3e92174fa": {
+        "title": "多人同时改地图、标数据，JupyterGIS 正在重做 GIS 工作流",
+        "link": "https://www.infoq.cn/article/QpQBK0EXkx5U5CZe1OP9?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 10 Sep 2026 14:21:00 GMT",
+        "first_seen": "2026-09-10T09:21:06.596618"
+      },
+      "b8ccad8bb11827ade207a43cc392518b7ba8ddfa2ab7ec666caca914486455eb": {
+        "title": "独家｜荣耀退股进入实际退款阶段，已有离职员工收到“回头钱”",
+        "link": "https://www.tmtpost.com/8135022.html",
+        "published_date": "Thu, 10 Sep 2026 17:05:00 GMT",
+        "first_seen": "2026-09-10T09:21:06.596621"
+      },
+      "9fae08b59fded1a18de3e34eaf9e6b5b255f9be45e83ffb47edfa0a653a844c1": {
+        "title": "央企，给老工业基地换引擎",
+        "link": "https://www.tmtpost.com/8135238.html",
+        "published_date": "Thu, 10 Sep 2026 16:13:00 GMT",
+        "first_seen": "2026-09-10T09:21:06.596623"
+      },
+      "9a5f61249e7a574b3e108b64382ddccc2e66e434a7b21cd930cc0357f47d6fe4": {
+        "title": "基金市场概况与资产配置观点（08.31—09.06）",
+        "link": "https://www.tmtpost.com/8135325.html",
+        "published_date": "Thu, 10 Sep 2026 15:23:00 GMT",
+        "first_seen": "2026-09-10T09:21:06.596624"
+      },
+      "e2e481530da0f4201443d124da962a1ae1c3136314dc5bf43096226488de9424": {
+        "title": "上市公司TOP5济安评估（8月31日至9月6日）",
+        "link": "https://www.tmtpost.com/8135313.html",
+        "published_date": "Thu, 10 Sep 2026 15:23:00 GMT",
+        "first_seen": "2026-09-10T09:21:06.596626"
+      },
+      "01d4db7248e41094d3d759c72fb31f22d49cf98eccc65d2006dffcbdb2ef58e9": {
+        "title": "量化交易不违法，但未必道德——从金融哲学与全球市场现实重估算法交易",
+        "link": "https://www.tmtpost.com/8135305.html",
+        "published_date": "Thu, 10 Sep 2026 15:22:00 GMT",
+        "first_seen": "2026-09-10T09:21:06.596627"
+      },
+      "f8d8f5e06ed2f763714f61e21faa5f4628c46d37796338832507a7275962c496": {
+        "title": "价值判断：涨停板的投资机会和风险提示（9月8日）｜上市公司观察",
+        "link": "https://www.tmtpost.com/8135303.html",
+        "published_date": "Thu, 10 Sep 2026 15:22:00 GMT",
+        "first_seen": "2026-09-10T09:21:06.596629"
+      },
+      "de634962c6a7cd7aba86824a977da91cb5edaf63f63b8b5306bf9e785807e2eb": {
+        "title": "同样的好公司，为什么有的市值兑现快、有的慢",
+        "link": "https://www.tmtpost.com/8135294.html",
+        "published_date": "Thu, 10 Sep 2026 15:22:00 GMT",
+        "first_seen": "2026-09-10T09:21:06.596630"
+      },
+      "5a766eac0cc81eecf0efa160e7484a9f66da83bd49d30f749f4b95afed3d4602": {
+        "title": "Google Earth之后，高德为什么还要再造一个Earth？",
+        "link": "https://www.tmtpost.com/8134953.html",
+        "published_date": "Thu, 10 Sep 2026 15:01:00 GMT",
+        "first_seen": "2026-09-10T09:21:06.596631"
+      },
+      "9e4d98b0bb0a5529470e2d1a231a95d3c97ea915c98c8b7dc053b7aef937783b": {
+        "title": "App+1｜下一节：教学工作紧张忙碌，下一节课从从容容",
+        "link": "https://sspai.com/post/114384",
+        "published_date": "Thu, 10 Sep 2026 14:51:00 GMT",
+        "first_seen": "2026-09-10T09:21:06.596633"
       }
     },
     "Finance": {
@@ -501,6 +573,24 @@
         "link": "https://www.marketwatch.com/story/oil-at-100-why-you-should-always-have-energy-stocks-in-your-401-k-b82798f1?mod=mw_rss_topstories",
         "published_date": "Wed, 09 Sep 2026 20:27:00 GMT",
         "first_seen": "2026-09-10T05:51:22.812679"
+      },
+      "359243aaf9fbd5080b1bf08c4d5ca0d33edd61a65e3e0b773880a8626225be0c": {
+        "title": "This is the advice comedian Tiffany Haddish got that helped her build a real-estate portfolio of 17 properties",
+        "link": "https://www.marketwatch.com/story/this-is-the-advice-comedian-tiffany-haddish-got-that-helped-her-build-a-real-estate-portfolio-of-17-properties-0d981f1e?mod=mw_rss_topstories",
+        "published_date": "Thu, 10 Sep 2026 09:04:00 GMT",
+        "first_seen": "2026-09-10T09:21:06.745810"
+      },
+      "b57186e252783c31a8f822cfa0b4cda1151fabff037c875c8b8a9d620ff30752": {
+        "title": "Running the numbers on Trump’s $5,000 dividend proposal, from its cost to the impact on average American’s finances",
+        "link": "https://www.marketwatch.com/story/running-the-numbers-on-trumps-5-000-dividend-proposal-from-its-cost-to-the-impact-on-average-americans-finances-a708cba5?mod=mw_rss_topstories",
+        "published_date": "Thu, 10 Sep 2026 08:47:00 GMT",
+        "first_seen": "2026-09-10T09:21:06.745820"
+      },
+      "4a420103ac6f27984ee2f00923be4b1fe41cda779d7526fb2c3b1ccd6c090d60": {
+        "title": "With the copper price surfing all-time highs, here’s what one CEO thinks about the sector long term",
+        "link": "https://www.marketwatch.com/story/with-the-copper-price-surfing-all-time-highs-heres-what-one-ceo-thinks-about-the-sector-long-term-0213d051?mod=mw_rss_topstories",
+        "published_date": "Thu, 10 Sep 2026 07:29:00 GMT",
+        "first_seen": "2026-09-10T09:21:06.745822"
       }
     },
     "Ai": {
@@ -569,13 +659,43 @@
         "link": "https://hex2077.dev/docs/2026-09/2026-09-09/",
         "published_date": "Wed, 09 Sep 2026 03:03:00 GMT",
         "first_seen": "2026-09-10T05:51:22.712145"
+      },
+      "cde40925d2e6df15f91af48fedeb70da88011422ad5d6ea597c494db650ea61f": {
+        "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
+        "link": "https://www.qbitai.com/2026/09/486900.html",
+        "published_date": "Thu, 10 Sep 2026 08:17:00 GMT",
+        "first_seen": "2026-09-10T09:21:06.705694"
+      },
+      "8ae455b6f88810fab352801cc45882f77051efebd7214fdf165e1a3059b27333": {
+        "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
+        "link": "https://www.qbitai.com/2026/09/486747.html",
+        "published_date": "Thu, 10 Sep 2026 07:57:00 GMT",
+        "first_seen": "2026-09-10T09:21:06.705703"
+      },
+      "3aa6b3552f9d5873dd60f8b8442b27e2d1aab5aebadfd846ffc47b8422612599": {
+        "title": "这个新开源的世界模型只有1.3B，单卡就能实时跑！",
+        "link": "https://www.qbitai.com/2026/09/486716.html",
+        "published_date": "Thu, 10 Sep 2026 07:44:00 GMT",
+        "first_seen": "2026-09-10T09:21:06.705705"
+      },
+      "1573fc0c4e50bfcefb03a58687974bd7bd53f97f2daec53459b3f83aa9c091f9": {
+        "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
+        "link": "https://www.qbitai.com/2026/09/486684.html",
+        "published_date": "Thu, 10 Sep 2026 07:25:00 GMT",
+        "first_seen": "2026-09-10T09:21:06.705707"
+      },
+      "6e9ad81c42361a00d8dd713071a53130c99aa9b84e5ba71ebdc7427334d5d17d": {
+        "title": "营销科技巨头蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，让品牌更高效连接全球500万创作者",
+        "link": "https://www.qbitai.com/2026/09/486651.html",
+        "published_date": "Thu, 10 Sep 2026 06:25:00 GMT",
+        "first_seen": "2026-09-10T09:21:06.705709"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-10T05:51:22.583343",
-    "Finance": "2026-09-10T05:51:22.812681",
-    "Ai": "2026-09-10T05:51:22.712148"
+    "Technology": "2026-09-10T09:21:06.596635",
+    "Finance": "2026-09-10T09:21:06.745824",
+    "Ai": "2026-09-10T09:21:06.705711"
   }
 }
