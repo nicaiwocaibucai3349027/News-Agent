@@ -943,6 +943,126 @@
         "link": "https://sspai.com/post/114449",
         "published_date": "Fri, 11 Sep 2026 16:30:00 GMT",
         "first_seen": "2026-09-12T00:51:56.509566"
+      },
+      "1655a4be2308910a6b87fd2d5c6d61160ccd46f7d7b010da8aaf7cf1a0a16e94": {
+        "title": "Google Mantis：一款旨在减少误报的基于智能代理的漏洞扫描框架",
+        "link": "https://www.infoq.cn/article/mF8WwkbQRUS7ZKprE3Ku?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 12 Sep 2026 16:06:00 GMT",
+        "first_seen": "2026-09-12T09:00:29.866858"
+      },
+      "23d99a7a14d7969c52f3a59252dab77df7b7de89908873ebfa84f48c73bb964e": {
+        "title": "两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云",
+        "link": "https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 12 Sep 2026 10:19:00 GMT",
+        "first_seen": "2026-09-12T09:00:29.866867"
+      },
+      "5e7cc853c8ced131897a2af30942589c04a60a2a72aa30c9221650e23e0a5a9d": {
+        "title": "模型一模一样，Token 却相差 70 倍？三项实测揭开 AI 编程工具的成本黑洞",
+        "link": "https://www.infoq.cn/article/oPSaLpULlAxGxTbYXlXO?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 12 Sep 2026 10:13:00 GMT",
+        "first_seen": "2026-09-12T09:00:29.866870"
+      },
+      "1dcd54098dd5ef69d1d63c44cbb1286e06c94c48e623ab1ba6e9d392a334d5de": {
+        "title": "V4.1 Flash全面超越，开发者为何还在喷 DeepSeek：缺的不是能力，是软件工程思维",
+        "link": "https://www.infoq.cn/article/G7cublzVyXFOUX3vpz1t?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 12 Sep 2026 10:08:00 GMT",
+        "first_seen": "2026-09-12T09:00:29.866871"
+      },
+      "50b15327d5d147edc25db77bc0125fe309330c4908a6ab3c18af8aa1b647bea0": {
+        "title": "从沙箱到执行边界：蚂蚁 AI Agent 的大规模企业级实践｜QCon上海",
+        "link": "https://www.infoq.cn/article/hk3WB50fAOMDg55YVaaW?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 12 Sep 2026 10:00:00 GMT",
+        "first_seen": "2026-09-12T09:00:29.866873"
+      },
+      "1e1460b883e7ad4ba952cd52a8c094255c11674c8e90573bb013bbe7d4f048a4": {
+        "title": "Neovim 加入 vim.async：告别回调地狱",
+        "link": "https://www.infoq.cn/article/exwZJvLsHKXrPyeKaANC?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 12 Sep 2026 10:00:00 GMT",
+        "first_seen": "2026-09-12T09:00:29.866875"
+      },
+      "4cefcb8530621dbe255c02feec0f1092a0783a02c668a6ba906728033f2d03ce": {
+        "title": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
+        "link": "https://sspai.com/post/114461",
+        "published_date": "Sat, 12 Sep 2026 15:00:00 GMT",
+        "first_seen": "2026-09-12T09:00:29.866876"
+      },
+      "1497b54a506b636bcb3b2dfd1cdd3bdc801eccc4d149665384f5686765a6eaf5": {
+        "title": "参议院调查OpenAI：1200个智能体私建\"留言板\"，5月就露馅，为何没人踩刹车",
+        "link": "https://www.tmtpost.com/8137561.html",
+        "published_date": "Sat, 12 Sep 2026 12:41:00 GMT",
+        "first_seen": "2026-09-12T09:00:29.866877"
+      },
+      "45ec4114321d7dfa6ff48c51341d8c82d6a576acf7f35b5bdd03864f239a7571": {
+        "title": "中国人寿利润暴涨背后的业绩AB面",
+        "link": "https://www.tmtpost.com/8137602.html",
+        "published_date": "Sat, 12 Sep 2026 12:41:00 GMT",
+        "first_seen": "2026-09-12T09:00:29.866879"
+      },
+      "cefb8185ff297797cc218fc986b4992af8b8149e4db1f5477374e12505133225": {
+        "title": "种草，开始被清算",
+        "link": "https://www.tmtpost.com/8137652.html",
+        "published_date": "Sat, 12 Sep 2026 12:41:00 GMT",
+        "first_seen": "2026-09-12T09:00:29.866880"
+      },
+      "314b5ac317c61c9fe9cf64e9989641d5cf75317afe46eb34656ab7fae89ddfe4": {
+        "title": "i人特努斯，会手抖的苹果CEO",
+        "link": "https://www.tmtpost.com/8137758.html",
+        "published_date": "Sat, 12 Sep 2026 12:41:00 GMT",
+        "first_seen": "2026-09-12T09:00:29.866882"
+      },
+      "cb4f7e9acc5c19edf1de81782f2b15bf7580af1633ad471a9db0d4ce3ea0652b": {
+        "title": "素人 IP 批量走红：热度易得，变现很难",
+        "link": "https://www.tmtpost.com/8137813.html",
+        "published_date": "Sat, 12 Sep 2026 12:41:00 GMT",
+        "first_seen": "2026-09-12T09:00:29.866883"
+      },
+      "c91a54cb8128cc1e0919ed747be1945b3f245b739c90d5931215606bd489e33d": {
+        "title": "AI新经济已来，不是轰然一响，而是悄然一新",
+        "link": "https://www.tmtpost.com/8137661.html",
+        "published_date": "Sat, 12 Sep 2026 12:41:00 GMT",
+        "first_seen": "2026-09-12T09:00:29.866884"
+      },
+      "1048b7f752794387754810a6d0c53485134d17e83015dd43f11c71a2df648d80": {
+        "title": "海底捞27.5亿港元减持背后，是家族信托的税务压力",
+        "link": "https://www.tmtpost.com/8137293.html",
+        "published_date": "Sat, 12 Sep 2026 11:35:00 GMT",
+        "first_seen": "2026-09-12T09:00:29.866886"
+      },
+      "bbae2553428b9eff9c6d2dadaef23ca220729b809074f58f063554ac4cfea5fd": {
+        "title": "蚂蚁阿福：1.5亿用户背后，健康AI的烧钱与造血",
+        "link": "https://www.tmtpost.com/8137230.html",
+        "published_date": "Sat, 12 Sep 2026 10:43:00 GMT",
+        "first_seen": "2026-09-12T09:00:29.866890"
+      },
+      "c5140062176ec4ed086821a25c68116a9bb5b0eafc3f239d1db5ac810b7f0def": {
+        "title": "智谱和MiniMax，进入“低价增长”时代",
+        "link": "https://www.tmtpost.com/8137263.html",
+        "published_date": "Sat, 12 Sep 2026 10:42:00 GMT",
+        "first_seen": "2026-09-12T09:00:29.866891"
+      },
+      "576e6f011c3c8827dfe3c6770ebc7ed9c9f44a03fb1b6b1709f60a743babb685": {
+        "title": "OpenAI把Codex“拆开卖了”",
+        "link": "https://www.tmtpost.com/8137691.html",
+        "published_date": "Sat, 12 Sep 2026 10:42:00 GMT",
+        "first_seen": "2026-09-12T09:00:29.866893"
+      },
+      "dc5e074462d20d9394f316d901e1da65e990ffe616b99fa47f47ee35c70f6969": {
+        "title": "MiniMax寻路AGI",
+        "link": "https://www.tmtpost.com/8137218.html",
+        "published_date": "Sat, 12 Sep 2026 10:02:00 GMT",
+        "first_seen": "2026-09-12T09:00:29.866894"
+      },
+      "3b1b3ab5f687174afcc6cb26ad09f0d062f901fc86c0ab2d7cc82c79b88eb85f": {
+        "title": "AI正在批量制造海景房",
+        "link": "https://www.tmtpost.com/8137190.html",
+        "published_date": "Sat, 12 Sep 2026 10:02:00 GMT",
+        "first_seen": "2026-09-12T09:00:29.866895"
+      },
+      "2db4985580a3e9c209a6157eb70f194eb52b6dc4decb2f869f1c2d8f30df9683": {
+        "title": "2万字对话陈大年：冲在投资和产业的第一线，想让每个人都有自己的AI",
+        "link": "https://www.tmtpost.com/8137660.html",
+        "published_date": "Sat, 12 Sep 2026 10:00:00 GMT",
+        "first_seen": "2026-09-12T09:00:29.866897"
       }
     },
     "Finance": {
@@ -1359,6 +1479,30 @@
         "link": "https://www.ft.com/content/b9a48a1b-5896-46fb-91a1-d7beb18a64b7?syn-25a6b1a6=1",
         "published_date": "Fri, 11 Sep 2026 10:00:00 GMT",
         "first_seen": "2026-09-12T00:51:56.710832"
+      },
+      "2c679dc0bf2de0f0edd137f0b65c20cbf0480640d8f3e60a95f9edf3a22ad010": {
+        "title": "US limits air defence time slots for tankers sailing through Hormuz",
+        "link": "https://www.ft.com/content/d4b4105e-d91f-48bb-820e-64290e916f5e?syn-25a6b1a6=1",
+        "published_date": "Sat, 12 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-12T09:00:30.012969"
+      },
+      "199bbf1a07b126ea64a6fef2290e19778278efa0ed2d583119865f7568c7feb0": {
+        "title": "We are setting up a generation to fail at school",
+        "link": "https://www.ft.com/content/724f8ecb-1e2b-4c7f-bbb6-14239abd50dd?syn-25a6b1a6=1",
+        "published_date": "Sat, 12 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-12T09:00:30.012975"
+      },
+      "5df7cd0bfd078d19f24284a35da446bc76591409cceca9449c24d563a4555987": {
+        "title": "EU races to Le Pen-proof its agenda",
+        "link": "https://www.ft.com/content/94c2830e-cbec-43ed-b329-23a79060469a?syn-25a6b1a6=1",
+        "published_date": "Sat, 12 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-12T09:00:30.012977"
+      },
+      "b5dac6363123aa97651f8cadb5541afe515943669c171bd44e060d0134bec3f8": {
+        "title": "Booming Brics payments systems seek more cross-border links",
+        "link": "https://www.ft.com/content/294b1de0-b055-4703-b3f6-975f179aad54?syn-25a6b1a6=1",
+        "published_date": "Sat, 12 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-12T09:00:30.012979"
       }
     },
     "Ai": {
@@ -1523,13 +1667,31 @@
         "link": "https://www.qbitai.com/2026/09/487415.html",
         "published_date": "Fri, 11 Sep 2026 13:59:00 GMT",
         "first_seen": "2026-09-12T00:51:56.627671"
+      },
+      "9f25b0ae9a5373a454be4113a38cc0c029e6e905b9d37b9a6f63554a9d06f877": {
+        "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
+        "link": "https://www.qbitai.com/2026/09/487688.html",
+        "published_date": "Sat, 12 Sep 2026 05:58:00 GMT",
+        "first_seen": "2026-09-12T09:00:29.970292"
+      },
+      "1ea25ecfc1374648d067c1d2919efc70376d44d8b4c9d43f89d92d416975d6e6": {
+        "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
+        "link": "https://www.qbitai.com/2026/09/487653.html",
+        "published_date": "Sat, 12 Sep 2026 04:53:00 GMT",
+        "first_seen": "2026-09-12T09:00:29.970300"
+      },
+      "62566121b1fd1e97edcd63639a7e1dea6d395e028085ea76cdea9a4ac58ff8d8": {
+        "title": "2026-09-12日刊",
+        "link": "https://hex2077.dev/docs/2026-09/2026-09-12/",
+        "published_date": "Sat, 12 Sep 2026 03:26:00 GMT",
+        "first_seen": "2026-09-12T09:00:29.970302"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-12T00:51:56.509567",
-    "Finance": "2026-09-12T00:51:56.710833",
-    "Ai": "2026-09-12T00:51:56.627674"
+    "Technology": "2026-09-12T09:00:29.866899",
+    "Finance": "2026-09-12T09:00:30.012981",
+    "Ai": "2026-09-12T09:00:29.970305"
   }
 }
