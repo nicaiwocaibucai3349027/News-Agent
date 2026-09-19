@@ -2989,6 +2989,150 @@
         "link": "https://sspai.com/post/114716",
         "published_date": "Fri, 18 Sep 2026 17:58:00 GMT",
         "first_seen": "2026-09-19T00:53:55.909028"
+      },
+      "5e80c3c4c2b1a3e2218f2e916d10742bc19951b3272d647abd3bd2fa5fdf1f77": {
+        "title": "从技术深潜到动手实战，Snowflake World Tour 技术专场让 AI 走进真实业务",
+        "link": "https://www.infoq.cn/article/mrl45Fq31U7JORZsV5re?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 19 Sep 2026 17:02:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.338914"
+      },
+      "87c9171e762dd64cbe391bdeea95b8308311df1d5597289f7dc2daa1320d731f": {
+        "title": "Solaris 早已淡出视野，它的“转门”却还藏在 Go、WebKit 和 Rust 里",
+        "link": "https://www.infoq.cn/article/GAhNItmT2o7kvEA1ovxt?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 19 Sep 2026 13:00:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.338923"
+      },
+      "ecf8bd27c0b00af6d7b62e590ccb9aefe269bae8af84313b72286e4df897e84f": {
+        "title": "单个机柜到底能跑多少个 Agent？答案不在 GPU 身上",
+        "link": "https://www.infoq.cn/article/brH7TRcHB9evl32KQJkY?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 19 Sep 2026 10:55:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.338926"
+      },
+      "84039de15e47777f5d18b0ab1bbb00f45150a510b9a19d6f726fc14ea6ac8b76": {
+        "title": "Docker推出完全重构的虚拟化层以提升性能并改善开发体验",
+        "link": "https://www.infoq.cn/article/AXtfCFx09aNmpWgLkqhN?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 19 Sep 2026 10:00:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.338928"
+      },
+      "d0a41566755b6b65cce03b3b3143ee2b8dfb6c13abd5bebf847120e5fd7b597a": {
+        "title": "从算子调优到推理自治：构建 MaaS 场景下的 AI Inference 自动优化闭环｜QCon上海",
+        "link": "https://www.infoq.cn/article/G4tlQvg2IsabE0v1RDOE?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 19 Sep 2026 10:00:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.338929"
+      },
+      "46898b59121b721d452073a554d4bd462457db8a730c1b6a15bd7604b282f34c": {
+        "title": "姚星丞之后，AI人才的中间层开始掉价",
+        "link": "https://www.tmtpost.com/8145649.html",
+        "published_date": "Sat, 19 Sep 2026 16:28:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.338931"
+      },
+      "d04ae3d167cc2175474259d9db7cac430706bfe27360e1eeae30c7b8ecf70dca": {
+        "title": "AI猎头魔幻一年：一单佣金300万，数百人围猎一个岗位",
+        "link": "https://www.tmtpost.com/8145624.html",
+        "published_date": "Sat, 19 Sep 2026 16:28:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.338932"
+      },
+      "b0dc97c9cd7f56afe586e30bcb568b52cc41c4722623d26a0a5b3250a49d5aeb": {
+        "title": "从一份中报看光伏行业反攻信号：ABC组件半年出货9.39GW，欧洲市占率超20%，爱旭股份率先突围",
+        "link": "https://www.tmtpost.com/8145660.html",
+        "published_date": "Sat, 19 Sep 2026 16:27:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.338934"
+      },
+      "fc18d7a2abd906f187bbc6a93226b9782f198a66e0cb975b59904c061f51f6b8": {
+        "title": "精读超级央行周：中东点燃全球加息潮，中国为何逆势走完全不同的路？",
+        "link": "https://www.tmtpost.com/8145663.html",
+        "published_date": "Sat, 19 Sep 2026 15:13:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.338935"
+      },
+      "4da5e6034bb09819791cd18ef973fac0cd8110103afc61fd8a7583be2cd9153d": {
+        "title": "Gemini 4 Pro疑似泄露，“AI减速”又成空话",
+        "link": "https://www.tmtpost.com/8145550.html",
+        "published_date": "Sat, 19 Sep 2026 10:54:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.338937"
+      },
+      "73648a38806846eaf1d171cd56d77628fe42b4dece507118b8b7404f68cec8c5": {
+        "title": "是谁在买300倍PE利润的“神股”？",
+        "link": "https://www.tmtpost.com/8145422.html",
+        "published_date": "Sat, 19 Sep 2026 10:33:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.338938"
+      },
+      "d3aeeacca6d9d4000c009599ab5af47baf1428facf9a19e51642b8bd758e79af": {
+        "title": "关于豆包手机二代，我最关心这10个问题",
+        "link": "https://www.tmtpost.com/8145343.html",
+        "published_date": "Sat, 19 Sep 2026 10:25:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.338940"
+      },
+      "03a9bc83029b6b4601bb0140ec28ec5dfe024d6fafecf68d0e76d86a7d21ed22": {
+        "title": "美联储重启加息：AI 企业融资难度急剧攀升",
+        "link": "https://www.tmtpost.com/8145311.html",
+        "published_date": "Sat, 19 Sep 2026 10:18:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.338941"
+      },
+      "9d8fe8ac86a5c60b0714242a1510153469d41c36e0cb385576e1bdf3e43bdc3a": {
+        "title": "理想告别，吉利合体，宁王还是那个宁王",
+        "link": "https://www.tmtpost.com/8145046.html",
+        "published_date": "Sat, 19 Sep 2026 10:13:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.338943"
+      },
+      "73ff6841827a8652eb18c7252d4f42c87c79b5582deac75142ec28f263e8ca9f": {
+        "title": "德邦基金太“魔幻”：单只基金亏损22亿，管理费涨了55倍",
+        "link": "https://www.tmtpost.com/8145304.html",
+        "published_date": "Sat, 19 Sep 2026 10:06:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.338945"
+      },
+      "b35d512ca69f0f713ab263ea5ef9684fa200c08cbb4631c313aa21515c786ea7": {
+        "title": "几多全不想当金粒门平替，但越来越贵了",
+        "link": "https://www.tmtpost.com/8145051.html",
+        "published_date": "Sat, 19 Sep 2026 10:06:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.338946"
+      },
+      "10a15143e9db76ceff90b4fb3702f33358257ddded38350375b988ff2df993ab": {
+        "title": "AI办公，自费上班打工人的第一笔“首付”",
+        "link": "https://www.tmtpost.com/8145186.html",
+        "published_date": "Sat, 19 Sep 2026 10:00:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.338947"
+      },
+      "7d5adae6aa146d7bb9b133c78e8843d7d7e41037eee3440e35ffa742a5d8c8b8": {
+        "title": "华为放手之后，赛力斯能接住问界吗？",
+        "link": "https://www.tmtpost.com/8144991.html",
+        "published_date": "Sat, 19 Sep 2026 10:00:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.338949"
+      },
+      "e2df0185386cf4480b448278e74328bd09d26a7026630559333853f22462e726": {
+        "title": "5 万亿美元的账面富贵：VC 也需要一份尽调",
+        "link": "https://www.tmtpost.com/8144989.html",
+        "published_date": "Sat, 19 Sep 2026 09:57:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.338950"
+      },
+      "4a1c8d953c59260058113b74d57b6e8966b390f03df62458e4a2349edda7a298": {
+        "title": "锌的“托克时代”：LME库存低位背后，可交割的锌在谁手里？",
+        "link": "https://www.tmtpost.com/8144985.html",
+        "published_date": "Sat, 19 Sep 2026 09:57:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.338952"
+      },
+      "93c13e05ff16cf19b306aedb57de8fce112958600fdd662c3ab0cdb3b16e8ed9": {
+        "title": "何小鹏，哄好了王凤英",
+        "link": "https://www.tmtpost.com/8144913.html",
+        "published_date": "Sat, 19 Sep 2026 09:54:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.338953"
+      },
+      "119b02ece24b3393611c064bf26a0cdecb5a7ec46a42eb4924962c0775b9e7a6": {
+        "title": "沉默的28元：罗永浩开炮，野人先生为什么不接招？",
+        "link": "https://www.tmtpost.com/8145038.html",
+        "published_date": "Sat, 19 Sep 2026 09:51:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.338954"
+      },
+      "84d19ea7601d1b4b639e5fc7618366260ee7dca4181b22ddc509fc93d467ea3d": {
+        "title": "你的脸红是什么红：了解玫瑰痤疮",
+        "link": "https://sspai.com/post/114641",
+        "published_date": "Sat, 19 Sep 2026 15:00:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.338956"
+      },
+      "332d1d29c3864e3f65b9bb5c1f665738806448ea1358f8763cb206eb176d2c59": {
+        "title": "对拿下一轮投资最有效的沟通，是「思想履约」",
+        "link": "http://www.geekpark.net/news/370611",
+        "published_date": "Sat, 19 Sep 2026 12:10:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.338957"
       }
     },
     "Finance": {
@@ -4497,6 +4641,60 @@
         "link": "https://www.marketwatch.com/story/most-of-what-you-know-about-data-centers-is-wrong-e6e8936c?mod=mw_rss_topstories",
         "published_date": "Fri, 18 Sep 2026 20:15:00 GMT",
         "first_seen": "2026-09-19T00:53:56.104880"
+      },
+      "9f1511fd3c94392cd6d577b8a5f6bc3098cb524f0d6dcc65fee5b7fb5e390ec6": {
+        "title": "AI chatbots give wrong answers to financial queries ‘most of the time’",
+        "link": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+        "published_date": "Sat, 19 Sep 2026 04:49:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.527439"
+      },
+      "f8ac79f6bad5ef1ee2b1996d48e46490b93461f23ea8bfdf5a1ad9a48ac77f69": {
+        "title": "Investors warn Anthropic could struggle to sustain revenues post-IPO",
+        "link": "https://www.ft.com/content/96d0a206-a37b-4166-b78d-b27ed24f7d57?syn-25a6b1a6=1",
+        "published_date": "Sat, 19 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.527447"
+      },
+      "62418dc3a026bacec06e5413c5304c6bf3306cc7364124e7699108f5a0ab7769": {
+        "title": "How should investors position for the robot apocalypse?",
+        "link": "https://www.ft.com/content/129a5052-ac31-4975-8a88-91ce09740a0b?syn-25a6b1a6=1",
+        "published_date": "Sat, 19 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.527449"
+      },
+      "9b04191f1f402d5ce9d29692950d31f05bb9fc83f52522177234db2787f33509": {
+        "title": "I’ve covered wine for 50 years. Here are 50 ways it changed",
+        "link": "https://www.ft.com/content/b4317f3f-ba01-4547-bf69-98628d7ebe7b",
+        "published_date": "Sat, 19 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.527451"
+      },
+      "26df350bf99543fba75c6610d8e91492ccfa02dfb3dd80ccf76c5c941c496fae": {
+        "title": "Unpacking the real fiscal costs of immigration",
+        "link": "https://www.ft.com/content/124c1cf0-4885-495c-a907-a5217d589f9d?syn-25a6b1a6=1",
+        "published_date": "Sat, 19 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.527452"
+      },
+      "0f1dad5624611aab0e6a9e4aee851b5c2655717abafcf32e15b7d02294c4ea36": {
+        "title": "The Anglo-French moment",
+        "link": "https://www.ft.com/content/b6c4501e-76fe-4559-a3c3-6ad7aa07eaa5?syn-25a6b1a6=1",
+        "published_date": "Sat, 19 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.527454"
+      },
+      "dc196f6b5cc8eb4a249bba6612ccb09e7df727bdfa8bed077f916bd1d6f08a04": {
+        "title": "US state department under pressure to disclose Venezuelan oil takings",
+        "link": "https://www.ft.com/content/05887f92-c777-48ab-8efa-9a39e7e18a9f?syn-25a6b1a6=1",
+        "published_date": "Sat, 19 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.527455"
+      },
+      "1d321f1ff82abef8a951579d15750b4b60f7e6714381bcbdce007f814d0ac18e": {
+        "title": "Australia has a secret weapon in the race for AI compute",
+        "link": "https://www.ft.com/content/9cd59652-3e31-4ad0-942f-3eb744ec7893?syn-25a6b1a6=1",
+        "published_date": "Sat, 19 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.527457"
+      },
+      "61de7567d0366441e63f3bd0b6e77144710f298a3924f4ed08af59ff6c7d91fb": {
+        "title": "Google’s Gemini hacked three companies in new AI safety incident",
+        "link": "https://www.ft.com/content/158740d1-fde7-4dbc-a282-5830c3201189?syn-25a6b1a6=1",
+        "published_date": "Sat, 19 Sep 2026 01:29:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.527458"
       }
     },
     "Ai": {
@@ -5039,13 +5237,43 @@
         "link": "https://www.qbitai.com/2026/09/492175.html",
         "published_date": "Fri, 18 Sep 2026 12:22:00 GMT",
         "first_seen": "2026-09-19T00:53:56.021796"
+      },
+      "afad67c70b45a1ac9cbc334560a8438d96574c1aa815e67c22fad7bec3cc55a1": {
+        "title": "千万奖池找“鲸锐”！单项奖金200万，只等一个最会用AI讲故事的你",
+        "link": "https://www.qbitai.com/2026/09/492501.html",
+        "published_date": "Sat, 19 Sep 2026 08:34:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.458060"
+      },
+      "77169bf6ac7ee77a9141bf7201160c9bce6344f9c1575fc7727930aa73af84a9": {
+        "title": "华为汪涛：华为要打造AI算力底座，只做好一颗芯片远远不够",
+        "link": "https://www.qbitai.com/2026/09/492476.html",
+        "published_date": "Sat, 19 Sep 2026 08:28:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.458067"
+      },
+      "518be5084bd76bf2f2beb58bc8268dedef3aeb11689bd976b5fd76b9225bab76": {
+        "title": "陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
+        "link": "https://www.qbitai.com/2026/09/492467.html",
+        "published_date": "Sat, 19 Sep 2026 06:44:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.458070"
+      },
+      "bf44323d0f01fb6c01371a7aa45c82c57c7370cac27e738fcc43a9fae8b78b1b": {
+        "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
+        "link": "https://www.qbitai.com/2026/09/492429.html",
+        "published_date": "Sat, 19 Sep 2026 06:39:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.458071"
+      },
+      "a0d927b361b8bdccc9c6e7bf4556ff249089072d577191b2c508496d4967e456": {
+        "title": "2026-09-19日刊",
+        "link": "https://hex2077.dev/docs/2026-09/2026-09-19/",
+        "published_date": "Sat, 19 Sep 2026 06:09:00 GMT",
+        "first_seen": "2026-09-19T09:08:58.458073"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-19T00:53:55.909030",
-    "Finance": "2026-09-19T00:53:56.104882",
-    "Ai": "2026-09-19T00:53:56.021798"
+    "Technology": "2026-09-19T09:08:58.338960",
+    "Finance": "2026-09-19T09:08:58.527460",
+    "Ai": "2026-09-19T09:08:58.458075"
   }
 }
