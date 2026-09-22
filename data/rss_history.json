@@ -3775,6 +3775,102 @@
         "link": "http://www.geekpark.net/news/370681",
         "published_date": "Mon, 21 Sep 2026 09:01:00 GMT",
         "first_seen": "2026-09-21T10:22:18.579228"
+      },
+      "f808f4f18331e8a2df7d0cb721bf1f3104f523f01b94cfab640b4ca8c0147b19": {
+        "title": "Rustls 十周年：发展历程、基准测试与未来路线图",
+        "link": "https://www.infoq.cn/article/slZSm1Qr5I1QJi0JaZjr?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 22 Sep 2026 09:06:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.054064"
+      },
+      "54291079b5b132f831499e0d8586f789aa52da8ca12460e6352c6446e260b96f": {
+        "title": "MiniMax H3 开源后，本地 AIGC 走到了哪里？",
+        "link": "https://www.infoq.cn/video/fJe6qRKX70UqqCEDMRTK?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 21 Sep 2026 21:31:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.054075"
+      },
+      "d634f9a459369a7fbf9cf912c121d9248c41ea95ce3746b2ac62ebf184b22668": {
+        "title": "70强项目观察之具身未来：机器人走进现实世界，关键不只是完成动作",
+        "link": "https://www.infoq.cn/article/EU5m831fwoFA6RdhcOlo?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 21 Sep 2026 18:23:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.054076"
+      },
+      "f21fc98356060e5c7c62cdd27bfcd28449d2b297ad3a060985a058d1a3dd1830": {
+        "title": "70强项目观察之前沿探索：AI进入科学发现，答案之外还要验证什么",
+        "link": "https://www.infoq.cn/article/ihH1ltOG7d2YCelYKJYe?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 21 Sep 2026 18:21:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.054078"
+      },
+      "ee73bb17a103427f676c5e0897f7a84f50d32fa59842c137d5bd8a783915bdf0": {
+        "title": "70强项目观察之无界应用：AI应用正在从“有功能”走向“能完成任务”",
+        "link": "https://www.infoq.cn/article/te2qjg2J6Ausgc6vAeNy?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 21 Sep 2026 18:18:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.054079"
+      },
+      "59da8be799d03b84f5da00e938749aeed447daeac47cca24c6762aa857c1c8ae": {
+        "title": "70强项目观察之新智基座：Agent正在从“会聊”走向“会干活”",
+        "link": "https://www.infoq.cn/article/G58AHJw8gT8CQuiq5sap?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 21 Sep 2026 18:15:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.054080"
+      },
+      "624a04bec2f8c455686d84f1d2342a167c492fd836e4f3e2efeaa6b0d566cec4": {
+        "title": "黄仁勋：AI 时代，企业应该尽可能多付薪酬；宇树科技发布 Dex5-S 灵巧手；OpenAI 新模型 24 天解决 100+ 世界级数学难题 | 极客早知道",
+        "link": "http://www.geekpark.net/news/370768",
+        "published_date": "Tue, 22 Sep 2026 08:42:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.054081"
+      },
+      "1f3346cccf4a7215ec71773072384291809748391c24aad28038c7f3895cc682": {
+        "title": "零跑的新目标：从「小米」成为「苹果」",
+        "link": "http://www.geekpark.net/news/370765",
+        "published_date": "Mon, 21 Sep 2026 23:11:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.054082"
+      },
+      "6e6d5fcfad0a15bb885b49213577b00337608ba42a685ae19c9707966a0555db": {
+        "title": "Jev，让全球程序员玩疯了",
+        "link": "http://www.geekpark.net/news/370758",
+        "published_date": "Mon, 21 Sep 2026 19:02:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.054083"
+      },
+      "5e4858cd7d7a20c828f1839fdb04bd1664f0cad1d59c3862eb26559c41fec75e": {
+        "title": "把未来做成基础设施｜亚马逊 CTO Dr.Werner Vogels 与云计算 20 年",
+        "link": "http://www.geekpark.net/news/370759",
+        "published_date": "Mon, 21 Sep 2026 19:00:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.054084"
+      },
+      "1f76dbaee10a7f898ac14ab14609c7d79d55c3435d6268f325faded2463e0f66": {
+        "title": "派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等",
+        "link": "https://sspai.com/post/114840",
+        "published_date": "Tue, 22 Sep 2026 08:09:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.054086"
+      },
+      "91d75ef4c85c83d2e3314095a7afa7d9084ae7b362621f69609c23b1a86f5ad9": {
+        "title": "一台主机，多重角色：新款 Mac mini 首发体验",
+        "link": "https://sspai.com/post/114829",
+        "published_date": "Mon, 21 Sep 2026 21:02:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.054087"
+      },
+      "24f45ab363876d8032c1f94fa5793bf0228f3ce9c1b2564e7691e8bf693b17ed": {
+        "title": "派评 | 近期值得关注的 App",
+        "link": "https://sspai.com/post/114815",
+        "published_date": "Mon, 21 Sep 2026 17:57:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.054088"
+      },
+      "6045b2cb228c8363e939126b660385e13d40bccce1fbaf5bf3f3e9fd28ae0a54": {
+        "title": "【钛晨报】中国央行召开外资金融机构座谈会，潘功胜最新发声；沈鼓集团大幅波动，上交所再次通报；AUDI遭德国总部拒绝？奥迪中国、上汽奥迪接连发声",
+        "link": "https://www.tmtpost.com/8148014.html",
+        "published_date": "Tue, 22 Sep 2026 07:20:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.054089"
+      },
+      "12af41713a51a53feb2c8f0bd10d15721a8b8dc0406cb3ebe85947f6b45637dc": {
+        "title": "安德利跨界并购：7.93亿现金接盘“失意标的”，三月两收监管函隐现风险丨并购一线",
+        "link": "https://www.tmtpost.com/8147943.html",
+        "published_date": "Mon, 21 Sep 2026 20:31:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.054090"
+      },
+      "f555e8d95b8de98340898730d8613da394b050105dfa467efea2ec0778275aec": {
+        "title": "对话芯展速李蓁：内存墙下，存储不再是算力的附属品",
+        "link": "https://www.tmtpost.com/8147817.html",
+        "published_date": "Mon, 21 Sep 2026 20:30:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.054091"
       }
     },
     "Finance": {
@@ -5595,6 +5691,108 @@
         "link": "https://www.ft.com/content/df52a49a-ab6a-4997-a609-169e830a26fa?syn-25a6b1a6=1",
         "published_date": "Mon, 21 Sep 2026 03:00:00 GMT",
         "first_seen": "2026-09-21T10:22:18.804198"
+      },
+      "8c42a012ca4e08ae579eae2d2cae3a925057547930da62be2bceb3dafdaf64c0": {
+        "title": "SoftBank’s $50bn data centre group slows IPO",
+        "link": "https://www.ft.com/content/4a80f076-d1bb-4492-a854-0833d981d5f4?syn-25a6b1a6=1",
+        "published_date": "Mon, 21 Sep 2026 23:51:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.187570"
+      },
+      "8774c0e268cdc2e0ad189c9ab506aa8b0f1c01628f1da773dd978275129bf00f": {
+        "title": "Trump and Mamdani strike friendly tone in New York City housing talks",
+        "link": "https://www.ft.com/content/68d4f774-fbcb-48b3-9cd2-00b281d1beb6",
+        "published_date": "Mon, 21 Sep 2026 23:45:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.187579"
+      },
+      "5a3b42af8a62d56d23c4e44338d6c1a75c43e3ccd40cdf4b51f7efad12af4c2c": {
+        "title": "‘Stop the bleeding’: Republicans tell Trump to ban US diesel exports",
+        "link": "https://www.ft.com/content/319c7b67-b585-407e-a0da-6e23b1612180?syn-25a6b1a6=1",
+        "published_date": "Mon, 21 Sep 2026 23:28:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.187580"
+      },
+      "e32b7b60da7d566da386d6b2a0788ceb9b6dfb9f826b6145d8a47799f7c4698a": {
+        "title": "Gulf states urge reset with Iran as conflict drags on",
+        "link": "https://www.ft.com/content/2a0d724d-b2be-4539-a4ab-30ba919cd253?syn-25a6b1a6=1",
+        "published_date": "Mon, 21 Sep 2026 21:15:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.187581"
+      },
+      "32b6b3f8764594111241c07a98ce96546bd41108c1645f257fba8fd79b63fe9a": {
+        "title": "Meta leads tech rally as oil prices fall",
+        "link": "https://www.ft.com/content/18f9e0ac-b7d9-4648-803f-3e894990c626?syn-25a6b1a6=1",
+        "published_date": "Mon, 21 Sep 2026 20:43:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.187582"
+      },
+      "05dd87be293f91149a7180cddc5a2bebcb84c171376aaeecb4cadd4e83eadd26": {
+        "title": "Kremlin-backed forgery scheme moved $6.9bn through global banks",
+        "link": "https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1?syn-25a6b1a6=1",
+        "published_date": "Mon, 21 Sep 2026 20:00:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.187583"
+      },
+      "52711c54d0e63d544e0e17d438ff384c9f83b3491fb0e4b16f6e89d0e9ba4c17": {
+        "title": "OpenAI joins call for US-led global AI standards",
+        "link": "https://www.ft.com/content/4e502288-b611-4193-acdb-46ef34b1e3b0?syn-25a6b1a6=1",
+        "published_date": "Mon, 21 Sep 2026 17:24:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.187584"
+      },
+      "e200faddd1f90c12b3ae0449cbb660162d98e90bfb803ee52c364c830242198c": {
+        "title": "Trump and Xi are the wrong men at the wrong time",
+        "link": "https://www.ft.com/content/aa1dbf18-eaa3-411a-9bf0-52c99adcb7a8?syn-25a6b1a6=1",
+        "published_date": "Mon, 21 Sep 2026 11:59:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.187585"
+      },
+      "01b0233f1314fa946307d411a16ed75acea9eb266d1671f59a5321dfe1a29820": {
+        "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
+        "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
+        "published_date": "Mon, 21 Sep 2026 22:01:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.187586"
+      },
+      "e08f5677ac57cb9d9bed46c2869801af121e1b638459222f2b83d4c8daa0c1e8": {
+        "title": "AT&T’s stock looks like the smartest bet in the wireless sector, analyst says",
+        "link": "https://www.marketwatch.com/story/at-ts-stock-looks-like-the-smartest-bet-in-the-wireless-sector-analyst-says-6e773d63?mod=mw_rss_topstories",
+        "published_date": "Mon, 21 Sep 2026 21:57:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.187587"
+      },
+      "1dae7de1d9103c061851f804b13629095a9fd5db2fe6773f1185a2dc22f481b8": {
+        "title": "Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now",
+        "link": "https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5?mod=mw_rss_topstories",
+        "published_date": "Mon, 21 Sep 2026 21:47:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.187588"
+      },
+      "68d2c1d51ae082f9c6481d0c741c3122f4fb3f68f4dd796186686ab090a9f32b": {
+        "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+        "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+        "published_date": "Mon, 21 Sep 2026 21:30:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.187589"
+      },
+      "cf4676fa7fffe37ab802e6f0207f58441113c93593d6fc20ae9c99fdda2e24ad": {
+        "title": "As the S&P 500 nears a new record high, there are signs of weakness below the surface",
+        "link": "https://www.marketwatch.com/story/as-the-s-p-500-nears-a-new-record-high-there-are-cracks-below-the-surface-6df3e90d?mod=mw_rss_topstories",
+        "published_date": "Mon, 21 Sep 2026 21:17:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.187590"
+      },
+      "20efaa1a2dac7162c1acbeedcdfb6cd0434e151c68b03db937a68feebc24d3af": {
+        "title": "These beaten-down stocks could bounce back in January, if history is any guide",
+        "link": "https://www.marketwatch.com/story/these-beaten-down-stocks-could-bounce-back-in-january-if-history-is-any-guide-865a3f6b?mod=mw_rss_topstories",
+        "published_date": "Mon, 21 Sep 2026 21:06:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.187591"
+      },
+      "1ca0d1a12cf6fefa67a9922020f611a29e59f460fe58897ee3e96e447a95d30d": {
+        "title": "Novo Nordisk’s stock tumbles as doubts persist about Ozempic maker’s strategy",
+        "link": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
+        "published_date": "Mon, 21 Sep 2026 20:23:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.187592"
+      },
+      "3ff0cc570cab9c9c0857cd6f53c64a18fac9a31af1c7afe34fed0387ac58f735": {
+        "title": "Amazon and Shopify make starkly different moves in the brewing battle over AI shopping",
+        "link": "https://www.marketwatch.com/story/amazon-and-shopify-make-starkly-different-moves-in-the-brewing-battle-over-ai-shopping-4e00618b?mod=mw_rss_topstories",
+        "published_date": "Mon, 21 Sep 2026 20:22:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.187593"
+      },
+      "5b3ee96d09646938023f3dc31c904e03d0eef8c1839485ef97c68f9e058d774a": {
+        "title": "AMD hits a major milestone as AI stocks blaze higher",
+        "link": "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df?mod=mw_rss_topstories",
+        "published_date": "Mon, 21 Sep 2026 20:19:00 GMT",
+        "first_seen": "2026-09-22T01:28:05.187594"
       }
     },
     "Ai": {
@@ -6310,8 +6508,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-21T10:22:18.579231",
-    "Finance": "2026-09-21T10:22:18.804200",
+    "Technology": "2026-09-22T01:28:05.054092",
+    "Finance": "2026-09-22T01:28:05.187595",
     "Ai": "2026-09-21T10:22:18.717081"
   }
 }
