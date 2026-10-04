@@ -1,7 +1,54 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-04 02:20
+**最后更新时间**: 2026-10-04 10:52
+
+---
+
+## 🆕 最新更新 (2026-10-04 10:52)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Java新闻汇总：新的OpenJDK JEP、CDI 5.0、Spring、Open Liberty、RefactorFirst和ADK for Kotlin](https://www.infoq.cn/article/KXmob0H9RXKmJxIlcAaA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-04 18:39
+
+#### [Java新闻汇总：GraalVM、Jakarta Data、JNoSQL、Azul Payara、WildFly、Quarkus和Atmosphere](https://www.infoq.cn/article/TeFTUfEJdS3CqbpUQ97k?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-04 17:33
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [当AI开始制造AI](https://www.tmtpost.com/8158979.html)
+**发布时间**: 2026-10-04 16:38
+
+#### [RSI再创奇迹！StartLux推出开源决策模型StartLux-Decision，38项基准中31项高于Jev](https://www.tmtpost.com/8158976.html)
+**发布时间**: 2026-10-04 16:32
+
+#### [人山人海，为何没换来盆满钵满？](https://www.tmtpost.com/8158922.html)
+**发布时间**: 2026-10-04 16:22
+
+#### [无人机已经是优等生，机器人为什么还要载人](https://www.tmtpost.com/8158866.html)
+**发布时间**: 2026-10-04 11:50
+
+#### [中国等不来Muse](https://www.tmtpost.com/8158821.html)
+**发布时间**: 2026-10-04 11:19
+
+#### [女掌门人带队，3年吸金21亿，河南爆火景区要IPO了](https://www.tmtpost.com/8158804.html)
+**发布时间**: 2026-10-04 11:19
+
+#### [【数智周报】中国大模型首次进入OpenAI企业付费结算体系；AMD斥资82亿美元收购李飞飞世界模型公司；Anthropic上市文件披露对亚马逊、谷歌依赖加深，2025年营收近46亿美元……](https://www.tmtpost.com/8158700.html)
+**发布时间**: 2026-10-04 11:16
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验](https://sspai.com/post/115308)
+**发布时间**: 2026-10-04 15:58
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [点头、抢话、会脸红，一半人分辨不出这是位「AI 小姐姐」](http://www.geekpark.net/news/372075)
+**发布时间**: 2026-10-04 13:27
+
+#### [Claude Code 的「乐高」模式，让程序员彻底玩「上头」了](http://www.geekpark.net/news/372074)
+**发布时间**: 2026-10-04 13:16
 
 ---
 
