@@ -6913,6 +6913,66 @@
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247537550&idx=1&sn=29715a80ebde4036ab57651905d6bc3f",
         "published_date": "Mon, 05 Oct 2026 10:13:00 GMT",
         "first_seen": "2026-10-05T12:00:33.232929"
+      },
+      "b580eef5f0e5d155fd95bb4c782be698cddc6ca7500c1bf29c3bf4d2414a5532": {
+        "title": "AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+        "link": "https://www.infoq.cn/article/u70P77XPmsXmRBciu6fL?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Oct 2026 10:00:00 GMT",
+        "first_seen": "2026-10-06T02:39:58.132077"
+      },
+      "93cb9db05b176906a34383d4efbf4f9a961dc1d922429854a479e8a1dfc817eb": {
+        "title": "一边是 WebGPU 视觉革命，一边是浏览器垄断争议：Canvas UI 发布 35 个组件",
+        "link": "https://www.infoq.cn/article/6jvNkzZCm5mjr22zr04D?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Oct 2026 10:00:00 GMT",
+        "first_seen": "2026-10-06T02:39:58.132088"
+      },
+      "a053eaaca10d782b14314d80736614f9c6ed62ccd195bf1b8cccfb4b2cb4c15a": {
+        "title": "7300亿美元押注之后，市场开始追问AI的回报",
+        "link": "https://www.tmtpost.com/8159557.html",
+        "published_date": "Tue, 06 Oct 2026 09:31:00 GMT",
+        "first_seen": "2026-10-06T02:39:58.132091"
+      },
+      "248689c0716d1918980e525c3d6cc49106d4f85ec7a36a4341f6c1c9a259c3d1": {
+        "title": "品牌资产贬值后，钟薛高、统一、香飘飘给出了三种答案",
+        "link": "https://www.tmtpost.com/8159704.html",
+        "published_date": "Tue, 06 Oct 2026 09:12:00 GMT",
+        "first_seen": "2026-10-06T02:39:58.132093"
+      },
+      "5542881869bbf408af69b0ac7e32815128bad393e978134c973abd932d5ddd6e": {
+        "title": "磁流变悬架大规模上车，15万级车型也掀起底盘军备赛",
+        "link": "https://www.tmtpost.com/8159675.html",
+        "published_date": "Tue, 06 Oct 2026 09:05:00 GMT",
+        "first_seen": "2026-10-06T02:39:58.132095"
+      },
+      "87c67cf44c98595cf717f603dc0c29a6555606f30a404529e25a8cf7b7506992": {
+        "title": "35小时工作制火遍全网：人人羡慕胖东来，可老板们为何学不会？",
+        "link": "https://www.tmtpost.com/8159687.html",
+        "published_date": "Tue, 06 Oct 2026 09:05:00 GMT",
+        "first_seen": "2026-10-06T02:39:58.132096"
+      },
+      "4c265f090f6b2abdc3ffac45cd63891ae00b28267c308ed3d769fedd7547777d": {
+        "title": "Edge AI Daily 早报（10月6日）",
+        "link": "https://www.tmtpost.com/8159773.html",
+        "published_date": "Tue, 06 Oct 2026 08:30:00 GMT",
+        "first_seen": "2026-10-06T02:39:58.132098"
+      },
+      "d7fb37895e6b10e733f39d0e57a7e151cc65b1bf8be106e8ee959d54e5c10545": {
+        "title": "半导体板块反弹，布局美光与意法半导体的逻辑",
+        "link": "https://www.tmtpost.com/8159781.html",
+        "published_date": "Tue, 06 Oct 2026 08:14:00 GMT",
+        "first_seen": "2026-10-06T02:39:58.132099"
+      },
+      "58f1334cc21edc5918dcc9bff13500c208afa952aed4ec003bc4494f2b824e4c": {
+        "title": "OpenAI 宣布「28 天计划」，持续改进 Codex、Work；TikTok 上线一系列 AI 电商功能；蓝色起源公布月球「动力塔计划」",
+        "link": "http://www.geekpark.net/news/372086",
+        "published_date": "Tue, 06 Oct 2026 09:16:00 GMT",
+        "first_seen": "2026-10-06T02:39:58.132100"
+      },
+      "5361e8fd44c93f92862afea5b958e241ffc77bd16ce89baccca516b9cbfb0e36": {
+        "title": "交付 19 天，小米澎程破万台，雷军又赢了。",
+        "link": "http://www.geekpark.net/news/372087",
+        "published_date": "Tue, 06 Oct 2026 09:15:00 GMT",
+        "first_seen": "2026-10-06T02:39:58.132102"
       }
     },
     "Finance": {
@@ -11031,6 +11091,102 @@
         "link": "https://www.ft.com/content/0293497e-e4b5-473e-be49-67d1fc005fae?syn-25a6b1a6=1",
         "published_date": "Mon, 05 Oct 2026 04:00:00 GMT",
         "first_seen": "2026-10-05T12:00:33.341915"
+      },
+      "071d82afcd7a6d191ae13ac348000eedc9dadc9cef19ccaa589f2ab0c7fceab4": {
+        "title": "Hong Kong quizzes HSBC over Singapore AI hub decision",
+        "link": "https://www.ft.com/content/1a4458ce-6317-4dce-a43e-95e724d7c33f?syn-25a6b1a6=1",
+        "published_date": "Tue, 06 Oct 2026 01:32:00 GMT",
+        "first_seen": "2026-10-06T02:39:58.250438"
+      },
+      "f9d8daafbe79f5bf7cfa2dc1611e60feff79328c7e255bf021ccdd7ffe0cc6ac": {
+        "title": "Trump says Maga Inc will pay for ads instead of taxpayers after backlash",
+        "link": "https://www.ft.com/content/ee7796ef-f6ec-433c-866d-c50f91a25694?syn-25a6b1a6=1",
+        "published_date": "Tue, 06 Oct 2026 00:54:00 GMT",
+        "first_seen": "2026-10-06T02:39:58.250446"
+      },
+      "45199541808d7840af042c97cf1bfb3f968a3296eac83850a3bc1af56613626e": {
+        "title": "Trump eases red diesel limits in attempt to quell fuel inflation",
+        "link": "https://www.ft.com/content/8a733f73-d506-49ae-9030-2bbf0987bc8d?syn-25a6b1a6=1",
+        "published_date": "Tue, 06 Oct 2026 00:46:00 GMT",
+        "first_seen": "2026-10-06T02:39:58.250448"
+      },
+      "5b5eb14c7ad1e868b9fdc5e013c1e6ba7fe4216b93a8ecdd12843998dba403f6": {
+        "title": "Wall Street banks launch record $60bn chip deal for Broadcom and Anthropic",
+        "link": "https://www.ft.com/content/5b9c8ce3-d07c-46f9-8cea-cbc4e7f8ccca?syn-25a6b1a6=1",
+        "published_date": "Mon, 05 Oct 2026 20:58:00 GMT",
+        "first_seen": "2026-10-06T02:39:58.250449"
+      },
+      "f95402564bd1ba6be4d43970aa52036df4696e5f82e7e8ad9934e32684206d2d": {
+        "title": "TotalEnergies boss hails ‘opportunities’ created by global market turmoil",
+        "link": "https://www.ft.com/content/ae67bb6f-f227-4679-949f-2e79e2dc33e2?syn-25a6b1a6=1",
+        "published_date": "Mon, 05 Oct 2026 17:33:00 GMT",
+        "first_seen": "2026-10-06T02:39:58.250451"
+      },
+      "a3ad9828fffca22249204950d8a13c2f6f79160740f38b2ceb65d334c5f480bb": {
+        "title": "French central bank head warns country at risk of being ‘strangled by interest rates’",
+        "link": "https://www.ft.com/content/74c3cc77-1593-4c49-90f9-0d92fa3a2418?syn-25a6b1a6=1",
+        "published_date": "Mon, 05 Oct 2026 16:56:00 GMT",
+        "first_seen": "2026-10-06T02:39:58.250452"
+      },
+      "cf1404abb1cf810e41bf7853e1bb677f26b34ca961132aef57d9673af8db62a7": {
+        "title": "Citi to speed up promotion path for junior bankers as hiring war heats up",
+        "link": "https://www.ft.com/content/41b567dc-50e9-4c41-95bb-e295caaf2340?syn-25a6b1a6=1",
+        "published_date": "Mon, 05 Oct 2026 15:49:00 GMT",
+        "first_seen": "2026-10-06T02:39:58.250454"
+      },
+      "d96aa6d0eaaec97e9edb955d40f299c0c8426348c8c60b25386d55c222bcace6": {
+        "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
+        "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
+        "published_date": "Mon, 05 Oct 2026 23:00:00 GMT",
+        "first_seen": "2026-10-06T02:39:58.250456"
+      },
+      "7bd5e5d113d652f0e79c5b687104ecdb2d9b0c0a7c56539da84419bb1a0f9bcc": {
+        "title": "The case for Nvidia’s stock to march even higher after clinching its first record high in months",
+        "link": "https://www.marketwatch.com/story/the-case-for-nvidias-stock-to-march-even-higher-after-clinching-its-first-record-high-in-months-2bb5a937?mod=mw_rss_topstories",
+        "published_date": "Mon, 05 Oct 2026 21:52:00 GMT",
+        "first_seen": "2026-10-06T02:39:58.250457"
+      },
+      "8d97717b54aefce7d0110dde81d1006b463f4b8ed027404bd7bc50d2d590286c": {
+        "title": "This new AI model could help America close a technological gap with China",
+        "link": "https://www.marketwatch.com/story/this-new-ai-model-could-help-america-close-a-technological-gap-with-china-c1d74492?mod=mw_rss_topstories",
+        "published_date": "Mon, 05 Oct 2026 21:43:00 GMT",
+        "first_seen": "2026-10-06T02:39:58.250459"
+      },
+      "6497d83874bcfbbac004b2057d2865f97ab7357a503d4ee41a3da0ab8d04bffd": {
+        "title": "Microsoft’s blazing stock comeback isn’t even close to being over, analyst says",
+        "link": "https://www.marketwatch.com/story/microsofts-blazing-stock-comeback-isnt-even-close-to-being-over-analyst-says-265f7b6d?mod=mw_rss_topstories",
+        "published_date": "Mon, 05 Oct 2026 21:27:00 GMT",
+        "first_seen": "2026-10-06T02:39:58.250460"
+      },
+      "1c621641397d4ec6d6b179a0c25a6c920cab5172cd6f761ce21bbfcc86a7f9df": {
+        "title": "Western Digital and Seagate shares bounce back as analysts downplay the Toshiba threat",
+        "link": "https://www.marketwatch.com/story/western-digital-and-seagate-shares-bounce-back-as-analysts-downplay-the-toshiba-threat-4979dbff?mod=mw_rss_topstories",
+        "published_date": "Mon, 05 Oct 2026 21:25:00 GMT",
+        "first_seen": "2026-10-06T02:39:58.250461"
+      },
+      "7987654eb7f0c53f49a8b90839758479b9eade91d5b0e49b436ec9f4450ae8ad": {
+        "title": "This rare stock-market divide means an elevated chance of a big surge — or a deep plunge",
+        "link": "https://www.marketwatch.com/story/this-rare-stock-market-divide-means-an-elevated-chance-of-a-big-surge-or-a-deep-plunge-cf2cb4e5?mod=mw_rss_topstories",
+        "published_date": "Mon, 05 Oct 2026 21:12:00 GMT",
+        "first_seen": "2026-10-06T02:39:58.250463"
+      },
+      "d6852aa14b53791d14f9ed6621bc6d9bd30a805b9f37aba3fca6ceceb55317c7": {
+        "title": "Trump is promising $90 Medicare rebate checks ahead of the midterms. Here’s the hidden cost.",
+        "link": "https://www.marketwatch.com/story/trump-is-promising-90-medicare-rebate-checks-ahead-of-the-midterms-heres-the-hidden-cost-14b7e2ce?mod=mw_rss_topstories",
+        "published_date": "Mon, 05 Oct 2026 20:39:00 GMT",
+        "first_seen": "2026-10-06T02:39:58.250464"
+      },
+      "8fac0b14b9f8f776762f7f0e2006816389e7c88fe6c3d5690867e8b644c83d82": {
+        "title": "Intel’s stock drops after Musk hints at an additional partner for big chip venture",
+        "link": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
+        "published_date": "Mon, 05 Oct 2026 20:30:00 GMT",
+        "first_seen": "2026-10-06T02:39:58.250466"
+      },
+      "2d9b35bd27a083dabe01c7c7d7b67d64e286dd2ebe93f5d971c1d7e3c1f96f20": {
+        "title": "Investors see big opportunity in ferocious 2026 bond-market rout",
+        "link": "https://www.marketwatch.com/story/investors-see-big-opportunity-in-ferocious-2026-bond-market-rout-e5cc94f3?mod=mw_rss_topstories",
+        "published_date": "Mon, 05 Oct 2026 20:14:00 GMT",
+        "first_seen": "2026-10-06T02:39:58.250467"
       }
     },
     "Ai": {
@@ -12299,13 +12455,19 @@
         "link": "https://hex2077.dev/docs/2026-10/2026-10-05/",
         "published_date": "Mon, 05 Oct 2026 03:22:00 GMT",
         "first_seen": "2026-10-05T12:00:33.471565"
+      },
+      "95ff89cb6ed2b9254d2e7ac59e28aeaefd8a797f1295642a483a01f83d7405bb": {
+        "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
+        "link": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
+        "published_date": "Mon, 05 Oct 2026 21:08:00 GMT",
+        "first_seen": "2026-10-06T02:39:58.374578"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-05T12:00:33.232931",
-    "Finance": "2026-10-05T12:00:33.341918",
-    "Ai": "2026-10-05T12:00:33.471567"
+    "Technology": "2026-10-06T02:39:58.132104",
+    "Finance": "2026-10-06T02:39:58.250469",
+    "Ai": "2026-10-06T02:39:58.374586"
   }
 }
