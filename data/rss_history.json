@@ -7219,6 +7219,78 @@
         "link": "https://sspai.com/post/114845",
         "published_date": "Wed, 07 Oct 2026 11:00:00 GMT",
         "first_seen": "2026-10-07T11:29:54.460716"
+      },
+      "514a8a98f557c4d079b028503a3346d291a09b13373b92952d0a23fad2e0f6c5": {
+        "title": "从 Rollout 到权重同步：Mooncake 如何支撑高性能强化学习系统｜QCon上海",
+        "link": "https://www.infoq.cn/article/akexM07HzNrRJzmjYNml?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 08 Oct 2026 10:00:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.099459"
+      },
+      "cb6b8ffee3e78765859ebe19c0c0011676a7fbbc29a898f37d831388b178a0f8": {
+        "title": "两名工程师、两个月、4 万行 Rust：DynamoDB 太贵又慢，Perplexity 决定自己造",
+        "link": "https://www.infoq.cn/article/4AMw7Bt3UHqw48qmQTpS?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 08 Oct 2026 10:00:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.099471"
+      },
+      "f275b0b1a207429f018e41cd5e2f770e270537ad0a81d3b16688b739dc5a332b": {
+        "title": "代码交给AI，心流却回来了：Codex负责人不再怀念手写时代",
+        "link": "https://www.infoq.cn/article/rLaX4DEMuRxqW135ZSSC?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 08 Oct 2026 09:35:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.099473"
+      },
+      "c6f1f015be62ab85c198c47b3e9d33b4f51690dd4335754e3765c625a1ce059d": {
+        "title": "GPT-6全球上线、Claude Haiku 5.5降价，这个假期AI圈也没停",
+        "link": "https://www.tmtpost.com/8160689.html",
+        "published_date": "Thu, 08 Oct 2026 09:51:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.099475"
+      },
+      "217dad8f5344535906e46dca7253166646ff7575c0670d9e5f7c10f8e2c9c34b": {
+        "title": "国庆每天3亿人出游，旅行社却撑不住了",
+        "link": "https://www.tmtpost.com/8160517.html",
+        "published_date": "Thu, 08 Oct 2026 09:40:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.099477"
+      },
+      "077abc758b36813a7010c63e33fd2570c8cdabc6a1955df29b0a0d02019d25ed": {
+        "title": "Haiku 5.5发布，Anthropic开始撒钱",
+        "link": "https://www.tmtpost.com/8160574.html",
+        "published_date": "Thu, 08 Oct 2026 09:29:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.099478"
+      },
+      "bc0d6c0d9527748c022be79fad71b1f93a6fa5639a733b6c808ba72bcaf80189": {
+        "title": "Edge AI Daily 早报（10月8日）",
+        "link": "https://www.tmtpost.com/8160561.html",
+        "published_date": "Thu, 08 Oct 2026 08:34:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.099480"
+      },
+      "5de0f728952a3499e050666448cee50cea03f78a24b4bc60b2ab50939b79c18c": {
+        "title": "【钛晨报】推动体育赛事发展，国务院办公厅最新部署；SpaceX拟募资400亿美元采购英伟达芯片；中国央行连续第23个月增持黄金",
+        "link": "https://www.tmtpost.com/8160058.html",
+        "published_date": "Thu, 08 Oct 2026 07:20:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.099481"
+      },
+      "b17fae353d829f7b3020d3d7c4038227aa1bae2b822f088fe183ffefd5dc8df4": {
+        "title": "腾讯四次出手短剧皆未果，微信“绿泡泡”这次能成吗？",
+        "link": "https://www.tmtpost.com/8160336.html",
+        "published_date": "Wed, 07 Oct 2026 20:24:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.099482"
+      },
+      "1d5c683878fcad5c75811cbc5dfea476ade574d1c94d917cb625abff05e71d67": {
+        "title": "造物 100#07   | 给硬盘养个图书馆员、指纹钥匙给 AI 上锁、AI 对讲机住着科幻宇宙",
+        "link": "http://www.geekpark.net/news/372099",
+        "published_date": "Thu, 08 Oct 2026 09:40:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.099483"
+      },
+      "6efcde4535ec7bde5902750a8480fd001a95206e09a77d2a49723f24a1d056db": {
+        "title": "ChatGPT 推出全新 IUI 智能用户界面；谷歌推出试验性 AI 游戏平台 Playground；苹果被曝联合 LG 开发门锁、摄像头等智能家居配件｜极客早知道",
+        "link": "http://www.geekpark.net/news/372090",
+        "published_date": "Thu, 08 Oct 2026 08:49:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.099484"
+      },
+      "a4c8dd4d127d18cecb7cf07316f5d2eadd786bc1f52e3ac4badd5c5ceb48a217": {
+        "title": "派早报：微软发布 Windows 相关新品、Google AI 新闻两则等",
+        "link": "https://sspai.com/post/115455",
+        "published_date": "Thu, 08 Oct 2026 08:16:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.099485"
       }
     },
     "Finance": {
@@ -11721,6 +11793,102 @@
         "link": "https://www.ft.com/content/f31baf40-a753-4cca-86e1-1373f08d99e2?syn-25a6b1a6=1",
         "published_date": "Wed, 07 Oct 2026 02:27:00 GMT",
         "first_seen": "2026-10-07T11:29:54.560367"
+      },
+      "6dd67b923464a5ca2f60d2212171c281a352637e9f05cbb6f1c2394352b5f9a6": {
+        "title": "Samsung profit surges ninefold to $80bn on AI chip demand",
+        "link": "https://www.ft.com/content/8943785b-0919-4a49-8ab5-48e4a35a6e00?syn-25a6b1a6=1",
+        "published_date": "Thu, 08 Oct 2026 01:50:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.180444"
+      },
+      "ee50ad7c7cc622851c8d00e48942a23ec8cc7ecc62bb345774920e6eb644440d": {
+        "title": "China races to build AI data centres across energy-rich hinterland",
+        "link": "https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e?syn-25a6b1a6=1",
+        "published_date": "Thu, 08 Oct 2026 00:15:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.180451"
+      },
+      "4cdc90364b205fb02dddb28384470501049ba3ce1da9d7432e927c9a1b78b312": {
+        "title": "Trump considers ‘terminating’ campaign advisers after Balkans trip",
+        "link": "https://www.ft.com/content/ea58254a-947e-4e87-86d2-95ffbd8a1c9d?syn-25a6b1a6=1",
+        "published_date": "Wed, 07 Oct 2026 21:24:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.180453"
+      },
+      "6c16dd4ff830a0dea58691720468298b47c83c0a454da7dbeb32127bea2391f4": {
+        "title": "US government bonds steady after strong 10-year Treasury auction",
+        "link": "https://www.ft.com/content/33c67aa0-bfdb-457b-84bb-960b4fed94b6?syn-25a6b1a6=1",
+        "published_date": "Wed, 07 Oct 2026 19:58:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.180455"
+      },
+      "5baf99451ddde6be8c2e5474121ebdba3ca85105a4c880a0041ec0a06095ca59": {
+        "title": "The online life of the Flydubai attacker",
+        "link": "https://www.ft.com/content/a92b9971-b32d-43f5-b078-a31beea62621?syn-25a6b1a6=1",
+        "published_date": "Wed, 07 Oct 2026 18:18:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.180456"
+      },
+      "6271835a89826c6ea9374514ecf8576dc7a9ab56e73a9cf7c168d55d0003bd81": {
+        "title": "SpaceX credit risk jumps on worries over its borrowing spree",
+        "link": "https://www.ft.com/content/4f2417d3-3de6-4f62-bd3a-8c8f740a4b29?syn-25a6b1a6=1",
+        "published_date": "Wed, 07 Oct 2026 18:05:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.180457"
+      },
+      "f1c476647922b081e0ba32e2cf6cb38bd138c165c0cacb2314951fddcce0561f": {
+        "title": "China slaps down EU request for voluntary curbs on hybrid car exports",
+        "link": "https://www.ft.com/content/32e1c801-fe7d-4389-b3fc-ab687cbb087b?syn-25a6b1a6=1",
+        "published_date": "Wed, 07 Oct 2026 16:56:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.180458"
+      },
+      "124fd8380c4098615860616f796b75f84b56c9b6f29c543c80fe854548ce6610": {
+        "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who’s right?",
+        "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+        "published_date": "Thu, 08 Oct 2026 01:45:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.180459"
+      },
+      "15449c3544f9e856634b6e2b0d9cae71e8f9374d3b94262f5db9e8ed2ce18a6c": {
+        "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
+        "link": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
+        "published_date": "Wed, 07 Oct 2026 22:32:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.180461"
+      },
+      "6a74cbc615c7d207d307b5dae3c2a499c6c83da135baf6c7a45439acc26ad192": {
+        "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
+        "link": "https://www.marketwatch.com/story/higher-yields-are-taking-their-toll-on-all-areas-of-the-stock-market-except-the-one-that-matters-69a90322?mod=mw_rss_topstories",
+        "published_date": "Wed, 07 Oct 2026 20:58:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.180462"
+      },
+      "f4542d0a19e895f41b7459ee83998ebf4d528cb01ccedb64f877664f68155e3e": {
+        "title": "Options traders are betting on a dramatic drop in interest rates",
+        "link": "https://www.marketwatch.com/story/options-traders-are-betting-on-a-dramatic-drop-in-interest-rates-141066fb?mod=mw_rss_topstories",
+        "published_date": "Wed, 07 Oct 2026 20:36:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.180463"
+      },
+      "73e3446974dfcefa1ff4b64313924b5c0820ee0bb87ea8e887878ebb53bfc684": {
+        "title": "Fed’s minutes show no appetite for a series of interest-rate hikes",
+        "link": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
+        "published_date": "Wed, 07 Oct 2026 19:35:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.180464"
+      },
+      "5214e8a56c09d0da18d9d96c4d2ec4f3a1e61c0eeb246c158ace28e8a3e4e5de": {
+        "title": "Microsoft and Nvidia are teaming up on a supercharged AI laptop",
+        "link": "https://www.marketwatch.com/story/microsoft-and-nvidia-are-teaming-up-on-a-supercharged-ai-laptop-f58b28d8?mod=mw_rss_topstories",
+        "published_date": "Wed, 07 Oct 2026 19:12:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.180465"
+      },
+      "96c742e7695cc55c487680f43e72e88afe40444eb8a4ea2ab1f963a0fbfd7210": {
+        "title": "Stocks are increasingly their own best hedge. This chart shows why.",
+        "link": "https://www.marketwatch.com/story/stocks-are-increasingly-their-own-best-hedge-this-chart-shows-why-19a79b68?mod=mw_rss_topstories",
+        "published_date": "Wed, 07 Oct 2026 18:31:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.180466"
+      },
+      "eb24382103d600edb174af86ea08390c620bf10abfa736321ecb0843bcbe17ab": {
+        "title": "SpaceX may chase ‘stunning’ AI returns by taking on a lot of debt to buy Nvidia chips",
+        "link": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
+        "published_date": "Wed, 07 Oct 2026 18:22:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.180468"
+      },
+      "fa37fc8fbd4f2e929b9cc7327f75cc2900ac330bda26ef079e28f0d4e5bab408": {
+        "title": "Washington and Wall Street chose to delay paying their bills — and to put them on your tab",
+        "link": "https://www.marketwatch.com/story/washington-and-wall-street-chose-to-delay-paying-their-bills-and-to-put-them-on-your-tab-2eba83aa?mod=mw_rss_topstories",
+        "published_date": "Wed, 07 Oct 2026 17:36:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.180469"
       }
     },
     "Ai": {
@@ -13031,13 +13199,43 @@
         "link": "https://hex2077.dev/docs/2026-10/2026-10-07/",
         "published_date": "Wed, 07 Oct 2026 04:29:00 GMT",
         "first_seen": "2026-10-07T11:29:54.684360"
+      },
+      "9b8e9aa62ed0aa76af335be678502d04e85953474e9232b9f5e51ac9620317ac": {
+        "title": "GPT-6今起免费用！拒答变少，话变多了",
+        "link": "https://www.qbitai.com/2026/10/501834.html",
+        "published_date": "Thu, 08 Oct 2026 01:07:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.285912"
+      },
+      "4a0bb46cf7393959ecba07e0b4a89f26e80390ec9b77de218ee5a03d6d849b00": {
+        "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+        "link": "https://www.qbitai.com/2026/10/501832.html",
+        "published_date": "Thu, 08 Oct 2026 01:04:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.285919"
+      },
+      "9526d7a137bf7f7d57896adcb3270068e78616c03eb8a16304fc95230df6c117": {
+        "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
+        "link": "https://www.qbitai.com/2026/10/501825.html",
+        "published_date": "Wed, 07 Oct 2026 14:10:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.285921"
+      },
+      "8cf7762c38eeda673d0cf11311a453cd2ed79fad33b6588334b7dca933eaaf2c": {
+        "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+        "link": "https://www.qbitai.com/2026/10/501803.html",
+        "published_date": "Wed, 07 Oct 2026 11:34:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.285922"
+      },
+      "1c6d87250d51bb5e71dd772b648471a2f2b770344c75f3bf02a0592ed53868f9": {
+        "title": "Does better work always mean better workers?",
+        "link": "https://research.google/blog/does-better-work-always-mean-better-workers/",
+        "published_date": "Wed, 07 Oct 2026 20:19:00 GMT",
+        "first_seen": "2026-10-08T02:25:31.285923"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-07T11:29:54.460718",
-    "Finance": "2026-10-07T11:29:54.560369",
-    "Ai": "2026-10-07T11:29:54.684362"
+    "Technology": "2026-10-08T02:25:31.099488",
+    "Finance": "2026-10-08T02:25:31.180471",
+    "Ai": "2026-10-08T02:25:31.285925"
   }
 }
